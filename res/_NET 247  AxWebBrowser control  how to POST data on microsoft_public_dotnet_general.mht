@@ -1,0 +1,1263 @@
+From: <Saved by Microsoft Internet Explorer 5>
+Subject: .NET 247 : AxWebBrowser control : how to POST data? on microsoft.public.dotnet.general
+Date: Tue, 25 May 2004 11:42:27 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_01C4424D.5ACDAC80";
+	type="text/html"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C4424D.5ACDAC80
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.dotnet247.com/247reference/msgs/40/201296.aspx
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>.NET 247 : AxWebBrowser control : how to POST data? =
+on microsoft.public.dotnet.general</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dutf-8"><LINK=20
+href=3D"http://www.dotnet247.com/247reference//DotNet247.css" =
+type=3Dtext/css=20
+rel=3Dstylesheet>
+<META content=3D"MSHTML 6.00.2800.1400" name=3DGENERATOR></HEAD>
+<BODY leftMargin=3D0 topMargin=3D0 margintop=3D"0" marginleft=3D"0">
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+  <TBODY>
+  <TR>
+    <TD bgColor=3D#dfff0c>
+      <TABLE cellSpacing=3D0 cellPadding=3D10 width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD><A=20
+            =
+href=3D"http://www.dotnet247.com/247reference/default.aspx"><IMG=20
+            height=3D54 =
+src=3D"http://www.dotnet247.com/247reference/i/l.gif"=20
+            width=3D182 border=3D0></A>
+          <TD align=3Dright><!-- no ad found 'Top' =
+--></TD></TR></TBODY></TABLE></TD></TR>
+  <FORM action=3Dhttp://www.google.com/custom method=3Dget><INPUT =
+type=3Dhidden=20
+  =
+value=3DLW:467;L:http://www.dotnet247.com/247reference/i/glogo.gif;LH:67;=
+AH:center;S:http://www.winfx247.com/;AWFID:426d281d076c3050;=20
+  name=3Dcof><INPUT type=3Dhidden value=3Dwww.dotnet247.com =
+name=3Dsitesearch><INPUT=20
+  type=3Dhidden value=3D"Google Search" name=3Dsa><INPUT type=3Dhidden=20
+  value=3Dwww.dotnet247.com;www.winfx247.com;www.adminlife.com =
+name=3Ddomains>
+  <TR>
+    <TD class=3Dnavbar height=3D3></TD></TR>
+  <TR>
+    <TD class=3Dnavbar>
+      <TABLE cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dnavbar>&nbsp;&nbsp;Search: <INPUT class=3Dsearch =
+name=3Dq=20
+            length=3D"64">&nbsp;<INPUT class=3Dsearch type=3Dsubmit =
+value=3DGo></TD>
+          <TD>
+            <TABLE style=3D"BORDER-COLLAPSE: collapse" cellSpacing=3D0 =
+cellPadding=3D0=20
+            border=3D0>
+              <TBODY>
+              <TR class=3Dnavbar>
+                <TD class=3Dnavbar><IMG height=3D13=20
+                  src=3D"http://www.dotnet247.com/247reference/i/d.gif"=20
+                width=3D23></TD>
+                <TD class=3Dnavbar><A=20
+                  =
+href=3D"http://www.dotnet247.com/247reference/namespaces.aspx"><FONT=20
+                  class=3Dnavlink>Namespaces</FONT></A></TD>
+                <TD class=3Dnavbar><IMG height=3D13=20
+                  src=3D"http://www.dotnet247.com/247reference/i/d.gif"=20
+                width=3D23></TD>
+                <TD class=3Dnavbar><A=20
+                  =
+href=3D"http://www.dotnet247.com/247reference/msgs.aspx"><FONT=20
+                  class=3Dnavlink>Discussions</FONT></A></TD>
+                <TD class=3Dnavbar><IMG height=3D13=20
+                  src=3D"http://www.dotnet247.com/247reference/i/d.gif"=20
+                width=3D23></TD>
+                <TD class=3Dnavbar><A=20
+                  =
+href=3D"http://www.dotnet247.com/247reference/__library/fx/1.1.4322.0"><F=
+ONT=20
+                  class=3Dnavlink>.NET v1.1</FONT></A></TD>
+                <TD class=3Dnavbar><IMG height=3D13=20
+                  src=3D"http://www.dotnet247.com/247reference/i/d.gif"=20
+                width=3D23></TD>
+                <TD class=3Dnavbar><A=20
+                  =
+href=3D"http://www.dotnet247.com/247reference/contact.aspx"><FONT=20
+                  class=3Dnavlink>Feedback</FONT></A></TD>
+                <TD class=3Dnavbar><IMG height=3D13=20
+                  src=3D"http://www.dotnet247.com/247reference/i/d.gif"=20
+                width=3D23></TD>
+                <TD class=3Dnavbar><A=20
+                  href=3D"http://www.dotnet247.com/blogs/mattr/"><FONT=20
+                  class=3Dnavlink>Matt's=20
+        =
+Blog</FONT></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD><=
+/TR>
+  <TR>
+    <TD class=3Dnavbar height=3D3></TD></TR></FORM>
+  <TR>
+    <TD class=3Dnavbarl height=3D3></TD></TR>
+  <TR>
+    <TD class=3Dnavbarl>&nbsp;&nbsp;<B>You searched for:</B> =
+axwebbrowser, post,=20
+      data - <A=20
+      =
+href=3D"http://www.dotnet247.com/247reference/clearterms.aspx?r=3D%2f247r=
+eference%2fmessage.aspx%3fid%3d201296">Clear</A></TD></TR>
+  <TR>
+    <TD class=3Dnavbarl height=3D3></TD></TR>
+  <TR>
+    <TD bgColor=3D#000080 height=3D3></TD></TR>
+  <TR>
+    <TD class=3Dbodytext bgColor=3D#000080>&nbsp;&nbsp;<B><A=20
+      =
+href=3D"http://www.elementool.com/cgi-bin/joinPage/referral.asp?referralc=
+ode=3Ddotnet247"><FONT=20
+      color=3Dwhite>Elementool Bug Tracking Tool - Easy to use. Low =
+cost. No=20
+      software is required.</FONT></A></B></TD></TR>
+  <TR>
+    <TD bgColor=3D#000080 height=3D3></TD></TR>
+  <TR>
+    <TD height=3D5></TD></TR>
+  <TR>
+    <TD>
+      <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dtop>
+            <FORM id=3DForm1 name=3DForm1 =
+action=3Dmessage.aspx?id=3D201296=20
+            method=3Dpost><INPUT type=3Dhidden=20
+            value=3DdDwtNDQ1MTI4MDE7Oz6votTBLEmlCCXsuHaATmv3cX0P/w=3D=3D =
+
+            name=3D__VIEWSTATE>=20
+            <TABLE cellSpacing=3D0 cellPadding=3D2 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD bgColor=3D#000000 colSpan=3D3 height=3D5></TD></TR>
+              <TR>
+                <TD bgColor=3D#000000 colSpan=3D3><SPAN class=3Dtitle=20
+                  id=3DlabelSubject>AxWebBrowser control : how to POST=20
+                data?</SPAN></TD></TR>
+              <TR>
+                <TD bgColor=3D#000000 colSpan=3D3 height=3D5></TD></TR>
+              <TR>
+                <TD class=3Dbodytext><SPAN =
+id=3DlabelParent></SPAN></TD></TR>
+              <TR>
+                <TD height=3D15></TD></TR>
+              <TR>
+                <TD class=3Dsubtitle>Messages</TD>
+                <TD>&nbsp;</TD>
+                <TD class=3Dsubtitle>Related Types</TD></TR>
+              <TR>
+                <TD vAlign=3Dtop width=3D"67%"><SPAN class=3Dbodytext=20
+                  id=3DlabelNewsgroup>This message was discovered on <A=20
+                  =
+href=3D"http://www.dotnet247.com/247reference/__site/65">microsoft.public=
+.dotnet.general</A>.</SPAN><BR><BR>
+                  <DIV id=3DpanelPost>
+                  <TABLE cellSpacing=3D0 cellPadding=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD height=3D15></TD></TR>
+                    <TR>
+                      <TD class=3Dbodytext><A class=3Darticlelink =
+id=3DlinkPostNew=20
+                        =
+href=3D"http://www.dotnet247.com/247reference//reply.aspx?s=3D65">Post=20
+                        a new message to this=20
+                  list...</A></TD></TR></TBODY></TABLE></DIV><BR>
+                  <TABLE style=3D"WIDTH: 100%" border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD>
+                        <TABLE style=3D"WIDTH: 100%" border=3D0>
+                          <TBODY>
+                          <TR>
+                            <TD class=3Dthreadtop style=3D"FONT-WEIGHT: =
+bold"=20
+                            colSpan=3D32>TF</TD></TR>
+                          <TR>
+                            <TD class=3Dbodytext colSpan=3D32>hi,<BR>i =
+am using=20
+                              <SPAN =
+class=3Dhighlight1>AxWebBrowser</SPAN> control=20
+                              in my C# dot.net windows application.<BR>i =
+want to=20
+                              display a web page in the browser that =
+needs some=20
+                              <SPAN class=3Dhighlight3>data</SPAN> =
+sent<BR>to it=20
+                              through HTML Form '<SPAN=20
+                              class=3Dhighlight2>POST</SPAN>' method. I =
+saw a=20
+                              method 'Navigate' of<BR><SPAN=20
+                              class=3Dhighlight1>AxWebBrowser</SPAN> =
+control that=20
+                              has a parameter 'ref object <SPAN=20
+                              class=3Dhighlight2>post</SPAN><SPAN=20
+                              class=3Dhighlight3>Data</SPAN>' =
+but<BR>didn't find=20
+                              any documentation about <SPAN=20
+                              class=3Dhighlight1>AxWebBrowser</SPAN> how =
+to use=20
+                              it. i<BR>tried a string like=20
+                              "name1=3Dvalue1&amp;name2=3Dvalue2" but it =
+doesn't=20
+                              work.<BR><BR>Any =
+help??<BR>Thanks<BR></TD></TR>
+                          <TR>
+                            <TD colSpan=3D32>
+                              <TABLE border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD class=3Dbodytext style=3D"WIDTH: =
+20px"><IMG=20
+                                height=3D16=20
+                                =
+src=3D"http://www.dotnet247.com/247reference/i/r.gif"=20
+                                width=3D16></TD>
+                                <TD class=3Dbodytext><FONT =
+class=3Darticlelink><A=20
+                                =
+href=3D"http://www.dotnet247.com/247reference/reply.aspx?m=3D201296&amp;t=
+=3D541057">Reply=20
+                                to this=20
+                              =
+message...</A></FONT></TD></TR></TBODY></TABLE></TD></TR>
+                          <TR>
+                            <TD class=3Dbodytext>&nbsp;</TD></TR>
+                          <TR>
+                            <TD =
+class=3Dbodytext>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+                            <TD colSpan=3D31>
+                              <TABLE style=3D"WIDTH: 100%" border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD class=3Dthreadtop =
+style=3D"FONT-WEIGHT: bold"=20
+                                colSpan=3D31>Chad Z. Hower aka =
+Kudzu</TD></TR>
+                                <TR>
+                                <TD class=3Dbodytext colSpan=3D31>"TF" =
+&lt;<A=20
+                                =
+href=3D"http://www.dotnet247.com/247reference/email.aspx?a=3DZmFyaWR0QGNv=
+bmVkLmNvbQ%3d%3d&amp;r=3D%2f247reference%2fmessage.aspx%3fid%3d201296"><F=
+ONT=20
+                                class=3Dnoemail>Click here to reveal =
+e-mail=20
+                                address</FONT></A>&gt; wrote in=20
+                                =
+message<BR>news:ae1ce536.0401300526.73054c3f@<SPAN=20
+                                =
+class=3Dhighlight2>post</SPAN>ing.google.com...<BR><FONT=20
+                                color=3D#808080>[Original message=20
+                                clipped]</FONT><BR><BR>Unless you are=20
+                                interacting with the rendered page, you =
+should=20
+                                bypass<BR>AxWebBrowse and instead use =
+the HTTP=20
+                                protocol directly.<BR><BR></TD></TR>
+                                <TR>
+                                <TD colSpan=3D31>
+                                <TABLE border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD class=3Dbodytext style=3D"WIDTH: =
+20px"><IMG=20
+                                height=3D16=20
+                                =
+src=3D"http://www.dotnet247.com/247reference/i/r.gif"=20
+                                width=3D16></TD>
+                                <TD class=3Dbodytext><FONT =
+class=3Darticlelink><A=20
+                                =
+href=3D"http://www.dotnet247.com/247reference/reply.aspx?m=3D201296&amp;t=
+=3D541086">Reply=20
+                                to this=20
+                                =
+message...</A></FONT></TD></TR></TBODY></TABLE></TD></TR>
+                                <TR>
+                                <TD class=3Dbodytext>&nbsp;</TD></TR>
+                                <TR>
+                                <TD =
+class=3Dbodytext>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+                                <TD colSpan=3D30>
+                                <TABLE style=3D"WIDTH: 100%" border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD class=3Dthreadtop =
+style=3D"FONT-WEIGHT: bold"=20
+                                colSpan=3D30>TF</TD></TR>
+                                <TR>
+                                <TD class=3Dbodytext colSpan=3D30>Thanks =
+everyone=20
+                                for response.<BR><BR>Chad, i have to =
+display=20
+                                some web page just like in browser =
+that's=20
+                                why<BR>i can't avoid =
+it.<BR><BR>Maniaque, you=20
+                                are right i should user byte array. It =
+is=20
+                                working now.<BR>Here is link to an =
+example,=20
+                                someone else may need it<BR><BR><A=20
+                                =
+href=3D"http://www.dotnet247.com/247reference/a.aspx?u=3Dhttp://support.m=
+icrosoft.com/default.aspx?scid=3Dkb"=20
+                                =
+target=3D_blank>http://www.dotnet247.com/247reference/a.aspx?u=3Dhttp://s=
+upport.microsoft.com/default.aspx?scid=3Dkb</A>;EN-US;311293<BR></TD></TR=
+>
+                                <TR>
+                                <TD colSpan=3D30>
+                                <TABLE border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD class=3Dbodytext style=3D"WIDTH: =
+20px"><IMG=20
+                                height=3D16=20
+                                =
+src=3D"http://www.dotnet247.com/247reference/i/r.gif"=20
+                                width=3D16></TD>
+                                <TD class=3Dbodytext><FONT =
+class=3Darticlelink><A=20
+                                =
+href=3D"http://www.dotnet247.com/247reference/reply.aspx?m=3D201296&amp;t=
+=3D541116">Reply=20
+                                to this=20
+                                =
+message...</A></FONT></TD></TR></TBODY></TABLE></TD></TR>
+                                <TR>
+                                <TD=20
+                                =
+class=3Dbodytext>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABL=
+E></TD></TR>
+                          <TR>
+                            <TD =
+class=3Dbodytext>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+                            <TD colSpan=3D31>
+                              <TABLE style=3D"WIDTH: 100%" border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD class=3Dthreadtop =
+style=3D"FONT-WEIGHT: bold"=20
+                                colSpan=3D31>Maniaque |CIA|</TD></TR>
+                                <TR>
+                                <TD class=3Dbodytext colSpan=3D31>On 30 =
+Jan 2004=20
+                                05:26:18 -0800, TF &lt;<A=20
+                                =
+href=3D"http://www.dotnet247.com/247reference/email.aspx?a=3DZmFyaWR0QGNv=
+bmVkLmNvbQ%3d%3d&amp;r=3D%2f247reference%2fmessage.aspx%3fid%3d201296"><F=
+ONT=20
+                                class=3Dnoemail>Click here to reveal =
+e-mail=20
+                                address</FONT></A>&gt; =
+wrote:<BR><BR><FONT=20
+                                color=3D#808080>[Original message=20
+                                clipped]</FONT><BR><BR>You should use =
+byte=20
+                                array, I can give you an example at =
+Monday in=20
+                                Vb6<BR>only...<BR><BR>--<BR>.... blood, =
+sugar,=20
+                                sex, magic ...<BR>CIA =3D Caught In =
+Action=20
+                                programmer<BR></TD></TR>
+                                <TR>
+                                <TD colSpan=3D31>
+                                <TABLE border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD class=3Dbodytext style=3D"WIDTH: =
+20px"><IMG=20
+                                height=3D16=20
+                                =
+src=3D"http://www.dotnet247.com/247reference/i/r.gif"=20
+                                width=3D16></TD>
+                                <TD class=3Dbodytext><FONT =
+class=3Darticlelink><A=20
+                                =
+href=3D"http://www.dotnet247.com/247reference/reply.aspx?m=3D201296&amp;t=
+=3D541149">Reply=20
+                                to this=20
+                                =
+message...</A></FONT></TD></TR></TBODY></TABLE></TD></TR>
+                                <TR>
+                                <TD=20
+                            =
+class=3Dbodytext>&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+                          <TR>
+                            <TD =
+class=3Dbodytext>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+                            <TD colSpan=3D31>
+                              <TABLE style=3D"WIDTH: 100%" border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD class=3Dthreadtop =
+style=3D"FONT-WEIGHT: bold"=20
+                                colSpan=3D31>Cor</TD></TR>
+                                <TR>
+                                <TD class=3Dbodytext colSpan=3D31>Hi =
+TF,<BR><BR>With=20
+                                the <SPAN =
+class=3Dhighlight1>AXWebbrowser</SPAN>=20
+                                you can do the same as with Internet=20
+                                Explorer.<BR><BR>For most things that =
+are in a=20
+                                button you have a command, although it =
+is=20
+                                not<BR>always easy to send.<BR><BR>I =
+never saw=20
+                                that you can <SPAN =
+class=3Dhighlight2>POST</SPAN>=20
+                                from Internet Explorer.<BR><BR>So I =
+think you=20
+                                will also never find it in the <SPAN=20
+                                =
+class=3Dhighlight1>AxWebBrowser</SPAN>.<BR><BR>Sorry=20
+                                it does not helps, but maybe you get the =
+right=20
+                                direction.<BR><BR>Cor<BR><FONT=20
+                                color=3D#808080>[Original message=20
+                                clipped]</FONT><BR><BR></TD></TR>
+                                <TR>
+                                <TD colSpan=3D31>
+                                <TABLE border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD class=3Dbodytext style=3D"WIDTH: =
+20px"><IMG=20
+                                height=3D16=20
+                                =
+src=3D"http://www.dotnet247.com/247reference/i/r.gif"=20
+                                width=3D16></TD>
+                                <TD class=3Dbodytext><FONT =
+class=3Darticlelink><A=20
+                                =
+href=3D"http://www.dotnet247.com/247reference/reply.aspx?m=3D201296&amp;t=
+=3D541150">Reply=20
+                                to this=20
+                                =
+message...</A></FONT></TD></TR></TBODY></TABLE></TD></TR>
+                                <TR>
+                                <TD=20
+                            =
+class=3Dbodytext>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABL=
+E></TD></TR></TBODY></TABLE></TD></TD>
+                <TD>&nbsp;</TD>
+                <TD vAlign=3Dtop width=3D"33%">
+                  <TABLE cellSpacing=3D0 cellPadding=3D2>
+                    <TBODY></TBODY></TABLE><BR><BR>
+                  <CENTER>
+                  <TABLE borderColor=3Dblack cellSpacing=3D0 =
+cellPadding=3D10=20
+                  bgColor=3Dyellow border=3D1>
+                    <TBODY>
+                    <TR>
+                      <TD class=3Dbodytext><B>GUILDFORD, UK - THREE .NET =
+
+                        DEVELOPERS REQUIRED</B> <BR><BR>I *urgently* =
+need three=20
+                        decent .NET developers for a project based in =
+Guildford,=20
+                        UK. <BR><BR>The position is a contract-to-perm =
+position.=20
+                        Six month contract initially, then coming in on =
+a=20
+                        permanent basis. You will be required to work on =
+site,=20
+                        so being based within commutable distance of =
+Guildford=20
+                        would be advantageous! <BR><BR>The project is =
+heavily=20
+                        based on ASP.NET, Web Services and SQL Server. =
+Good OO=20
+                        and modelling skills a plus. <BR><BR>Please =
+forward your=20
+                        CV to <A=20
+                        =
+href=3D"mailto:matt_cv@dotnet247.com">matt_cv@dotnet247.com</A>.=20
+                        <BR><BR>Cheers,<BR>Matt Reynolds - .NET 247's =
+founder=20
+                    </TD></TR></TBODY></TABLE><BR><BR>
+                  <TABLE border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><!-- start ad 'DotNet247.Shared.LiteralAd' for =
+'Content'-->
+                        <OBJECT id=3DUntitled-1=20
+                        =
+codeBase=3Dhttp://download.macromedia.com/pub/shockwave/cabs/flash/swflas=
+h.cab#version=3D6,0,0,0=20
+                        height=3D280 width=3D336=20
+                        =
+classid=3Dclsid:D27CDB6E-AE6D-11cf-96B8-444553540000><PARAM =
+NAME=3D"movie" VALUE=3D"/247reference/i/ads/fsi.swf"><PARAM =
+NAME=3D"quality" VALUE=3D"high"><PARAM NAME=3D"bgcolor" =
+VALUE=3D"#000000">
+                           <EMBED src=3D"/247reference/i/ads/fsi.swf" =
+quality=3Dhigh=20
+                        bgcolor=3D#000000  NAME=3D"Untitled-1" =
+ALIGN=3D""
+                        TYPE=3D"application/x-shockwave-flash"=20
+                        =
+PLUGINSPAGE=3D"http://www.macromedia.com/go/getflashplayer"></EMBED>
+                        </OBJECT><!-- end ad =
+--></TD></TR></TBODY></TABLE></CENTER></TD></TR></TBODY></TABLE></FORM></=
+TD>
+          <TD vAlign=3Dtop width=3D130>
+            <TABLE style=3D"WIDTH: 100%; BORDER-COLLAPSE: collapse" =
+cellSpacing=3D0=20
+            cellPadding=3D0 border=3D0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE=20
+                  style=3D"BORDER-RIGHT: darkgray 1px solid; BORDER-TOP: =
+darkgray 1px solid; BORDER-LEFT: darkgray 1px solid; WIDTH: 100%; =
+BORDER-BOTTOM: darkgray 1px solid; BACKGROUND-COLOR: #e0e0e0"=20
+                  borderColor=3Ddarkgray border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3Dsubtitle>Ad</TD></TR>
+                    <TR>
+                      <TD class=3Dbodytext vAlign=3Dtop =
+align=3Dmiddle><!-- start ad 'DotNet247.Shared.LiteralAd' for 'Right'-->
+                        <SCRIPT language=3DJavaScript>
+					google_ad_client =3D 'pub-2977590185524346';
+					google_ad_width =3D 120;
+					google_ad_height =3D 600;
+					google_ad_format =3D '120x600_as';
+					</SCRIPT>
+
+                        <SCRIPT language=3DJavaScript=20
+                        =
+src=3D"http://pagead2.googlesyndication.com/pagead/show_ads.js">
+					</SCRIPT>
+<!-- end ad --></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD style=3D"HEIGHT: 10px"></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE=20
+                  style=3D"BORDER-RIGHT: darkgray 1px solid; BORDER-TOP: =
+darkgray 1px solid; BORDER-LEFT: darkgray 1px solid; WIDTH: 100%; =
+BORDER-BOTTOM: darkgray 1px solid; BACKGROUND-COLOR: #e0e0e0"=20
+                  borderColor=3Ddarkgray border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3Dbodytext vAlign=3Dtop =
+align=3Dmiddle><A=20
+                        href=3D"http://www.two47.com/"=20
+                        target=3D_blank>Two47</A><BR>Check out the alpha =
+bits for=20
+                        my new open source application framework.=20
+                  </TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD style=3D"HEIGHT: 10px"></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE=20
+                  style=3D"BORDER-RIGHT: darkgray 1px solid; BORDER-TOP: =
+darkgray 1px solid; BORDER-LEFT: darkgray 1px solid; WIDTH: 100%; =
+BORDER-BOTTOM: darkgray 1px solid; BACKGROUND-COLOR: #e0e0e0"=20
+                  borderColor=3Ddarkgray border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3Dbodytext vAlign=3Dtop =
+align=3Dmiddle><A=20
+                        href=3D"http://www.fogbugz.com/"=20
+                        target=3D_blank>FogBUGZ</A><BR>The only bug =
+tracking=20
+                        system carefully crafted with one goal in mind: =
+helping=20
+                        teams create great software. =
+</TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD style=3D"HEIGHT: 10px"></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE=20
+                  style=3D"BORDER-RIGHT: darkgray 1px solid; BORDER-TOP: =
+darkgray 1px solid; BORDER-LEFT: darkgray 1px solid; WIDTH: 100%; =
+BORDER-BOTTOM: darkgray 1px solid; BACKGROUND-COLOR: #e0e0e0"=20
+                  borderColor=3Ddarkgray border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3Dbodytext vAlign=3Dtop =
+align=3Dmiddle><B>Awesome=20
+                        Tools</B><BR>If you don't know about these, =
+you're=20
+                        missing out... <A=20
+                        href=3D"http://www.dvxp.com/en/QuickCode.aspx"=20
+                        target=3D_blank>QuickCode.NET</A><BR><A=20
+                        href=3D"http://logging.apache.org/log4net/"=20
+                        target=3D_blank>log4net</A><BR><A=20
+                        href=3D"http://nant.sourceforge.net/"=20
+                        target=3D_blank>NAnt</A><BR><A=20
+                        href=3D"http://www.nunit.org/"=20
+                        target=3D_blank>NUnit</A><BR><A=20
+                        href=3D"http://www.ericjsmith.net/codesmith/"=20
+                        target=3D_blank>CodeSmith</A><BR><A=20
+                        href=3D"http://www.aisto.com/roeder/dotnet/"=20
+                        target=3D_blank>Reflector</A><BR><A=20
+                        href=3D"http://weblogs.asp.net/NUnitAddin/"=20
+                        target=3D_blank>NUnit add-in</A><BR><A=20
+                        =
+href=3D"http://workspaces.gotdotnet.com/two47sourcebrowse/"=20
+                        target=3D_blank>SourceBrowse</A><BR><A=20
+                        href=3D"http://www.sysinternals.com/"=20
+                        target=3D_blank>Filemon</A><BR><A=20
+                        href=3D"http://www.gotdotnet.com/team/fxcop/"=20
+                        target=3D_blank>FxCop</A><BR><A=20
+                        href=3D"http://www.secondcopy.com/"=20
+                        target=3D_blank>SecondCopy</A>=20
+              =
+</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></T=
+ABLE></TD></TR>
+  <TR>
+    <TD height=3D10></TD></TR>
+  <TR>
+    <TD class=3Dbodytext>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600>
+        <TBODY>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD class=3Dbodytext><!-- start ad =
+'DotNet247.Shared.LiteralAd' for 'Bottom'--><B>Matthew=20
+            Reynolds Consulting</B> Hire me to help with your .NET =
+projects: <A=20
+            href=3D"http://www.matthewreynolds.com/"=20
+            target=3D_blank>http://www.matthewreynolds.com/</A>.=20
+        <!-- end ad --></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height=3D10></TD></TR>
+  <TR>
+    <TD bgColor=3D#000000 height=3D1></TD></TR>
+  <TR>
+    <TD height=3D10></TD></TR>
+  <TR>
+    <TD class=3Dbodytext>
+      <TABLE style=3D"BORDER-COLLAPSE: collapse" cellSpacing=3D0 =
+cellPadding=3D0=20
+      border=3D0>
+        <TBODY>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD class=3Dbodytext style=3D"FONT-WEIGHT: bold">Copyright =
+=C2=A9 Matthew=20
+            Reynolds 2001-2004 </TD></TR>
+        <TR>
+          <TD></TD>
+          <TD class=3Dbodytext><A=20
+            =
+href=3D"http://www.dotnet247.com/247reference/contact.aspx">Contact=20
+            Us</A> - <A=20
+            =
+href=3D"http://www.dotnet247.com/247reference/terms.aspx">Terms of=20
+            Use</A> - <A=20
+            =
+href=3D"http://www.dotnet247.com/247reference/privacy.aspx">Privacy=20
+            Policy</A> - <A=20
+            =
+href=3D"http://www.dotnet247.com/">http://www.dotnet247.com/</A> - <A=20
+            =
+href=3D"http://www.winfx247.com/">http://www.winfx247.com/</A> - <A=20
+            =
+href=3D"http://www.adminlife.com/">http://www.adminlife.com/</A></TD></TR=
+></TBODY></TABLE></TD></TR></TBODY></TABLE></TABLE></BODY></HTML>
+
+------=_NextPart_000_0000_01C4424D.5ACDAC80
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dotnet247.com/247reference/i/l.gif
+
+R0lGODlhtgA2AIcAAAAAAAgIABAQABgYABghACEpACkxADE5ADlCAEJKAEJSAEpSAEpaAFJaAFJj
+AFprAGNzAGt7AHJ5P3V7PXd+PFRSTlZVTVpaS1hYTFxdSlJQUF9gSWNlRmFjSGVoRWdrRGpuQ2xw
+Qm5zQXB2QHOEAHuMAHmBO3uEOn2GOYSUAIycAIKMN4CJOIaRNIiUM42aMY+cMJStCJy1CJOiLpal
+LJenLJysKZ6vKKW9CKCyJ6K0JqS3Jae6JKm9I6u/Ia3GCK/FH7LIHrTKHbbNHLXWCL3eCLjQG7rT
+Gr3VGL/YF63CIMbeCMHbFsPeFcbnCM7rD87vCMXgFMjjE8rmEszpEdDuDtPxDdb3CNf2C9X0DNn5
+Ctv8Cd7/CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAP8ALAAAAAC2ADYA
+AAj/ALkIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuX
+MGPKnEmzps2bOHNi1KBTI8+EP4GqrFClYBYLDLMQVDowaEgNUKFWAJLSqUGrV1VqsFFQB9asTQl+
+7egUSIWqCseGrXqi4Aq1awU6heuzIF2PcOnexUsDyUAmNJwOMYFBw1QuUXkmlmtWKlWBjQ9z6dFi
+YA8NOwa26HHQatkKhh8LGVEQhRDEjUMPTC1ZLkHWQIKmpiClpYYmlQW+aOJ0QhAsXMy6jovYwmPh
+wY0np0qFw8AVKFgM5ECls93VyoEo58IhysAnHuRu/0eu/fh2xNjNBz2MhQcI21xCANciAj3Cn3PF
+Ph7eGjl1gRdMgcEWXDR332tnCdRfgje8MFANNzAmloL7BZegfVy0Ftx61QkEHEs8zcDDZDRgCFZ+
+xNnnmUArcJYEaSMcMVluVyWmwX4rcpHFBlpwsYUHVgy3FlZBFQkWFy1cMIN3LvGEhARcTNCEialB
+JaSJOdpoJRc7VFZDDVzQUOJmB2IxgQ9PiKXlQC5kJoQLKeJ3pJHXCbRFDhxogEJRIArUQRDhYVje
+kBPGeSVBUjg3QhJcIFHff9ZxgYUJfqVIEBP1ncCEoSYKSWehBB0xAWl9cgHDBSViqKGcxOWo4Ydc
+bP/QxAV2YpCEcwd6OEJtFBIEKxcjAAElpxoip2qFsQ0EKxZ7gfQTErcJeZgWRpxwWGut5TgoF0a8
+x6IJKwzEAgU0HslFFRPwum23BCmBgQ+gDrfttoKOZ0FQIOyglLFaDdShoKBZcOYRGVj4U2OHygZa
+BRKcJtAOGnD2cMRCEYSuugs3bHEGPXJqsGrEwRaUFCgsXGFPKC90wwwpt5zTB/+6HMHMXEQwkM0u
+oyREWznfLBDNNPcstEo422z00EifVLTPSTct0tI/Oy311B4BYHUJC1ltNUFad+311l+H7fVCTkRg
+QAAADNAAEQ1dUcDWXIut9dRdY51Q13HLPbfeYiv/BIHYdiukwNx5i50A3V1DcDfhAvG9t+NjLy72
+DwqVgHfhYceAeOIIXd444w957lDaJSzBBQ4DaL1AQjhEntAPWgtwxeacGyS66KOD3pADsw8kQ+wI
+OZE67gY5oPUDVIu9ekG3694Q8RJBzwUCXyt0BdpWs02718sP1DzcEEn/0BXAGxSB1cODf5AKWhtA
+NRddx8B94Zj33bnzEbVu9eEF/W61/uozyAG0loL34S0G2LMaAnr3Pb1JDgAXeYDWVFCQIgjAaiSA
+H/4EUgStBQAKBiTcDxIIgAPMroFye6BFnIC9DxLkCgbY3+cCSJC/WY0B79Mg+EbYNRM2MHobdEgD
+6bSmOIIYDwAEAKEOIYiQ9OEgh6L7wQXb98OIiI8hsLOaAJToPb4dRH5WI0AOl1jB9LmOjFYM4kLc
+prXAddGBBkmA1jIIRecVwYygu+L9aOiQ81nNfbbzYkGc0DUnjBF6d6zeG5kYPjUmhAhd0x5DoEcC
+rfEPaTEQgAA0t8jgva2KjeTjGj8JADo+D3+k5CTSpigA+nkShSk8iB4PYkP77ZGRAwGg7JrGSle+
+Un2Qw6UvHeK/WN7SILVEXtMyuclhHuQKA8RlMI8JkSkaU5b4I0IECiDJMXrzm+AMpzjHSc5ymvOc
+6ExnSAICADs=
+
+------=_NextPart_000_0000_01C4424D.5ACDAC80
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dotnet247.com/247reference/i/d.gif
+
+R0lGODlhFwANAPcAAISEhIyMjJSUlJycnKWlpbW1tb29vcbGxv//////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////ywAAAAAFwANAAAIPQABCBxI
+sKDBgwgTKlzIsOHCAAMCOCxIwIBFAhMFBjBwwGKBjAAGWORoQEDGjR0NfARZ8SJIjQIkvpz5MiAA
+Ow==
+
+------=_NextPart_000_0000_01C4424D.5ACDAC80
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.dotnet247.com/247reference/i/r.gif
+
+R0lGODlhEAAQAIcAAGAgYGAgcHAocIA4gIBIkJBAkJBAoJBIoId/tKBIsKBQoKBQsKBYsLBQsKBo
+sLBgsLBosLBYwLBwwLB4wMBowICIsJaPtICIwICQwICQ0JCQwJaWw5CYwJCY0J2kx5Cg0KCYwKWl
+w6Sky6CowKCg0KCo0KCw0LC40LDY8LDg/7Do/8CAwMCA0MCI0NCY0NCg0NCo0PDQgPDYgPDQkP/g
+gP/ogP/gkP/okP/ooP/osPDwoP/woP/wsP/4sMDA0MDA4MDY8MDg/8Do8MDo/9Dw/+DQwOTV5P/4
+wP//wP//0OPl7+3i7eDo8ODo/+rq8Orr8+3u9uDw8ODw/+D4/+D/////4PDw9vDw//D4//D/////
+8P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAP8ALAAAAAAQABAA
+AAjFALcIHEiwIEEoHkKE4MBBiUGBUERomVilB4InBiNO3KIlSY8bCJwc9FClCsUjO2rQsGBlYAkc
+MHHYsCEjhs0ZG1yaQIKkRw8eOWDm8DHCpZAOOj6UMHHiRBEfEE4M/EAFBYkoU7BcYfJDggGpAjuo
+6BAly5SzTSa8OADhAYMEHDJIwXJ2CpMJMFy0YLFiggANQIgMSZEiiIMXLChEaLDAQAAMkC9cqKAB
+BAEFERYkKDAAwMMtRgIYAECa9OctS0yfJpiaYEAAOw==
+
+------=_NextPart_000_0000_01C4424D.5ACDAC80
+Content-Type: text/css;
+	charset="iso-8859-9"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.dotnet247.com/247reference//DotNet247.css
+
+.bodytext {
+	FONT-SIZE: 8pt; LINE-HEIGHT: 16px; FONT-FAMILY: verdana, geneva, arial, =
+sans-serif
+}
+.bodytexthl {
+	FONT-SIZE: 8pt; LINE-HEIGHT: 16px; FONT-FAMILY: verdana, geneva, arial, =
+sans-serif; BACKGROUND-COLOR: #fff47d
+}
+.title {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: =
+14pt; PADDING-BOTTOM: 3px; COLOR: #ffffff; LINE-HEIGHT: 18px; =
+PADDING-TOP: 3px; FONT-FAMILY: verdana, geneva, arial, sans-serif; =
+BACKGROUND-COLOR: #000000
+}
+.fronttitle {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: =
+14pt; PADDING-BOTTOM: 8px; COLOR: #ffffff; LINE-HEIGHT: 18px; =
+PADDING-TOP: 8px; FONT-FAMILY: verdana, geneva, arial, sans-serif; =
+BACKGROUND-COLOR: #000000
+}
+.titletext {
+	FONT-WEIGHT: normal; FONT-SIZE: 14pt; COLOR: #ffffff; LINE-HEIGHT: =
+18px; FONT-FAMILY: verdana, geneva, arial, sans-serif; BACKGROUND-COLOR: =
+#000000
+}
+.subtitle {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: =
+10pt; PADDING-BOTTOM: 2px; COLOR: #ffffff; LINE-HEIGHT: 18px; =
+PADDING-TOP: 2px; FONT-FAMILY: verdana, geneva, arial, sans-serif; =
+BACKGROUND-COLOR: #808080
+}
+.articletitle {
+	FONT-SIZE: 10pt
+}
+.articlelink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+.sitename {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+.contenttitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+.contentsource {
+	FONT-SIZE: 7pt
+}
+.content {
+=09
+}
+.articleclasses {
+	FONT-SIZE: 8pt
+}
+.sidebartext {
+	FONT-SIZE: 11px; LINE-HEIGHT: 16px; FONT-FAMILY: Verdana, Geneva, Arial
+}
+.sidebarlinks {
+	FONT-SIZE: 11px; COLOR: #787878; LINE-HEIGHT: 16px; FONT-FAMILY: =
+Verdana, Geneva, Arial; TEXT-DECORATION: none
+}
+A.sidebarlinks:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A {
+	TEXT-DECORATION: underline
+}
+.navbar {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; BACKGROUND: #808080; COLOR: =
+#ffffff; FONT-FAMILY: Verdana, Geneva, Arial
+}
+.navbarl {
+	FONT-SIZE: 8pt; BACKGROUND: #c0c0c0; COLOR: #000000; FONT-FAMILY: =
+Verdana, Geneva, Arial
+}
+.navbaroption {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.copyright {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, Geneva, Arial
+}
+.contentbox {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: =
+#808080 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: =
+#808080 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #808080 1px solid
+}
+.contentbox2 {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: =
+#808080 1px solid; PADDING-LEFT: 5px; BACKGROUND: #f0f0f0; =
+PADDING-BOTTOM: 5px; BORDER-LEFT: #808080 1px solid; PADDING-TOP: 5px; =
+BORDER-BOTTOM: #808080 1px solid
+}
+.contentbox3 {
+	BORDER-RIGHT: #dfff0c 3px solid; PADDING-RIGHT: 5px; BORDER-TOP: =
+#dfff0c 3px solid; PADDING-LEFT: 5px; BACKGROUND: #fafafa; =
+PADDING-BOTTOM: 5px; BORDER-LEFT: #dfff0c 3px solid; PADDING-TOP: 5px; =
+BORDER-BOTTOM: #dfff0c 3px solid
+}
+.adbox {
+	BORDER-RIGHT: #c0c0c0 3px solid; PADDING-RIGHT: 5px; BORDER-TOP: =
+#c0c0c0 3px solid; PADDING-LEFT: 5px; BACKGROUND: #f2cb94; =
+PADDING-BOTTOM: 5px; BORDER-LEFT: #c0c0c0 3px solid; PADDING-TOP: 5px; =
+BORDER-BOTTOM: #c0c0c0 3px solid
+}
+.adtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #000080; LINE-HEIGHT: 14pt
+}
+.adname {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+.highlight {
+	BORDER-RIGHT: #c0c0c0 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: =
+#c0c0c0 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: =
+#c0c0c0 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #c0c0c0 1px solid; =
+BACKGROUND-COLOR: #f0f0f0
+}
+.articlesite {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; LINE-HEIGHT: 16px; FONT-FAMILY: =
+verdana, geneva, arial, sans-serif
+}
+.articlejump {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: =
+#808080 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: =
+11pt; BACKGROUND: #f0f0d0; PADDING-BOTTOM: 10px; BORDER-LEFT: #808080 =
+1px solid; LINE-HEIGHT: 36pt; PADDING-TOP: 10px; BORDER-BOTTOM: #808080 =
+1px solid
+}
+.articlelink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+.notes {
+	COLOR: #c0c0c0
+}
+.search {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Verdana, Geneva, Arial
+}
+.navmail {
+	FONT-WEIGHT: normal; COLOR: #e0e0e0; TEXT-DECORATION: none
+}
+.navmail:hover {
+	TEXT-DECORATION: underline
+}
+.navlink {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.navlink:hover {
+	TEXT-DECORATION: underline
+}
+.topiclink {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt
+}
+.debug {
+	FONT-SIZE: 8pt; COLOR: #d0d0d0
+}
+.recommended {
+	FONT-WEIGHT: bold; COLOR: #800000
+}
+.guidemenu {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: black =
+1px solid; PADDING-LEFT: 10px; BACKGROUND: #e0e0e0; LEFT: 0px; =
+VISIBILITY: hidden; PADDING-BOTTOM: 5px; BORDER-LEFT: black 1px solid; =
+COLOR: #000000; PADDING-TOP: 5px; BORDER-BOTTOM: black 1px solid; =
+POSITION: absolute; TOP: 0px
+}
+.guideopt {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; LINE-HEIGHT: 15pt
+}
+.searchheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+.slink {
+=09
+}
+.searchclick {
+	BORDER-RIGHT: #808080 1px solid; BORDER-TOP: #808080 1px solid; =
+BORDER-LEFT: #808080 1px solid; BORDER-BOTTOM: #808080 1px solid
+}
+.searchclicksel {
+	BACKGROUND-COLOR: #e0e0e0
+}
+.threadleft {
+	BACKGROUND-COLOR: #000080
+}
+.threadtop {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: =
+verdana, geneva, arial, sans-serif; BACKGROUND-COLOR: #000080; =
+TEXT-ALIGN: right
+}
+.threadtophs {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: =
+verdana, geneva, arial, sans-serif; BACKGROUND-COLOR: #800000; =
+TEXT-ALIGN: right
+}
+.threadbody {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-SIZE: 8pt; PADDING-BOTTOM: =
+0px; LINE-HEIGHT: 16px; PADDING-TOP: 10px; FONT-FAMILY: verdana, geneva, =
+arial, sans-serif
+}
+.select {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: =
+#808080 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; BACKGROUND: =
+#000080; PADDING-BOTTOM: 2px; BORDER-LEFT: #808080 1px solid; WIDTH: =
+175px; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: #808080 1px =
+solid; TEXT-ALIGN: center
+}
+.selects {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: =
+#808080 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; BACKGROUND: =
+#800000; PADDING-BOTTOM: 2px; BORDER-LEFT: #808080 1px solid; WIDTH: =
+175px; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: #808080 1px =
+solid; TEXT-ALIGN: center
+}
+.frontbig {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #c00000; LINE-HEIGHT: 20pt; =
+FONT-FAMILY: verdana, geneva, arial, sans-serif
+}
+.code {
+	FONT-SIZE: 10pt; COLOR: #000080; FONT-FAMILY: courier new
+}
+.evalButton {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; WIDTH: 250px; FONT-FAMILY: Verdana, =
+Geneva, Arial
+}
+.evalDays {
+	FONT-WEIGHT: bold; FONT-SIZE: 28pt; COLOR: #ffffff; FONT-FAMILY: =
+Verdana, Geneva, Arial
+}
+.evaltext {
+	FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: verdana, geneva, arial, =
+sans-serif
+}
+.evalbig {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: =
+verdana, geneva, arial, sans-serif
+}
+.evalpaid {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #ffffff; FONT-FAMILY: =
+verdana, geneva, arial, sans-serif
+}
+.s1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #000040; TEXT-DECORATION: =
+none
+}
+.s2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+.vbugbox {
+	BORDER-RIGHT: gray 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: gray 1px =
+solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: gray 1px =
+solid; PADDING-TOP: 5px; BORDER-BOTTOM: gray 1px solid; =
+BACKGROUND-COLOR: #000040
+}
+.vbugheading {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: yellow; FONT-FAMILY: =
+verdana, geneva, arial, sans-serif
+}
+.vbugtext {
+	FONT-SIZE: 9pt; COLOR: white; FONT-FAMILY: verdana, geneva, arial, =
+sans-serif
+}
+.vbuglink {
+	FONT-SIZE: 9pt; COLOR: white; FONT-FAMILY: verdana, geneva, arial, =
+sans-serif
+}
+.noemail {
+	BACKGROUND: #fef6b2; COLOR: #000080
+}
+.problem {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: red; FONT-FAMILY: verdana, =
+geneva, arial, sans-serif
+}
+.highlight1 {
+	BORDER-RIGHT: #ffff00 1px solid; BORDER-TOP: #ffff00 1px solid; =
+FONT-WEIGHT: bold; BACKGROUND: #ffff40; BORDER-LEFT: #ffff00 1px solid; =
+BORDER-BOTTOM: #ffff00 1px solid
+}
+.highlight2 {
+	BORDER-RIGHT: #ffff00 1px solid; BORDER-TOP: #ffff00 1px solid; =
+FONT-WEIGHT: bold; BACKGROUND: #ffff40; BORDER-LEFT: #ffff00 1px solid; =
+BORDER-BOTTOM: #ffff00 1px solid
+}
+.highlight3 {
+	BORDER-RIGHT: #ffff00 1px solid; BORDER-TOP: #ffff00 1px solid; =
+FONT-WEIGHT: bold; BACKGROUND: #ffff40; BORDER-LEFT: #ffff00 1px solid; =
+BORDER-BOTTOM: #ffff00 1px solid
+}
+.highlight4 {
+	BORDER-RIGHT: #ffff00 1px solid; BORDER-TOP: #ffff00 1px solid; =
+FONT-WEIGHT: bold; BACKGROUND: #ffff40; BORDER-LEFT: #ffff00 1px solid; =
+BORDER-BOTTOM: #ffff00 1px solid
+}
+.highlight5 {
+	BORDER-RIGHT: #ffff00 1px solid; BORDER-TOP: #ffff00 1px solid; =
+FONT-WEIGHT: bold; BACKGROUND: #ffff40; BORDER-LEFT: #ffff00 1px solid; =
+BORDER-BOTTOM: #ffff00 1px solid
+}
+
+------=_NextPart_000_0000_01C4424D.5ACDAC80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pagead2.googlesyndication.com/pagead/show_ads.js
+
+google_ad_url =3D '';=0A=
+google_random =3D (new Date()).getTime();=0A=
+google_org_error_handler =3D window.onerror;=0A=
+=0A=
+function quoted(str) {=0A=
+  return (str !=3D null) ? '"' + str + '"' : '""';=0A=
+}=0A=
+=0A=
+function google_encodeURIComponent(str) {=0A=
+  if (typeof(encodeURIComponent) =3D=3D 'function') {=0A=
+    return encodeURIComponent(str);=0A=
+  } else {=0A=
+    return escape(str);=0A=
+  }=0A=
+}=0A=
+=0A=
+function google_write_tracker(tracker_event) {=0A=
+  var img_url =3D window.google_ad_url.replace(/pagead\/ads/, =
+'pagead/imp.gif');=0A=
+  var img_src =3D img_url + '&event=3D' + tracker_event;=0A=
+  var img_tag =3D '<i' + 'mg height=3D"1" width=3D"1" border=3D"0" ' +=0A=
+                'src=3D' + quoted(img_src) +=0A=
+                ' />';=0A=
+  document.write(img_tag);=0A=
+}=0A=
+=0A=
+function google_append_url(param, value) {=0A=
+  if (value) {=0A=
+    window.google_ad_url +=3D '&' + param + '=3D' + value;=0A=
+  }=0A=
+}=0A=
+=0A=
+function google_append_url_esc(param, value) {=0A=
+  if (value) {=0A=
+    google_append_url(param, google_encodeURIComponent(value));=0A=
+  }=0A=
+}=0A=
+=0A=
+function google_append_color(param, value) {=0A=
+  if (value && typeof(value) =3D=3D 'object') {=0A=
+    value =3D value[window.google_random % value.length];=0A=
+  }=0A=
+  google_append_url('color_' + param, value);=0A=
+}=0A=
+=0A=
+function google_show_ad() {=0A=
+  var w =3D window;=0A=
+  w.onerror =3D w.google_org_error_handler;=0A=
+  w.google_ad_url =3D 'http://pagead2.googlesyndication.com/pagead/ads?' =
++=0A=
+                    'client=3Dca-' + =
+escape(w.google_ad_client.toLowerCase()) +=0A=
+                    '&random=3D' + w.google_random;=0A=
+=0A=
+  google_append_url('hl', w.google_language);=0A=
+  google_append_url('gl', w.google_gl);=0A=
+  google_append_url_esc('hints', w.google_hints);=0A=
+  google_append_url('adsafe', w.google_safe);=0A=
+  google_append_url('oe', w.google_encoding);=0A=
+  google_append_url('lmt', w.google_last_modified_time);=0A=
+  google_append_url_esc('alternate_ad_url', w.google_alternate_ad_url);=0A=
+  google_append_url('alt_color', w.google_alternate_color);=0A=
+=0A=
+  if (w.google_ad_format) {=0A=
+    google_append_url_esc('format', w.google_ad_format.toLowerCase());=0A=
+  }=0A=
+=0A=
+  google_append_url('num_ads', w.google_max_num_ads);=0A=
+  google_append_url('output', w.google_ad_output);=0A=
+  google_append_url('adtest', w.google_adtest);=0A=
+  if (w.google_ad_channel) {=0A=
+    google_append_url_esc('channel', w.google_ad_channel.toLowerCase());=0A=
+  }=0A=
+  google_append_url_esc('url', w.google_page_url);=0A=
+  google_append_color('bg', w.google_color_bg);=0A=
+  google_append_color('text', w.google_color_text);=0A=
+  google_append_color('link', w.google_color_link);=0A=
+  google_append_color('url', w.google_color_url);=0A=
+  google_append_color('border', w.google_color_border);=0A=
+  google_append_color('line', w.google_color_line);=0A=
+  google_append_url('kw_type', w.google_kw_type);=0A=
+  google_append_url_esc('kw', w.google_kw);=0A=
+  google_append_url_esc('contents', w.google_contents);=0A=
+  google_append_url('num_radlinks', w.google_num_radlinks);=0A=
+  google_append_url('max_radlink_len', w.google_max_radlink_len);=0A=
+  google_append_url('rl_filtering', w.google_rl_filtering);=0A=
+  google_append_url('ad_type', w.google_ad_type);=0A=
+  google_append_url('feedback_link', w.google_feedback);=0A=
+=0A=
+  w.google_ad_url =3D w.google_ad_url.substring(0, 1000);=0A=
+  w.google_ad_url =3D w.google_ad_url.replace(/%\w?$/, '');=0A=
+=0A=
+  if (google_ad_output =3D=3D 'js' && w.google_ad_request_done) {=0A=
+    document.write('<scr' + 'ipt language=3D"JavaScript1.1"' +=0A=
+                   ' src=3D' + quoted(google_ad_url) +=0A=
+                   '></scr' + 'ipt>');=0A=
+  } else if (google_ad_output =3D=3D 'html') {=0A=
+    if (w.name =3D=3D 'google_ads_frame') {=0A=
+      google_write_tracker('reboundredirect');=0A=
+    } else {=0A=
+      document.write('<ifr' + 'ame' +=0A=
+                     ' name=3D"google_ads_frame"' +=0A=
+                     ' width=3D' + quoted(w.google_ad_width) +=0A=
+                     ' height=3D' + quoted(w.google_ad_height) +=0A=
+                     ' frameborder=3D' + quoted(w.google_ad_frameborder) =
++=0A=
+                     ' src=3D' + quoted(w.google_ad_url) +=0A=
+                     ' marginwidth=3D"0"' +=0A=
+                     ' marginheight=3D"0"' +=0A=
+                     ' vspace=3D"0"' +=0A=
+                     ' hspace=3D"0"' +=0A=
+                     ' allowtransparency=3D"true"' +=0A=
+                     ' scrolling=3D"no">');=0A=
+      google_write_tracker('noiframe');=0A=
+      document.write('</ifr' + 'ame>');=0A=
+    }=0A=
+  }=0A=
+=0A=
+  w.google_ad_frameborder =3D null;=0A=
+  w.google_ad_format =3D null;=0A=
+  w.google_page_url =3D null;=0A=
+  w.google_language =3D null;=0A=
+  w.google_gl =3D null;=0A=
+  w.google_hints =3D null;=0A=
+  w.google_safe =3D null;=0A=
+  w.google_encoding =3D null;=0A=
+  w.google_ad_output =3D null;=0A=
+  w.google_max_num_ads =3D null;=0A=
+  w.google_ad_channel =3D null;=0A=
+  w.google_contents =3D null;=0A=
+  w.google_alternate_ad_url =3D null;=0A=
+  w.google_alternate_color =3D null;=0A=
+  w.google_color_bg =3D null;=0A=
+  w.google_color_text =3D null;=0A=
+  w.google_color_link =3D null;=0A=
+  w.google_color_url =3D null;=0A=
+  w.google_color_border =3D null;=0A=
+  w.google_color_line =3D null;=0A=
+  w.google_adtest =3D null;=0A=
+  w.google_kw_type =3D null;=0A=
+  w.google_kw =3D null;=0A=
+  w.google_num_radlinks =3D null;=0A=
+  w.google_max_radlink_len =3D null;=0A=
+  w.google_rl_filtering =3D null;=0A=
+  w.google_ad_type =3D null;=0A=
+  w.google_feedback =3D null;=0A=
+}=0A=
+=0A=
+function google_error_handler(message, url, line) {=0A=
+  google_show_ad();=0A=
+  return true;=0A=
+}=0A=
+=0A=
+window.onerror =3D google_error_handler;=0A=
+=0A=
+if (window.google_ad_frameborder =3D=3D null) {=0A=
+  google_ad_frameborder =3D 0;=0A=
+}=0A=
+=0A=
+if (window.google_ad_output =3D=3D null) {=0A=
+  google_ad_output =3D 'html';=0A=
+}=0A=
+=0A=
+if (window.google_ad_format =3D=3D null && window.google_ad_output =
+=3D=3D 'html') {=0A=
+  google_ad_format =3D google_ad_width + 'x' + google_ad_height;=0A=
+}=0A=
+=0A=
+if (window.google_page_url =3D=3D null) {=0A=
+  google_page_url =3D document.referrer;=0A=
+  if (window.top.location =3D=3D document.location) {=0A=
+    google_page_url =3D document.location;=0A=
+    google_last_modified_time =3D Date.parse(document.lastModified) / =
+1000;=0A=
+  }=0A=
+}=0A=
+google_show_ad();=0A=
+=0A=
+
+------=_NextPart_000_0000_01C4424D.5ACDAC80--

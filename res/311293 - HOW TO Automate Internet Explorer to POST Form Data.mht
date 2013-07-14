@@ -1,0 +1,4557 @@
+From: <Saved by Microsoft Internet Explorer 5>
+Subject: 311293 - HOW TO: Automate Internet Explorer to POST Form Data
+Date: Tue, 25 May 2004 11:44:27 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_000D_01C4424D.A232CDD0";
+	type="multipart/alternative"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://support.microsoft.com/library/images/support/1ptrans.gif
+
+R0lGODlhAQABAIAAAP8zzAAAACH5BAEAAAAALAAAAAABAAEAQAIChFEAOwA=
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://support.microsoft.com/common/resources/Content_subban.gif
+
+R0lGODlhmwAeAPf/AKfG6Hu145K42nSImTY5OyIoKTlYY/P8/RUcISw7Q5a54pjE5qe50KbE2Ehn
+dXqWqwwUGW1scIu316qvtanT9zxicO37/aXL9DtUXCxYhYWYpiRKZ0VGSIiiuLnV6xQZHYG650Bd
+ZxshJJm4zMrT1SY0OjhZcnuiuhsdHSpEVlh4l5jH8VWHyYOVnEh3mMfY65OqtkqSx1aZx1VXWXua
+s3Wq1Geq1zZolpisxLPK6Yqr11WNs217hTRMVkiCqUiIuMrk+8Pj/GebuneoxUZmhSxZeIOdxkR2
+uLrd+kF9pTt3prbI1lV4iSd6uFWFqVyTtnWEjeH0/WiX1kmMxidRbRoqNHyQmx04STlmo1eb0DpA
+QzB/tNTs/OXr+Ut/wzxymdzu+yUuMHaPooyzzmeHk9rx/rHL8sPd+mWZx7vS8qK95jmDuIGftEty
+iFiDnIuhquv0/F2i0ozA64mJjDuIwbzZ8oOqw0lTW7Ta+2ugxcLa9meKphsjKYir5HaYxTNhi77g
++8vo/cre+ZOjqzxtjtTb9HWy4TFhflltmNrk55zB2SdCTlF2rDJPZYGNlCNLc4muxvn7/dHj+9jb
+4GeXqHKc1+Tn6pSUl7DT+pew1Hen5srb8wkSF6m+zJ6yvC5ghklMTsLR8zNqiKzQ7Vd/umaHx2d2
+pSFEZIKhwMDDyIGtzEVjcczi9oOjz7/O5tvn+l1maq/Y9tHi9hw/WPLu9zljgePw8omlyjVog+vz
+8xAgLVyMz4qlv7nQ38zU8xwfH/H0+0A5OrTZ9vD39xAXHNzs8Uxrl2qPtDpnijlzkI2qzcLf8brV
++ENxqMvf7eb4/kyRvj5ogQ0XHlFsh5Obox8oLpGz6x8eHTAyM2JdXhcfJTttriJ1rzFScH59fr/X
+95KjvOrv7NHp+E+YzqDO9H2g3rm4u09QUKijpEFAQTJflkBfgOj4+B5BYC4rK05sdy9/vnaUt9ng
+9GKR1VBwnW+Bkfb3+Pf4/BgtQJ+cmyIiIlVSU0ZveldofHGw4f///yH5BAEAAP8ALAAAAACbAB4A
+AAj/AP8JHEiw4AELCBE+69XJ05I3GsSQ8cTknYNMrlJg2NgCQ4iPLdrkEeKmxao95dR4CvFu1bs3
+qxrFSzOoR4gKbhowCYFhlStXvm6pwGEKUSYBI07w44nDVSFaqRzBmhOBw75fWFGku4aiKzYU7rBd
+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
+DbXAzI0bzC9LBwEBADs=
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://support.microsoft.com/library/images/support/blue_bullet.gif
+
+R0lGODlhBQAFAPf/AP///+/v/+fn/6Wl/5yc95yc/4yM75SU/4SE73t7/1pa1mNj70JCxjk5xjEx
+xikptSEhrQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAABQAFAEAIHwADFEgw
+IIAAAw8UBFhAAIGDBwMKDFhwwACDBhAQBAQAOw==
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://support.microsoft.com/library/images/support/emailicon.gif
+
+R0lGODlhEgASAMQaAKCgof7+/rKytJ2bm3BtaHR0dvHx8c7Ozn+AgpOTlKioqpmZmU5PUMbFyf7+
++oySkmFhYuvs7fb28tri3r7AwLu6vvr6+tTU1f///wAAAP///wAAAAAAAAAAAAAAAAAAACH5BAEA
+ABoALAAAAAASABIAAAVzoCaOZGmeaJpmbOu+rJYhi2XfuDUUmUxVA4xwOBxUBL0MJYABIIiGQsUQ
+ACSXGEelcMAIEA1h9crEFCgKiGDwEFqsPiFBgIlUJIZEQghXYggXREMHBE1JEwQVgkQHCxVJDBeS
+k5SSCgxJMJotKp2en6CfIQA7
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://support.microsoft.com/library/images/support/printicon.gif
+
+R0lGODlhEgASAMQQAP/xpvXOUPbHOP7mcf//1uOAcNdQN/vWaP/pi42mjfC6Fu65GAMDUzAxMgAA
+AP///////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEA
+ABAALAAAAAASABIAAAVtICSOZGk6aOowJuk8MPyyLfQm+PM+9BnLqdotF+uVdj+YcdQY4nKMRqlB
+QCYZB6mowWN4v2DGQssFmBHoweEQCAjG28c5vW4L3mQ5GrFmuwsGcBANCguFCoiJimSFC46PkIhk
+DZSVlpc1mZqbIQA7
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: text/css;
+	charset="iso-8859-9"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/common/css/GN/EN-US/standard/default.css
+
+ {
+	FONT-SIZE: 100%; LINE-HEIGHT: 1.25em; FONT-FAMILY: =
+Tahoma,Verdana,Arial,Helvetica
+}
+BODY {
+	FONT-SIZE: 70%; MARGIN: 0px; BACKGROUND-COLOR: white
+}
+P {
+=09
+}
+A {
+	COLOR: blue
+}
+A:active {
+	COLOR: red
+}
+A:hover {
+	COLOR: red
+}
+A:visited {
+	COLOR: purple
+}
+UL {
+=09
+}
+.tpl_top_banner {
+	BORDER-BOTTOM: white 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #0a6cce
+}
+.tpl_body {
+=09
+}
+.tpl_content {
+	PADDING-BOTTOM: 6px; PADDING-TOP: 6px
+}
+.tpl_content_bar {
+	BORDER-LEFT: white 1px solid; WIDTH: 100%; HEIGHT: 30px; =
+BACKGROUND-COLOR: #004080
+}
+.tpl_content_title {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: =
+16px; PADDING-BOTTOM: 5px; WIDTH: 90%; COLOR: white; PADDING-TOP: 5px; =
+FONT-FAMILY: Verdana
+}
+.subBannerGif {
+	HEIGHT: 30px
+}
+.tpl_footer {
+	HEIGHT: 48px; BACKGROUND-COLOR: #0a6cce
+}
+.tpl_footer_row1 {
+	COLOR: white
+}
+.tpl_footer_row2 {
+	PADDING-LEFT: 5px; FONT-SIZE: 10px; MARGIN-BOTTOM: 6px; COLOR: white; =
+BACKGROUND-COLOR: #0a6cce
+}
+.tpl_left_nav_cell {
+	BORDER-RIGHT: #999999 1px solid; FONT-SIZE: 12px; PADDING-BOTTOM: 6px; =
+FONT-FAMILY: inherit; BACKGROUND-COLOR: #f1f1f1
+}
+.tpl_left_nav_cell A {
+	COLOR: blue
+}
+.tpl_left_nav_cell A:visited {
+	COLOR: blue
+}
+.tpl_left_nav_cell A:active {
+	COLOR: blue
+}
+.tpl_left_nav_cell A:hover {
+	COLOR: purple
+}
+.tpl_search_container {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; WIDTH: =
+180px; PADDING-TOP: 4px; BACKGROUND-COLOR: #0a6cce
+}
+.tpl_flyout_container {
+	PADDING-BOTTOM: 5px; WIDTH: 180px; BORDER-BOTTOM: #999999 1px solid
+}
+.tpl_feedback_container {
+	DISPLAY: none; WIDTH: 180px; TEXT-ALIGN: left
+}
+.tpl_feedback_container A:visited {
+	COLOR: purple
+}
+.tpl_leftad_container {
+	MARGIN-TOP: 12px; FONT-WEIGHT: bold; FONT-SIZE: 12px; WIDTH: 180px; =
+TEXT-ALIGN: center
+}
+#TopPanel {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+#idToolbar {
+	BACKGROUND-COLOR: #3366cc
+}
+
+@media Print   =20
+{
+.ftr_copyright_text {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: =
+Tahoma,Verdana,Arial,Helvetica
+}
+.tpl_left_nav_cell {
+	DISPLAY: none
+}
+.tpl_top_banner {
+	DISPLAY: none
+}
+.kbRightNav {
+	DISPLAY: none
+}
+.fhRightNav {
+	DISPLAY: none
+}
+.subBannerGif {
+	DISPLAY: none
+}
+.GetHelpHori {
+	DISPLAY: none
+}
+.GetHelpVert {
+	DISPLAY: none
+}
+#idToolbar {
+	DISPLAY: none
+}
+#idICPBanner {
+	DISPLAY: none
+}
+.noprint {
+	DISPLAY: none
+}
+
+}
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: text/css;
+	charset="iso-8859-9"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/common/css/GN/EN-US/standard/SearchUI.css
+
+.SrchCatalogOuterTable {
+	WIDTH: 100%
+}
+.SrchCatalogLabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+.SrchCatalogSelect {
+	FONT-SIZE: 11px; WIDTH: 175px
+}
+SrchCatalogRtSelect {
+	FONT-SIZE: 11px; WIDTH: 165px
+}
+.SrchQueryOuterTable {
+	WIDTH: 100%
+}
+.SrchQueryLabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+.SrchQueryRtInput {
+	WIDTH: 132px
+}
+.SrchQueryInput {
+	WIDTH: 150px
+}
+.AdvSrchQuery {
+	WIDTH: 100%
+}
+.SrchProductOuterTable {
+	WIDTH: 100%
+}
+.SrchProductLabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+.SrchProductSelect {
+	WIDTH: 100%
+}
+.Srchother .SrchProductSelect {
+	WIDTH: 180px
+}
+.SrchnumDaysOuterTable {
+	WIDTH: 100%
+}
+.SrchnumDaysLabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+.SrchnumDaysSelect {
+	WIDTH: 100%
+}
+.SrchKeywordTypeOuterTable {
+	WIDTH: 100%
+}
+.SrchKeywordTypeLabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+.SrchKeywordTypeSelect {
+	WIDTH: 100%
+}
+.SrchmaxResultsOuterTable {
+	WIDTH: 100%
+}
+.SrchmaxResultsLabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+.SrchmaxResultsSelect {
+	WIDTH: 100%
+}
+.SrchTitlesOuterTable {
+	WIDTH: 100%
+}
+.SrchTitlesLabel {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+.SrchTitlesInput {
+	FONT-SIZE: 11px
+}
+.SrchOptionText {
+	PADDING-LEFT: 4px
+}
+.SrchOptionText A {
+	FONT-SIZE: 11px; COLOR: blue
+}
+.SrchOptionText A:visited {
+	FONT-SIZE: 11px; COLOR: blue
+}
+.SrchOptionText A:hover {
+	FONT-SIZE: 11px; COLOR: blue
+}
+.SrchOptionText A:active {
+	FONT-SIZE: 11px; COLOR: blue
+}
+.AdvLinkWhite {
+	PADDING-LEFT: 4px
+}
+.AdvLinkWhite A {
+	FONT-SIZE: 11px; COLOR: white
+}
+.AdvLinkWhite A:visited {
+	FONT-SIZE: 11px; COLOR: white
+}
+.AdvLinkWhite A:hover {
+	FONT-SIZE: 11px; COLOR: white
+}
+.AdvLinkWhite A:active {
+	FONT-SIZE: 11px; COLOR: white
+}
+.srch_wipt {
+	WIDTH: 95%
+}
+.srch_bg {
+	BACKGROUND-COLOR: #f2f2f2
+}
+.srch_mnpbg {
+	BACKGROUND-COLOR: #0a6cce
+}
+.srch_mnpbgRt {
+	BORDER-TOP: #999999 3px solid; BORDER-BOTTOM: #999999 3px solid; =
+BACKGROUND-COLOR: #e9e9e6
+}
+.srch_mnpFtRt {
+	BACKGROUND-COLOR: #e9e9e6
+}
+.srch_showhide {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: blue
+}
+.srch_showhide A {
+	FONT-SIZE: 11px; COLOR: blue
+}
+.srch_showhide A:visited {
+	FONT-SIZE: 11px; COLOR: blue
+}
+.srch_showhide A:active {
+	FONT-SIZE: 11px; COLOR: blue
+}
+.srch_showhide A:hover {
+	FONT-SIZE: 11px; COLOR: red
+}
+.srch_label {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; TEXT-DECORATION: =
+none
+}
+.srch_option {
+	FONT-SIZE: 11px; COLOR: #000000; TEXT-DECORATION: none
+}
+.srch_mnplabel {
+	FONT-SIZE: 11px; COLOR: #ffffff
+}
+.srch_mnpoption {
+	FONT-SIZE: 11px; COLOR: blue
+}
+.srch_mnpoption:visited {
+	FONT-SIZE: 11px; COLOR: blue
+}
+.srch_mnpheader {
+	PADDING-LEFT: 4px; FONT-SIZE: 11px; COLOR: #ffffff; TEXT-DECORATION: =
+none
+}
+.srch_mnpheaderRt {
+	PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; =
+TEXT-DECORATION: none
+}
+.srch_submit {
+	FONT-SIZE: 11px
+}
+.srch_tipt {
+	WIDTH: 125px
+}
+.srch_mnp {
+	WIDTH: 177px
+}
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: text/css;
+	charset="iso-8859-9"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/common/css/GN/EN-US/standard/webparts.css
+
+.bbar_outer {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; MARGIN: 0px; BORDER-LEFT: 0px; =
+BORDER-BOTTOM: 0px
+}
+.bbar_cell {
+	BORDER-RIGHT: white 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #0a6cce
+}
+.bbar_cell_hot {
+	BORDER-RIGHT: white 1px solid; CURSOR: hand; BACKGROUND-COLOR: #004080
+}
+.bbar_cell A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, =
+Arial,Helvetica; TEXT-DECORATION: none
+}
+.bbar_cell A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, =
+Arial,Helvetica; TEXT-DECORATION: none
+}
+.bbar_cell A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, =
+Arial,Helvetica; TEXT-DECORATION: none
+}
+.bbar_cell A:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, =
+Arial,Helvetica; TEXT-DECORATION: none
+}
+.bbar_cell A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, =
+Arial,Helvetica; TEXT-DECORATION: none
+}
+.bbar_cell_hot A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, =
+Arial,Helvetica; TEXT-DECORATION: none
+}
+.bbar_cell_hot A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, =
+Arial,Helvetica; TEXT-DECORATION: none
+}
+.bbar_cell_hot A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, =
+Arial,Helvetica; TEXT-DECORATION: none
+}
+.bbar_cell_hot A:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, =
+Arial,Helvetica; TEXT-DECORATION: none
+}
+.bbar_cell_hot A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, =
+Arial,Helvetica; TEXT-DECORATION: none
+}
+.fbtn_cell {
+	BORDER-RIGHT: white 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 10px
+}
+.fbtn_cell A:link {
+	COLOR: white; TEXT-DECORATION: none
+}
+.fbtn_cell A:active {
+	COLOR: white; TEXT-DECORATION: none
+}
+.fbtn_cell A:visited {
+	COLOR: white; TEXT-DECORATION: none
+}
+.fbtn_cell A:hover {
+	COLOR: #ffcc00
+}
+.ftr_copyright_text {
+	FONT-SIZE: 10px; COLOR: white
+}
+.ftr_copyright_text {
+	COLOR: white
+}
+.ftr_copyright_text:link {
+	COLOR: white
+}
+.ftr_copyright_text:active {
+	COLOR: white
+}
+.ftr_copyright_text:visited {
+	COLOR: white
+}
+.ftr_copyright_text:hover {
+	COLOR: #ffcc00
+}
+.mghead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+inherit; TEXT-DECORATION: none
+}
+.mginhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: =
+verdana,arial,helvetica; TEXT-DECORATION: none
+}
+.LeftNav_Header {
+	FONT-SIZE: 12px; COLOR: #ffffff
+}
+.blue_bg {
+	BACKGROUND-COLOR: #3366cc
+}
+.consolewpchevron {
+	FILTER: =
+progid:DXImageTransform.Microsoft.AlphaImageLoader(src=3D'/library/images=
+/support/chevron.png', sizing=3D'scale'); CURSOR: hand
+}
+.consolewpchevrondn {
+	FILTER: =
+progid:DXImageTransform.Microsoft.AlphaImageLoader(src=3D'/library/images=
+/support/chevrondn.png', sizing=3D'scale'); CURSOR: hand
+}
+.consolewpgrip {
+	FILTER: =
+progid:DXImageTransform.Microsoft.AlphaImageLoader(src=3D'/library/images=
+/support/grippy.png', sizing=3D'scale'); CURSOR: move
+}
+.xnewstree {
+	OVERFLOW: scroll; WIDTH: 100%; HEIGHT: 100%; BACKGROUND-COLOR: #ffffff; =
+scroll: auto
+}
+.xnewsgroup {
+	FONT-SIZE: 100%; COLOR: #003399; FONT-FAMILY: inherit; TEXT-DECORATION: =
+none
+}
+.xnewsheader {
+	FONT-SIZE: 100%; COLOR: #000000; FONT-FAMILY: inherit; TEXT-DECORATION: =
+none
+}
+.xnewsborder {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; WIDTH: =
+100%; HEIGHT: 100%; BACKGROUND-COLOR: #3366cc
+}
+.webContentContainer {
+	MARGIN-TOP: 12px; MARGIN-BOTTOM: 12px; MARGIN-LEFT: 12px; WIDTH: 95%
+}
+.webExceptionBlock .webContentContainer {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px; POSITION: relative
+}
+.webExceptionBlock .webContentContainer .faqHeaderIcon {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px; POSITION: relative; TOP: -17px
+}
+.webContentContainer .GenericError {
+	MARGIN-LEFT: 1em; POSITION: relative; TOP: 48px
+}
+.FHerror {
+	MARGIN-TOP: 24px
+}
+.LinkPartListTable {
+	FONT-SIZE: 11px; MARGIN-RIGHT: 5px; FONT-FAMILY: inherit
+}
+.LinkPartListTable .nbTD {
+	PADDING-LEFT: 4px
+}
+.ListNugget {
+	BORDER-TOP: #999999 3px solid; MARGIN-TOP: 8px; FONT-SIZE: 11px; =
+MARGIN-BOTTOM: 8px; WIDTH: 165px; BORDER-BOTTOM: #999999 3px solid; =
+BACKGROUND-COLOR: #e9e9e6
+}
+.ListNugget P {
+	MARGIN-TOP: 3px
+}
+.ListNugget A {
+	COLOR: blue
+}
+.ListNugget A:active {
+	COLOR: blue
+}
+.ListNugget A:hover {
+	COLOR: red
+}
+.ListNuggetHeader {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; =
+PADDING-BOTTOM: 2px; WIDTH: 100%; COLOR: black; PADDING-TOP: 2px; =
+BACKGROUND-COLOR: #e9e9e6
+}
+.ListNuggetBody {
+	PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; CURSOR: default; COLOR: black; =
+PADDING-TOP: 2px; FONT-FAMILY: Verdana, Arial, Helvetica; =
+BACKGROUND-COLOR: #e9e9e6
+}
+.ListNuggetBody UL {
+	MARGIN-TOP: 2px; LIST-STYLE-IMAGE: =
+url(/library/images/support/blue_bullet.gif); MARGIN-BOTTOM: 2px; =
+MARGIN-LEFT: 18px
+}
+.ListNuggetBody LI {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 4px
+}
+.ListNuggetBody P {
+	COLOR: black
+}
+.LinkDescription {
+	MARGIN-TOP: 2px; MARGIN-BOTTOM: 6px
+}
+.ListNuggetItem {
+	FONT-SIZE: 11px
+}
+.ListNuggetItemLink {
+	FONT-SIZE: 11px
+}
+.GetHelpVert {
+=09
+}
+.GetHelpHori {
+	MARGIN-TOP: 35px
+}
+.GetHelpTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: red; FONT-FAMILY: Franklin =
+Gothic Medium
+}
+.GetHelpText {
+	FONT-SIZE: 11px
+}
+#Part_gsfxSearch .ListNuggetBody {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; =
+PADDING-TOP: 0px
+}
+#foFlyoutMenuDown .ListNuggetBody {
+	PADDING-LEFT: 0px
+}
+#foFlyoutMenuUpBody {
+	PADDING-LEFT: 6px
+}
+#AdvSearch .ListNuggetHeader {
+	COLOR: white; BACKGROUND-COLOR: #004080
+}
+.lightblue {
+	BACKGROUND-COLOR: #3366cc
+}
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: text/css;
+	charset="iso-8859-9"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/common/css/GN/EN-US/standard/KBArticleV2.css
+
+.KBPUBV2 {
+	DISPLAY: inline-block; FONT-SIZE: 100%; MARGIN: 0px 4px 4px 8px; =
+FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.kbRightCol {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 16px; FONT-SIZE: 100%; FLOAT: right; =
+PADDING-BOTTOM: 0px; MARGIN: 8px 8px 0px 12px; WIDTH: 165px; =
+PADDING-TOP: 0px; POSITION: static
+}
+.kbRightNav {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 16px; FONT-SIZE: 100%; FLOAT: right; =
+PADDING-BOTTOM: 0px; MARGIN: 8px 8px 0px 12px; WIDTH: 165px; =
+PADDING-TOP: 0px; POSITION: static
+}
+.kbRightCol A {
+	FONT-WEIGHT: normal
+}
+.kbRightNav A {
+	FONT-WEIGHT: normal
+}
+.kbRightCol A:visited {
+	COLOR: purple
+}
+.kbRightNav A:visited {
+	COLOR: purple
+}
+.KBTT .dec {
+	LIST-STYLE-TYPE: decimal
+}
+.KBPUBV2 .dec {
+	LIST-STYLE-TYPE: decimal
+}
+.KBTT .alpha {
+	LIST-STYLE-TYPE: lower-alpha
+}
+.KBPUBV2 .alpha {
+	LIST-STYLE-TYPE: lower-alpha
+}
+.KBTT UL {
+	LIST-STYLE-TYPE: disc
+}
+.KBPUBV2 UL {
+	LIST-STYLE-TYPE: disc
+}
+.KBTT LI {
+	MARGIN-LEFT: -0.5em
+}
+.KBPUBV2 LI {
+	MARGIN-LEFT: -0.5em
+}
+.KBTT OL LI {
+	MARGIN-BOTTOM: 1px; MARGIN-LEFT: -0.2em; LINE-HEIGHT: 120%
+}
+.KBPUBV2 OL LI {
+	MARGIN-BOTTOM: 1px; MARGIN-LEFT: -0.2em; LINE-HEIGHT: 120%
+}
+.KBTT UL LI {
+	MARGIN-BOTTOM: 1px; MARGIN-LEFT: -0.5em; LINE-HEIGHT: 120%
+}
+.KBPUBV2 UL LI {
+	MARGIN-BOTTOM: 1px; MARGIN-LEFT: -0.5em; LINE-HEIGHT: 120%
+}
+.KBTT UL UL {
+	FONT-SIZE: 100%; LIST-STYLE-TYPE: square
+}
+.KBPUBV2 UL UL {
+	FONT-SIZE: 100%; LIST-STYLE-TYPE: square
+}
+.KBTT UL UL LI {
+	FONT-SIZE: 100%
+}
+.KBPUBV2 UL UL LI {
+	FONT-SIZE: 100%
+}
+.KBTT UL UL UL {
+	FONT-SIZE: 100%; LIST-STYLE-TYPE: circle
+}
+.KBPUBV2 UL UL UL {
+	FONT-SIZE: 100%; LIST-STYLE-TYPE: circle
+}
+.KBTT UL UL UL UL {
+	FONT-SIZE: 100%; LIST-STYLE-TYPE: square
+}
+.KBPUBV2 UL UL UL UL {
+	FONT-SIZE: 100%; LIST-STYLE-TYPE: square
+}
+.appliesto {
+	BORDER-TOP: #cccccc 1px solid; MARGIN-TOP: 2em; FONT-WEIGHT: bold; =
+WIDTH: 99%; PADDING-TOP: 1em
+}
+.appliesto H3 {
+	FONT-SIZE: 110%; FONT-FAMILY: Verdana, Helvetica
+}
+.appliesto UL {
+	MARGIN-TOP: 0.5em; FONT-WEIGHT: normal
+}
+.appliesto UL UL {
+	MARGIN-TOP: 0em; FONT-SIZE: 100%; MARGIN-BOTTOM: 0.5em
+}
+.appliesto UL LI {
+	MARGIN-TOP: 0em; MARGIN-BOTTOM: 0em
+}
+.notice {
+	MARGIN-TOP: 1.4em; MARGIN-BOTTOM: 0em; PADDING-TOP: 4px
+}
+.KBTT .indent {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em; MARGIN-LEFT: 2em
+}
+.KBPUBV2 .indent {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em; MARGIN-LEFT: 2em
+}
+.copyright {
+=09
+}
+.disclaimer {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; =
+PADDING-TOP: 5px
+}
+.TableData TABLE {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em; WIDTH: 95%
+}
+.TableData TH {
+	BORDER-RIGHT: white 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: white =
+1px solid; PADDING-LEFT: 4px; FONT-SIZE: 100%; PADDING-BOTTOM: 4px; =
+BORDER-LEFT: white 1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: white 1px =
+solid; BACKGROUND-COLOR: #cccccc; TEXT-ALIGN: center
+}
+.TableData TR {
+=09
+}
+.TableData TD {
+	BORDER-RIGHT: white 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: white =
+1px solid; PADDING-LEFT: 4px; FONT-SIZE: 100%; PADDING-BOTTOM: 4px; =
+BORDER-LEFT: white 1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: white 1px =
+solid; BACKGROUND-COLOR: #f4f4fc
+}
+.docinfo {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium =
+none; WIDTH: 95%; BORDER-BOTTOM: medium none
+}
+.docinfo TD {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium =
+none; BORDER-BOTTOM: medium none
+}
+.docinfo {
+	MARGIN-TOP: 12px
+}
+.docinfo TD.data {
+	FONT-SIZE: 100%; BACKGROUND-COLOR: #f4f4fc
+}
+.docinfo TD.label {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; BACKGROUND-COLOR: #cccccc
+}
+.KBPUBV2 IMG.graphic {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: =
+0px
+}
+.KBPUBV2 .E {
+	MARGIN-TOP: 0.5em; DISPLAY: block; MARGIN-BOTTOM: 0.3em
+}
+.KBPUBV2 KBD {
+	FONT-WEIGHT: bold
+}
+.KBPUBV2 .weboutput {
+=09
+}
+.KBPUBV2 .weboutput TABLE OBJECT {
+	POSITION: static
+}
+.KBPUBV2 .URLLink:hover {
+	CURSOR: hand; COLOR: #ff9900
+}
+.KBPUBV2 .kblink:hover {
+	CURSOR: hand; COLOR: #ff9900
+}
+.KBPUBV2 .UNCLink:hover {
+	CURSOR: hand; COLOR: #ff9900
+}
+.KBPUBV2 .URLLink:link {
+	COLOR: #0000ff
+}
+.KBPUBV2 .kblink:link {
+	COLOR: #0000ff
+}
+.KBPUBV2 .UNCLink:link {
+	COLOR: #0000ff
+}
+.KBPUBV2 .URLLink:visited {
+	COLOR: #800080
+}
+.KBPUBV2 .kblink:visited {
+	COLOR: #800080
+}
+.KBPUBV2 .UNCLink:visited {
+	COLOR: #800080
+}
+.KBPUBV2 .URLLink:active {
+	COLOR: red
+}
+.KBPUBV2 .kblink:active {
+	COLOR: red
+}
+.KBPUBV2 .UNCLink:active {
+	COLOR: red
+}
+.errormsg {
+	MARGIN-TOP: 12px; DISPLAY: block; FONT-WEIGHT: normal; MARGIN-BOTTOM: =
+12px; MARGIN-LEFT: 24px; COLOR: red
+}
+.message {
+	MARGIN-TOP: 12px; MARGIN-BOTTOM: 12px; MARGIN-LEFT: 24px
+}
+PRE {
+	PADDING-RIGHT: 0.5em; MARGIN-TOP: 1em; PADDING-LEFT: 0.5em; =
+MARGIN-BOTTOM: 1em; PADDING-BOTTOM: 0.5em; MARGIN-LEFT: 24px; WIDTH: =
+100%; COLOR: black; PADDING-TOP: 0.5em; FONT-FAMILY: "Courier New", =
+courier, monospace; BACKGROUND-COLOR: #eeeeee
+}
+PRE.in_text {
+	COLOR: black; FONT-FAMILY: "Courier New", courier, monospace
+}
+H1 {
+	MARGIN-TOP: 6px; FONT-WEIGHT: bold; FONT-SIZE: 170%; MARGIN-LEFT: 0px; =
+TEXT-DECORATION: none
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 105%; MARGIN-BOTTOM: 12px; MARGIN-LEFT: =
+0px; TEXT-DECORATION: none
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; MARGIN-LEFT: 0px; TEXT-DECORATION: =
+none
+}
+H5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 95%; MARGIN-LEFT: 0px; TEXT-DECORATION: =
+none
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 110%; MARGIN: 8px 12px 6px -12px; COLOR: =
+#cc6600; PADDING-TOP: 8px; FONT-FAMILY: Verdana, Helvetica; =
+FONT-VARIANT: small-caps
+}
+.disclaimer {
+	FONT-WEIGHT: 100; FONT-SIZE: 95%
+}
+.NOTICE {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.SUMMARY {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.MOREINFORMATION {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.SYMPTOMS {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.CAUSE {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.RESOLUTION {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.STATUS {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.WORKAROUND {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.REFERENCES {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.CAUSE {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.WHATTOTRY {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.ERRORMESSAGE {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 12px
+}
+.internal .head {
+	FONT-WEIGHT: bold; COLOR: red; BORDER-TOP-STYLE: solid; =
+BACKGROUND-COLOR: white; TEXT-ALIGN: center
+}
+P.internal {
+	MARGIN-LEFT: 5%; MARGIN-RIGHT: 5%
+}
+.internal .tail {
+	COLOR: red; BACKGROUND-COLOR: white; BORDER-BOTTOM-STYLE: solid
+}
+.partner .head {
+	FONT-WEIGHT: bold; COLOR: #ffaa00; BORDER-TOP-STYLE: solid; =
+BACKGROUND-COLOR: white; TEXT-ALIGN: center
+}
+P.partner {
+	MARGIN-LEFT: 5%; MARGIN-RIGHT: 5%
+}
+.partner .tail {
+	COLOR: #ffaa00; BACKGROUND-COLOR: white; BORDER-BOTTOM-STYLE: solid
+}
+.KBSC {
+	DISPLAY: inline-block; MARGIN: 0px 8px 4px 6px; FONT-FAMILY: verdana, =
+arial, helvetica, sans-serif
+}
+.KBQA {
+	DISPLAY: inline-block; MARGIN: 0px 8px 4px 6px; FONT-FAMILY: verdana, =
+arial, helvetica, sans-serif
+}
+.KBTT {
+	DISPLAY: inline-block; MARGIN: 0px 8px 4px 6px; FONT-FAMILY: verdana, =
+arial, helvetica, sans-serif
+}
+.KBSI {
+	DISPLAY: inline-block; MARGIN: 0px 8px 4px 6px; FONT-FAMILY: verdana, =
+arial, helvetica, sans-serif
+}
+.KBSI {
+	MARGIN: 0px 0px 4px
+}
+.SectionImage {
+	PADDING-LEFT: 8px; FLOAT: right; MARGIN: 4px 10px 8px 4px; WIDTH: =
+110px; POSITION: static
+}
+.dropCap {
+	FONT-SIZE: x-large
+}
+.qaText {
+	PADDING-TOP: 9px
+}
+.blurb {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 5px; PADDING-BOTTOM: 10px; =
+PADDING-TOP: 0px
+}
+.g_graphic {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; =
+BORDER-LEFT: #999999 1px solid; PADDING-TOP: 0px
+}
+.b_graphic {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 4px; PADDING-LEFT: 4px; =
+PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.kbRightCol {
+	FLOAT: none
+}
+.KBSI H1 {
+	MARGIN-LEFT: 10px
+}
+.KBSI H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 110%; MARGIN: 10px 2px 6px 0px; COLOR: =
+#cc6600; PADDING-TOP: 4px; FONT-FAMILY: Verdana, Helvetica; =
+FONT-VARIANT: small-caps
+}
+.kbQA .Summary {
+	PADDING-RIGHT: 24px; BORDER-TOP: #999999 1px solid; MARGIN-TOP: 0px; =
+PADDING-LEFT: 12px
+}
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0020_01C4424D.A2353ED0"
+
+
+------=_NextPart_001_0020_01C4424D.A2353ED0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/default.aspx?scid=kb;EN-US;311293
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>311293 - HOW TO: Automate Internet Explorer to POST =
+Form Data</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dutf-8"><!-- (c) 2001, 2002 Microsoft Corporation. All Rights =
+Reserved --><!-- TK2MSFTWBSUP06 ASM: GSS, Version=3D3.7.5.0, =
+Culture=3Dneutral, PublicKeyToken=3Dnull FW: 1.1.4322.573 --><!-- REGC: =
+Windows-1254 DEFRC: utf-8 RESG: 5/25/2004 1:42:28 AM RESX: 1/1/0001 =
+12:00:00 AM -->
+<META=20
+content=3D"kbHOWTOmaster KB311293  kbAudDeveloper kbVBNET2002 =
+kbVBNET2003 kbVBNETSearch kbVBSearch "=20
+name=3DKeywords>
+<META=20
+content=3D"An automation controller, such as Microsoft Visual Basic, can =
+automate Microsoft Internet Explorer to send data by using the POST =
+method to an HTTP server (such as Microsoft Internet Information =
+Services [IIS]). This article explains how to automate..."=20
+name=3DDescription>
+<META content=3DEN name=3DMS.LOCALE>
+<SCRIPT language=3DJavascript=20
+src=3D"http://support.microsoft.com/common/script/gsfx/common.js"></SCRIP=
+T>
+<LINK=20
+href=3D"http://support.microsoft.com/common/css/GN/EN-US/standard/default=
+.css"=20
+type=3Dtext/css rel=3Dstylesheet></LINK>
+<SCRIPT=20
+src=3D"http://support.microsoft.com/common/script/gsfx/searchui.js"></SCR=
+IPT>
+<LINK=20
+href=3D"http://support.microsoft.com/common/css/GN/EN-US/standard/SearchU=
+I.css"=20
+type=3Dtext/css rel=3Dstylesheet></LINK>
+<SCRIPT language=3DJavascript=20
+src=3D"http://support.microsoft.com/common/script/gsfx/uplevel.js"></SCRI=
+PT>
+<LINK=20
+href=3D"http://support.microsoft.com/common/css/GN/EN-US/standard/webpart=
+s.css"=20
+type=3Dtext/css rel=3Dstylesheet></LINK><LINK=20
+href=3D"http://support.microsoft.com/common/css/GN/EN-US/standard/KBArtic=
+leV2.css"=20
+type=3Dtext/css rel=3Dstylesheet></LINK><!-- Qualified for Survey -->
+<SCRIPT language=3Djavascript=20
+src=3D"http://support.microsoft.com/common/script/fx/surveytrigger.js"></=
+SCRIPT>
+
+<SCRIPT language=3DJavaScript>=0A=
+=0A=
+					var Exp =3D 90;=0A=
+					var Delay =3D 0;=0A=
+					var Freq =3D 2211;=0A=
+					var CookieDef =3D 'ST_GN_TR';=0A=
+					var SurveyStyle =3D 'popup';=0A=
+					var DisplayIntroPage =3D 1;=0A=
+					var EmailStyle =3D 0;=0A=
+					var EmailSurveyID =3D '';=0A=
+					var ReferringURL =3D '';=0A=
+				    =0A=
+</SCRIPT>
+
+<META content=3D"MSHTML 6.00.2800.1400" name=3DGENERATOR></HEAD>
+<BODY bgColor=3D#ffffff leftMargin=3D0 topMargin=3D0 =
+onload=3DthisLoad();=20
+onunload=3DthisUnload(); marginwidth=3D"0" marginheight=3D"0">
+<DIV id=3DTopPanel name=3D"TopPanel">
+<SCRIPT language=3DJavaScript=20
+src=3D"http://support.microsoft.com/common/script/gsfx/toolbar.js"></SCRI=
+PT>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>var =
+ToolBar_Supported =3D ToolBar_Supported ;
+if (ToolBar_Supported !=3D null && ToolBar_Supported =3D=3D true)
+{
+	//To Turn on/off Instrumentation set DoInstrumentation =3D true/false.
+	DoInstrumentation=3D true;
+
+	// Customize default MS menu color - bgColor, fontColor, mouseoverColor
+	setDefaultMSMenuColor("#000000", "white", "red");
+
+	// Customize toolbar background color
+	setToolbarBGColor("white");
+
+	// display default ICP Banner
+	=
+setICPBanner("/turkiye/library/toolbar/images/bannertur256.gif","/isapi/g=
+omscom.asp?target=3D/turkiye/default.htm","microsoft.com T=C3=BCrkiye") =
+;
+=09
+	// display MSCOM Banner
+	=
+setMSBanner("mslogo.gif","/isapi/gomscom.asp?target=3D/","microsoft.com")=
+ ;
+
+	// display ADS
+	=
+//setAds("/turkiye/library/toolbar/images/ADS/adbos.gif","/isapi/gomscom.=
+asp?target=3D/turkiye/","microsoft.com turkiye") ;
+
+	//***** Add Standard Microsoft.com menus *****
+	//ProductsMenu	=09
+	addMSMenu("ProductsMenu", "T=C3=BCm =C3=9Cr=C3=BCnler", =
+"","/isapi/gomscom.asp?target=3D/catalog/default.asp?subid=3D48");
+	=
+addMSSubMenu("ProductsMenu","=C3=9Cr=C3=BCnler","/isapi/gomscom.asp?targe=
+t=3D/catalog/default.asp?subid=3D48");
+	addMSSubMenuLine("ProductsMenu");
+	addMSSubMenu("ProductsMenu","BackOffice =
+Ailesi","/isapi/gomscom.asp?target=3D/turkiye/backoffice/default.htm");
+	addMSSubMenu("ProductsMenu","Office =
+Ailesi","/isapi/gomscom.asp?target=3D/turkiye/office/default.htm");
+	=
+addMSSubMenu("ProductsMenu","Windows","/isapi/gomscom.asp?target=3D/turki=
+ye/windows/");
+addMSSubMenu("ProductsMenu","Internet","/isapi/gomscom.asp?target=3D/turk=
+iye/ie/");
+
+
+	//SupportMenu
+	addMSMenu("SupportMenu", "Destek", =
+"","/isapi/gomscom.asp?target=3D/turkiye/destek/");
+	addMSSubMenu("SupportMenu","Destek =
+Hizmetleri","/isapi/gomscom.asp?target=3D/turkiye/destek/");
+	addMSSubMenu("SupportMenu","2000 =
+Y=C4=B1l=C4=B1","/isapi/gomscom.asp?target=3D/turkiye/year2k/");
+
+
+	//SearchMenu
+	addMSMenu("SearchMenu", "Arama", =
+"","/isapi/gosearch.asp?target=3D/turkiye/default.asp");
+	=
+addMSSubMenu("SearchMenu","Microsoft.com-Arama","/isapi/gosearch.asp?targ=
+et=3D/turkiye/default.asp");
+
+	//MicrosoftMenu								=09
+	addMSMenu("MicrosoftMenu", "Microsoft.com", "","");
+	=
+addMSSubMenu("MicrosoftMenu","Microsoft.com","/isapi/gomscom.asp?target=3D=
+/");
+addMSSubMenu("MicrosoftMenu","MSN","/isapi/gohome.asp?target=3D/?MSCOMTB=3D=
+MS_Microsoft|MSN home");
+	addMSSubMenuLine("MicrosoftMenu");
+	addMSSubMenu("MicrosoftMenu","Bize =
+Yaz=C4=B1n","/isapi/goregwiz.asp?target=3D/REGWIZ/regwiz.asp");
+=09
+	//Lock MSMenu so that ICP can't add make changes to it
+	//Lock("addMSMenu");
+}
+</SCRIPT>
+
+<SCRIPT language=3Djavascript>=0A=
+<!--=0A=
+	var ToolBar_Supported =3D ToolBar_Supported;=0A=
+	if(ToolBar_Supported !=3D null && ToolBar_Supported =3D=3D true){=0A=
+		Frame_Supported =3D false;=0A=
+		setToolbarBGColor("#0A6CCE");=0A=
+		=
+setICPBanner("/library/images/support/bnr_microsoft.gif","/isapi/gomscom.=
+asp?target=3D/turkiye","Microsoft.com Home Page");=0A=
+		=
+setMSBanner("TR/region_graphic.gif","/common/international.aspx","D=C3=BC=
+nya =C3=87ap=C4=B1nda Destek");=0A=
+ 		HTMLStr =3D HTMLStr.replace(/\/library\/toolbar\/images\/curve.gif/g, =
+"/library/images/toolbar/images/curveLTR.gif");=0A=
+		drawToolbar();=0A=
+	}=0A=
+//-->=0A=
+</SCRIPT>
+</DIV>
+<TABLE id=3DCenterPanel height=3D"100%" cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%"=20
+border=3D0 name=3D"CenterPanel">
+  <TBODY>
+  <TR>
+    <TD class=3Dtpl_top_banner vAlign=3Dtop>
+      <TABLE class=3Dbbar_outer height=3D18 cellSpacing=3D0 =
+cellPadding=3D0 border=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dbbar_cell =
+onmouseover=3D"this.className=3D'bbar_cell_hot';"=20
+          =
+onclick=3D"top.location.href=3D'http://support.microsoft.com/'"=20
+          onmouseout=3D"this.className=3D'bbar_cell';" noWrap><A=20
+            title=3D"Destek Ana Sayfa" =
+onclick=3Devent.cancelBubble=3Dtrue;=20
+            href=3D"http://support.microsoft.com/" =
+target=3D_top>&nbsp;&nbsp;Ana=20
+            Sayfa&nbsp;&nbsp;</A></TD>
+          <TD class=3Dbannerborder width=3D1><IMG height=3D1=20
+            =
+src=3D"http://support.microsoft.com/library/images/support/1ptrans.gif"=20
+            width=3D1></TD>
+          <TD class=3Dbbar_cell =
+onmouseover=3D"this.className=3D'bbar_cell_hot';"=20
+          =
+onclick=3D"top.location.href=3D'http://support.microsoft.com/default.aspx=
+?scid=3Dfh;TR;KBHOWTO'"=20
+          onmouseout=3D"this.className=3D'bbar_cell';" noWrap><A=20
+            title=3D"Bilgi Bankas=C4=B1nda arama yap=C4=B1n"=20
+            onclick=3Devent.cancelBubble=3Dtrue;=20
+            =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dfh;TR;KBHOWTO"=20
+            target=3D_top>&nbsp;&nbsp;Arama&nbsp;&nbsp;</A></TD>
+          <TD class=3Dbannerborder width=3D1><IMG height=3D1=20
+            =
+src=3D"http://support.microsoft.com/library/images/support/1ptrans.gif"=20
+            width=3D1></TD>
+          <TD class=3Dbbar_cell =
+onmouseover=3D"this.className=3D'bbar_cell_hot';"=20
+          =
+onclick=3D"top.location.href=3D'http://support.microsoft.com/default.aspx=
+?pr=3Dfaqs'"=20
+          onmouseout=3D"this.className=3D'bbar_cell';" noWrap><A=20
+            title=3D"S=C4=B1k Sorulan Sorular" =
+onclick=3Devent.cancelBubble=3Dtrue;=20
+            href=3D"http://support.microsoft.com/default.aspx?pr=3Dfaqs" =
+
+            target=3D_top>&nbsp;&nbsp;SSS&nbsp;&nbsp;</A></TD>
+          <TD class=3Dbannerborder width=3D1><IMG height=3D1=20
+            =
+src=3D"http://support.microsoft.com/library/images/support/1ptrans.gif"=20
+            width=3D1></TD>
+          <TD class=3Dbbar_cell =
+onmouseover=3D"this.className=3D'bbar_cell_hot';"=20
+          =
+onclick=3D"top.location.href=3D'http://support.microsoft.com/default.aspx=
+?scid=3Dfh;TR;downloadover&amp;style=3Dhome'"=20
+          onmouseout=3D"this.className=3D'bbar_cell';" noWrap><A=20
+            title=3D"=C3=9Cr=C3=BCn g=C3=BCncelle=C5=9Ftirmeleri ve =
+eklenti paketleri"=20
+            onclick=3Devent.cancelBubble=3Dtrue;=20
+            =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dfh;TR;downloadov=
+er&amp;style=3Dhome"=20
+            target=3D_top>&nbsp;&nbsp;Y=C3=BCkleme =
+Merkezi&nbsp;&nbsp;</A></TD>
+          <TD class=3Dbannerborder width=3D1><IMG height=3D1=20
+            =
+src=3D"http://support.microsoft.com/library/images/support/1ptrans.gif"=20
+            width=3D1></TD>
+          <TD class=3Dbbar_cell =
+onmouseover=3D"this.className=3D'bbar_cell_hot';"=20
+          =
+onclick=3D"top.location.href=3D'http://support.microsoft.com/newsgroups/?=
+ln=3Dtr'"=20
+          onmouseout=3D"this.className=3D'bbar_cell';" noWrap><A=20
+            title=3D"Haber Gruplar=C4=B1" =
+onclick=3Devent.cancelBubble=3Dtrue;=20
+            href=3D"http://support.microsoft.com/newsgroups/?ln=3Dtr"=20
+            target=3D_top>&nbsp;&nbsp;Haber =
+Gruplar=C4=B1&nbsp;&nbsp;</A></TD>
+          <TD class=3Dbannerborder width=3D1><IMG height=3D1=20
+            =
+src=3D"http://support.microsoft.com/library/images/support/1ptrans.gif"=20
+            width=3D1></TD>
+          <TD class=3Dbbar_cell =
+onmouseover=3D"this.className=3D'bbar_cell_hot';"=20
+          =
+onclick=3D"top.location.href=3D'http://support.microsoft.com/default.aspx=
+?scid=3Dfh;TR;CNTACT'"=20
+          onmouseout=3D"this.className=3D'bbar_cell';" noWrap><A=20
+            title=3D"Bizimle ba=C4=9Flant=C4=B1 kurun" =
+onclick=3Devent.cancelBubble=3Dtrue;=20
+            =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dfh;TR;CNTACT"=20
+            =
+target=3D_top>&nbsp;&nbsp;=C4=B0leti=C5=9Fim&nbsp;&nbsp;</A></TD>
+          <TD class=3Dbannerborder width=3D1><IMG height=3D1=20
+            =
+src=3D"http://support.microsoft.com/library/images/support/1ptrans.gif"=20
+            width=3D1></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height=3D"100%">
+      <TABLE height=3D"100%" cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dtop>
+            <TABLE class=3Dtpl_content_bar cellSpacing=3D0 =
+cellPadding=3D0=20
+            width=3D"100%">
+              <TBODY>
+              <TR>
+                <TD class=3Dtpl_content_title vAlign=3Dtop =
+align=3Dleft>Microsoft=20
+                  Knowledge Base Article - 311293 </TD>
+                <TD class=3DsubBannerGif vAlign=3Dtop align=3Dright><IMG =
+
+                  title=3D"311293 - HOW TO: Automate Internet Explorer =
+to POST Form Data"=20
+                  =
+src=3D"http://support.microsoft.com/common/resources/Content_subban.gif" =
+
+                  border=3D0> </TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop width=3D"100%">
+            <DIV class=3Dtpl_content><XMLREADER>
+            <DIV class=3DLTRContent id=3DLTRContent dir=3Dltr>
+            <DIV class=3DKBPUBV2 name=3D"KBPUBV2"><!-- - - - - - - - - - =
+- PAGE TEXT BEGINS HERE : KBPUBV2 - - - - - - - - - - -->
+            <DIV class=3DkbContainer>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD vAlign=3Dtop width=3D"100%">
+                  <TABLE class=3DkbRightNav>
+                    <TBODY>
+                    <TR>
+                      <TD =
+vAlign=3Dtop><!--GETHELP_VERT--><!--SEARCHUI-->
+                        <DIV class=3DListNugget id=3DKBFeedback =
+style=3D"WIDTH: 165px"=20
+                        name=3D"KBFeedback">
+                        <TABLE id=3DKBFeedbackHeader cellSpacing=3D0 =
+cellPadding=3D0=20
+                        width=3D"100%" name=3D"KBFeedbackHeader">
+                          <TBODY>
+                          <TR>
+                            <TD =
+class=3DListNuggetHeader>G=C3=B6r=C3=BC=C5=9Fleriniz</TD></TR>
+                          <TR>
+                            <TD width=3D"100%">
+                              <DIV class=3DListNuggetBody =
+id=3DKBFeedbackBody=20
+                              name=3D"KBFeedbackBody">
+                              <TABLE class=3DKBFeedbackTable =
+cellSpacing=3D0=20
+                              cellPadding=3D2 border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=3Dcenter width=3D6><IMG =
+height=3D5 hspace=3D0=20
+                                =
+src=3D"http://support.microsoft.com/library/images/support/blue_bullet.gi=
+f"=20
+                                width=3D5 border=3D0 =
+VALIGN=3D"MIDDLE"></TD>
+                                <TD class=3DListNuggetItem =
+vAlign=3Dtop><A=20
+                                class=3DListNuggetItemLink=20
+                                =
+href=3D"javascript:ShowSurveyWindow('/common/survey.aspx?scid=3Dsw;TR;107=
+5&amp;showpage=3D1', 'GN', 'TR' =
+,'http://support.microsoft.com/default.aspx', 'KB', 'EN-US', '311293', =
+'', '', '', '', '', '')">Bu=20
+                                makale ile ilgili =
+g=C3=B6r=C3=BC=C5=9Flerinizi belirtmek i=C3=A7in=20
+                                t=C4=B1klay=C4=B1n=C4=B1z (en =C3=A7ok =
+255=20
+                                =
+karakter).</A></TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE><=
+/DIV>
+                        <DIV class=3DListNugget id=3DSupportCenters=20
+                        style=3D"WIDTH: 165px" name=3D"SupportCenters">
+                        <TABLE id=3DSupportCentersHeader cellSpacing=3D0 =
+
+                        cellPadding=3D0 width=3D"100%"=20
+                          name=3D"SupportCentersHeader"><TBODY>
+                          <TR>
+                            <TD class=3DListNuggetHeader>Support =
+Centers</TD></TR>
+                          <TR>
+                            <TD width=3D"100%">
+                              <DIV class=3DListNuggetBody =
+id=3DSupportCentersBody=20
+                              name=3D"SupportCentersBody">
+                              <TABLE cellSpacing=3D0 cellPadding=3D2 =
+border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=3Dcenter width=3D6><IMG =
+height=3D5 hspace=3D0=20
+                                =
+src=3D"http://support.microsoft.com/library/images/support/blue_bullet.gi=
+f"=20
+                                width=3D5 border=3D0 =
+VALIGN=3D"MIDDLE"></TD>
+                                <TD class=3DListNuggetItem =
+vAlign=3Dtop><A=20
+                                class=3DListNuggetItemLink=20
+                                =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dfh;TR;vbb">Visua=
+l=20
+                                Basic</A> </TD></TR>
+                                <TR>
+                                <TD vAlign=3Dcenter width=3D6><IMG =
+height=3D5 hspace=3D0=20
+                                =
+src=3D"http://support.microsoft.com/library/images/support/blue_bullet.gi=
+f"=20
+                                width=3D5 border=3D0 =
+VALIGN=3D"MIDDLE"></TD>
+                                <TD class=3DListNuggetItem =
+vAlign=3Dtop><A=20
+                                class=3DListNuggetItemLink=20
+                                =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dfh;TR;vbNET">Vis=
+ual=20
+                                Basic .NET</A> </TD></TR>
+                                <TR>
+                                <TD vAlign=3Dcenter width=3D6><IMG =
+height=3D5 hspace=3D0=20
+                                =
+src=3D"http://support.microsoft.com/library/images/support/blue_bullet.gi=
+f"=20
+                                width=3D5 border=3D0 =
+VALIGN=3D"MIDDLE"></TD>
+                                <TD class=3DListNuggetItem =
+vAlign=3Dtop><A=20
+                                class=3DListNuggetItemLink=20
+                                =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dfh;TR;vsnet">Vis=
+ual=20
+                                Studio .NET</A>=20
+                          =
+</TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE></DIV>
+                        <DIV class=3DListNugget id=3DGeneralInfo=20
+                        style=3D"WIDTH: 165px" name=3D"GeneralInfo">
+                        <TABLE id=3DGeneralInfoHeader cellSpacing=3D0 =
+cellPadding=3D0=20
+                        width=3D"100%" name=3D"GeneralInfoHeader">
+                          <TBODY>
+                          <TR>
+                            <TD class=3DListNuggetHeader>Di=C4=9Fer =
+Destek=20
+                            Se=C3=A7enekleri</TD></TR>
+                          <TR>
+                            <TD width=3D"100%">
+                              <DIV class=3DListNuggetBody =
+id=3DGeneralInfoBody=20
+                              name=3D"GeneralInfoBody">
+                              <TABLE cellSpacing=3D0 cellPadding=3D2 =
+border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=3Dtop width=3D6><IMG =
+height=3D5 hspace=3D0=20
+                                =
+src=3D"http://support.microsoft.com/library/images/support/blue_bullet.gi=
+f"=20
+                                width=3D5 vspace=3D4 border=3D0 =
+VALIGN=3D"MIDDLE"></TD>
+                                <TD class=3DListNuggetItem =
+vAlign=3Dtop><A=20
+                                class=3DListNuggetItemLink=20
+                                =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dfh;TR;cntactms">=
+Microsoft'a=20
+                                Ula=C5=9F=C4=B1n</A>
+                                <P>Destek Se=C3=A7enekleri, Telefon =
+Numaralar=C4=B1 ve Web=20
+                                =C3=9Czerinden Destek</P></TD></TR>
+                                <TR>
+                                <TD vAlign=3Dtop width=3D6><IMG =
+height=3D5 hspace=3D0=20
+                                =
+src=3D"http://support.microsoft.com/library/images/support/blue_bullet.gi=
+f"=20
+                                width=3D5 vspace=3D4 border=3D0 =
+VALIGN=3D"MIDDLE"></TD>
+                                <TD class=3DListNuggetItem =
+vAlign=3Dtop><A=20
+                                class=3DListNuggetItemLink=20
+                                =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dfh;TR;csshome&am=
+p;style=3Dhome">M=C3=BC=C5=9Fteri=20
+                                Hizmetleri</A>
+                                <P>M=C3=BC=C5=9Fteri Hizmetleri, =
+=C3=9Cr=C3=BCn Sat=C4=B1nalma, Site ve=20
+                                =C3=9Cr=C3=BCn hakk=C4=B1nda =
+bilgilendirme</P></TD></TR>
+                                <TR>
+                                <TD vAlign=3Dtop width=3D6><IMG =
+height=3D5 hspace=3D0=20
+                                =
+src=3D"http://support.microsoft.com/library/images/support/blue_bullet.gi=
+f"=20
+                                width=3D5 vspace=3D4 border=3D0 =
+VALIGN=3D"MIDDLE"></TD>
+                                <TD class=3DListNuggetItem =
+vAlign=3Dtop><A=20
+                                class=3DListNuggetItemLink=20
+                                =
+href=3D"http://support.microsoft.com/webcasts/">Support=20
+                                Webcasts</A>
+                                <P>Online Presentations, Live and =
+Recorded, on=20
+                                Microsoft Products by Microsoft=20
+                                =
+Experts</P></TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE></DI=
+V>
+                        <DIV class=3DListNugget id=3DPageOptions=20
+                        style=3D"WIDTH: 165px" name=3D"PageOptions">
+                        <TABLE id=3DPageOptionsHeader cellSpacing=3D0 =
+cellPadding=3D0=20
+                        width=3D"100%" name=3D"PageOptionsHeader">
+                          <TBODY>
+                          <TR>
+                            <TD class=3DListNuggetHeader>Sayfa =
+Se=C3=A7enekleri</TD></TR>
+                          <TR>
+                            <TD width=3D"100%">
+                              <DIV class=3DListNuggetBody =
+id=3DPageOptionsBody=20
+                              name=3D"PageOptionsBody">
+                              <TABLE cellSpacing=3D0 cellPadding=3D2 =
+border=3D0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=3Dtop width=3D6><A=20
+                                =
+href=3D"mailto:?body=3Dhttp://support.microsoft.com/default.aspx?scid=3Dk=
+b;EN-US;311293"><IMG=20
+                                title=3D"Bu sayfay=C4=B1 bir =
+arkada=C5=9F=C4=B1n=C4=B1za g=C3=B6nderin"=20
+                                hspace=3D0=20
+                                =
+src=3D"http://support.microsoft.com/library/images/support/emailicon.gif"=
+=20
+                                border=3D0></A></TD>
+                                <TD class=3DListNuggetItem =
+vAlign=3Dtop><A=20
+                                class=3DListNuggetItemLink=20
+                                =
+onclick=3D"LogPage('kb;en-us;311293','SEND')"=20
+                                =
+href=3D"mailto:?body=3Dhttp://support.microsoft.com/default.aspx?scid=3Dk=
+b;EN-US;311293">G=C3=B6nder</A></TD></TR>
+                                <TR>
+                                <TD vAlign=3Dtop width=3D6><A=20
+                                =
+href=3D"javascript:PrintContents();"><IMG=20
+                                title=3D"Bu sayfan=C4=B1n =
+i=C3=A7eri=C4=9Fini bas=C4=B1n" hspace=3D0=20
+                                =
+src=3D"http://support.microsoft.com/library/images/support/printicon.gif"=
+=20
+                                border=3D0></A></TD>
+                                <TD class=3DListNuggetItem =
+vAlign=3Dtop><A=20
+                                class=3DListNuggetItemLink=20
+                                =
+onclick=3D"LogPage('kb;en-us;311293','PRINT')"=20
+                                =
+href=3D"javascript:PrintContents();">Bask=C4=B1</A></TD></TR></TBODY></TA=
+BLE><IFRAME=20
+                              id=3Dlogframe style=3D"DISPLAY: none" =
+border=3D0=20
+                              =
+src=3D"http://support.microsoft.com/common/blank.htm"=20
+                              width=3D0=20
+                        =
+height=3D0></IFRAME></DIV></TD></TR></TBODY></TABLE></DIV></TD></TR></TBO=
+DY></TABLE><!-- - - - - - - - - - - KB CONTENT BEGINS BELOW HERE - - - - =
+- - - - - - -->
+                  <H1 class=3Dtitle>HOW TO: Automate Internet Explorer =
+to POST=20
+                  Form Data</H1><A=20
+                  =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311293#=
+appliesto">A=C5=9Fa=C4=9F=C4=B1dakilere=20
+                  Uygulan=C4=B1r</A>
+                  <DIV class=3Dnotice>This article was previously =
+published under=20
+                  Q311293 </DIV>
+                  <DIV class=3Dnotice>For a Microsoft Visual Basic 6.0 =
+version of=20
+                  this article, see <A class=3DKBlink=20
+                  =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;167658"=
+>167658</A>.=20
+                  <A class=3Dbookmark name=3Dtoc></A>
+                  <H3>IN THIS TASK</H3>
+                  <UL>
+                    <LI><A class=3Dbookref=20
+                    =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311293#=
+1">SUMMARY</A>
+                    <LI>
+                    <UL>
+                      <LI><A class=3Dbookref=20
+                      =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311293#=
+2">More=20
+                      Information</A>
+                      <LI><A class=3Dbookref=20
+                      =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311293#=
+3">Steps=20
+                      to Implement Technique</A></LI></UL>
+                    <LI><A class=3Dbookref=20
+                    =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311293#=
+4">REFERENCES</A></LI></UL><A=20
+                  class=3Dbookmark name=3D1></A></DIV>
+                  <DIV class=3Dsummary>
+                  <H2>SUMMARY</H2><A class=3Dbookref=20
+                  =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311293#=
+1"></A>An=20
+                  automation controller, such as Microsoft Visual Basic, =
+can=20
+                  automate Microsoft Internet Explorer to send data by =
+using the=20
+                  POST method to an HTTP server (such as Microsoft =
+Internet=20
+                  Information Services [IIS]). This article explains how =
+to=20
+                  automate Internet Explorer to perform a POST of form =
+data from=20
+                  a Visual Basic .NET application. Although the examples =
+
+                  illustrate automation of the whole Internet Explorer=20
+                  application, the same techniques can be applied to the =
+Web=20
+                  Browser ActiveX control when it is hosted in an=20
+                  application.<BR><BR><SPAN class=3Dweboutput><A=20
+                  =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311293#=
+toc"=20
+                  name=3Dbottom>back to the top</A> </SPAN>
+                  <H3><A class=3Dbookmark name=3D2></A>More =
+Information</H3>Several=20
+                  methods are available for sending data to an HTTP =
+server. GET=20
+                  and POST are currently the most common two. POST is =
+typically=20
+                  used to submit form data to an HTTP server when that =
+data=20
+                  exceeds the maximum allowable transfer limit on the =
+GET=20
+                  method. This limit is typically 2 kilobytes=20
+                  (KB).<BR><BR>Internet Explorer exposes the =
+IWebBrowser(App)=20
+                  interface to automation controllers. The =
+IWebBrowser(App)=20
+                  interface has a <STRONG>Navigate</STRONG> method. In =
+Interface=20
+                  Definition Language (IDL) syntax (a universal =
+representation=20
+                  from which both the Visual Basic and Visual C++ syntax =
+is=20
+                  derived), the <STRONG>Navigate</STRONG> method looks =
+like the=20
+                  following: <PRE>HRESULT Navigate([in] BSTR URL, [in] =
+VARIANT* Flags,
+[in] VARIANT* TargetFrameName, [in] VARIANT* PostData,
+[in] VARIANT* Headers);
+				</PRE>For the purposes of performing a POST, only the URL,=20
+                  PostData, and Headers parameters are =
+relevant.<BR><BR>To call=20
+                  Navigate and POST form data to an HTTP server, the URL =
+
+                  parameter must specify a valid address, the PostData =
+parameter=20
+                  must contain a SAFEARRAY of bytes, and the Headers =
+parameter=20
+                  must contain a BSTR that contains the following HTTP =
+header:=20
+                  <P class=3Dindent>Content-Type:=20
+                  application/x-www-form-urlencoded </P>This header =
+indicates=20
+                  that the data being posted is encoded according to the =
+rules=20
+                  specified in the HTML specification.<BR><BR>Note that =
+the=20
+                  Internet Explorer Script Object Model =
+<STRONG>window</STRONG>=20
+                  object has a <STRONG>navigate</STRONG> method as well. =
+This=20
+                  <STRONG>navigate</STRONG> method will only accept a =
+URL and=20
+                  cannot be used to POST data to a Web =
+server.<BR><BR><SPAN=20
+                  class=3Dweboutput><A=20
+                  =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311293#=
+toc"=20
+                  name=3Dbottom>back to the top</A> </SPAN>
+                  <H3><A class=3Dbookmark name=3D3></A>Steps to =
+Implement=20
+                  Technique</H3>
+                  <OL class=3Ddec>
+                    <LI>Save the following Active Server Pages (ASP) =
+code into a=20
+                    file, Navpost.asp, in a directory on a Microsoft =
+Windows NT=20
+                    4.0 or Microsoft Windows 2000 server running IIS =
+version 4.0=20
+                    or 5.0. The directory should be recognized by IIS as =
+a=20
+                    virtual root with execute permissions:<PRE>&lt;%@ =
+Language=3DVBScript %&gt;
+ &lt;HTML&gt;
+      &lt;%
+      cFlavor =3D Request("Flavor")
+      cName =3D Request("FName")
+      %&gt;
+      &lt;BODY&gt;
+      Hello, &lt;% =3DcName %&gt;.
+      One scoop of &lt;% =3DcFlavor %&gt; coming right up!
+      &lt;/BODY&gt;
+ &lt;/HTML&gt;
+					</PRE>
+                    <LI>Start a new Standard EXE project in Visual Basic =
+.NET.=20
+                    Form1 is created by default. Add the following =
+controls to=20
+                    Form1:<PRE class=3Din_text>   Object                 =
+    Name                  Caption
+   -------------------------------------------------------------------
+   Label                      lblName                First Name
+   Label                      lblFlavor              Flavor
+   CommandButton              cmdSubmit              Submit
+   ComboBox                   cboFlavor
+   TextBox                    txtName
+					</PRE>
+                    <LI>On the <STRONG>Project</STRONG> menu, click =
+<STRONG>Add=20
+                    Reference</STRONG>, click the <STRONG>COM</STRONG> =
+tab,=20
+                    scroll down to select <STRONG>Microsoft Internet=20
+                    Controls</STRONG> (Shdocvw.dll), and then click=20
+                    <STRONG>Select</STRONG>.=20
+                    <LI>Import the <STRONG>System.Text</STRONG> =
+namespace. The=20
+                    <STRONG>ASCIIEncoding</STRONG> class provides a =
+method to=20
+                    convert strings into an array of bytes.<PRE>Imports =
+System.Text</PRE>
+                    <LI>Insert the following code inside Class Form1 of=20
+Form1.vb:<PRE>Private Sub cmdSubmit_Click(ByVal sender As System.Object, =
+ByVal e As System.EventArgs) Handles cmdSubmit.Click
+
+        Dim ie As SHDocVw.InternetExplorer
+        Dim vPost As Object
+        Dim vHeaders As Object
+        Dim cFlavor As String
+        Dim cParamFlavor As String
+        Dim cParamName As String
+        Dim cPostData As String
+        Dim cSeparator As String
+
+        cFlavor =3D cboFlavor.Items(cboFlavor.SelectedIndex)
+        cParamFlavor =3D "Flavor=3D"
+        cSeparator =3D "&amp;"
+        cParamName =3D "FName=3D"
+
+        cPostData =3D cParamName &amp; txtName.Text &amp; cSeparator =
+&amp; cParamFlavor &amp; cFlavor
+
+        vHeaders =3D "Content-Type: application/x-www-form-urlencoded" + =
+Chr(10) + Chr(13)
+
+   	'Convert the string to post to an array of bytes.
+        vPost =3D ASCIIEncoding.ASCII.GetBytes(cPostData)
+
+	'Create an instance of Internet Explorer and make it visible.
+        ie =3D New SHDocVw.InternetExplorer()
+        ie.Visible =3D True
+        ie.Navigate2("http://&lt;web server&gt;/navpost.asp", , , vPost, =
+vHeaders)
+
+End Sub
+
+Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As =
+System.EventArgs) Handles MyBase.Load
+
+           cboFlavor.Items.Add("Vanilla")
+           cboFlavor.Items.Add("Chocolate")
+           cboFlavor.Items.Add("Strawberry")
+           cboFlavor.SelectedIndex =3D 0
+
+End Sub=09
+					</PRE>
+                    <LI>Modify the URL in the call to Navigate, as =
+appropriate.=20
+                    Quit all running instances of Internet Explorer, and =
+then on=20
+                    the <STRONG>Run</STRONG> menu, click =
+<STRONG>Start</STRONG>.=20
+
+                    <LI>Type your name in the first name box, select a =
+flavor,=20
+                    and then click <STRONG>Submit</STRONG>.<BR><BR>The =
+data from=20
+                    the Visual Basic form will be posted to the HTTP =
+server, and=20
+                    the response will appear in the visible browser =
+window.=20
+                  </LI></OL><SPAN class=3Dweboutput><A=20
+                  =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311293#=
+toc"=20
+                  name=3Dbottom>back to the top</A> </SPAN></DIV>
+                  <DIV class=3Dreferences>
+                  <H2>REFERENCES</H2>
+                  <H3><A class=3Dbookmark name=3D4></A></H3>For =
+additional=20
+                  information about how to use WinInet to simulate a =
+form POST=20
+                  request, click the article number below to view the =
+article in=20
+                  the Microsoft Knowledge Base:=20
+                  <P class=3Dindent><A class=3DKBlink=20
+                  =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;165298"=
+>165298</A>=20
+                  HOW TO: Simulate a Form POST Request Using WinInet =
+</P>For=20
+                  additional information about how to use a URL Moniker =
+to=20
+                  simulate a form POST request, click the article number =
+below=20
+                  to view the article in the Microsoft Knowledge Base:=20
+                  <P class=3Dindent><A class=3DKBlink=20
+                  =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;165800"=
+>165800</A>=20
+                  PostMon.exe Demonstrates How to Use URL Moniker to =
+POST Data=20
+                  </P>
+                  <P class=3Dindent><A class=3DKBlink=20
+                  =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311294"=
+>311294</A>=20
+                  HOW TO: Host a WebBrowser Control in Visual Basic .NET =
+to Post=20
+                  Form Data </P><SPAN class=3Dweboutput><A=20
+                  =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dkb;EN-US;311293#=
+toc"=20
+                  name=3Dbottom>back to the top</A> </SPAN></DIV>
+                  <DIV class=3Dappliesto id=3Dappliesto =
+name=3D"appliesto">
+                  <H3>The information in this article applies to:</H3>
+                  <UL>
+                    <LI>Microsoft Visual Basic .NET (2002)
+                    <LI>Microsoft Visual Basic .NET =
+(2003)</LI></UL></DIV>
+                  <TABLE class=3Ddocinfo cellSpacing=3D1 cellPadding=3D3 =
+
+                    align=3Dcenter><TBODY>
+                    <TR>
+                      <TD class=3Dlabel vAlign=3Dtop noWrap =
+align=3Dright=20
+                        width=3D"5%">Last Reviewed:</TD>
+                      <TD class=3Ddata vAlign=3Dtop =
+align=3Dleft>7/30/2003 (2.0)=20
+                    </TD></TR>
+                    <TR class=3Dcomposite>
+                      <TD class=3Dlabel vAlign=3Dtop noWrap =
+align=3Dright=20
+                        width=3D"5%">Keywords:</TD>
+                      <TD class=3Ddata vAlign=3Dtop =
+align=3Dleft>kbHOWTOmaster=20
+                        KB311293 =
+kbAudDeveloper</TD></TR></TBODY></TABLE><BR>
+                  <DIV class=3Ddisclaimer></DIV><!-- - - - - - - - - - - =
+- PAGE TEXT ENDS ABOVE HERE - - - - - - - - - - - --></TD></TR>
+              <TR>
+                <TD=20
+            =
+align=3Dmiddle><!--GETHELP_HORI--></TD></TR></TBODY></TABLE></DIV></DIV><=
+/DIV></XMLREADER></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABL=
+E>
+<DIV class=3Dtpl_footer id=3DBottomPanel name=3D"BottomPanel">
+<TABLE class=3Dtpl_footer_row1>
+  <TBODY>
+  <TR>
+    <TD class=3Dfbtn_cell>&nbsp;<A href=3D"mailto:"=20
+target=3D_top>G=C3=B6nder</A>&nbsp;</TD>
+    <TD class=3Dfbtn_cell>&nbsp;<A href=3D"javascript:PrintContents();"=20
+      target=3D_top>Bask=C4=B1</A>&nbsp;</TD>
+    <TD class=3Dfbtn_cell>&nbsp;<A=20
+      =
+href=3D"http://support.microsoft.com/default.aspx?scid=3Dfh;TR;GSSHELP"=20
+      target=3D_top>Yard=C4=B1m</A>&nbsp;</TD></TR></TBODY></TABLE><BR>
+<DIV class=3Dtpl_footer_row2><A class=3Dftr_copyright_text=20
+href=3D"http://support.microsoft.com/default.aspx?scid=3D%2fdirectory%2fm=
+isc%2fcpyright.asp%3fsd%3dgn"=20
+target=3Dhttp://support.microsoft.com/default.aspx?scid=3D%2fdirectory%2f=
+misc%2fcpyright.asp%3fsd%3dgn>=C2=A9=20
+2004 Microsoft Corporation. T=C3=BCm haklar=C4=B1 sakl=C4=B1d=C4=B1r. =
+Kullanma=20
+Ko=C5=9Fullar=C4=B1</A>&nbsp;&nbsp;<A class=3Dftr_copyright_text=20
+href=3D"http://support.microsoft.com/default.aspx?scid=3D%2fisapi%2fgomsc=
+om.asp%3ftarget%3d%2finfo%2fprivacy.htm"=20
+target=3Dhttp://support.microsoft.com/default.aspx?scid=3D%2fisapi%2fgoms=
+com.asp%3ftarget%3d%2finfo%2fprivacy.htm>Gizlilik=20
+Politikas=C4=B1</A>&nbsp;&nbsp;<A class=3Dftr_copyright_text=20
+href=3D"http://support.microsoft.com/default.aspx?scid=3D%2fisapi%2fgomsc=
+om.asp%3ftarget%3d%2fenable%2ftelecomm.htm"=20
+target=3Dhttp://support.microsoft.com/default.aspx?scid=3D%2fisapi%2fgoms=
+com.asp%3ftarget%3d%2fenable%2ftelecomm.htm>Engellilik/eri=C5=9Febilirlik=
+</A>&nbsp;&nbsp;</DIV></DIV><IMG=20
+style=3D"DISPLAY: none"=20
+src=3D"http://support.microsoft.com/library/images/support/1ptrans.gif"=20
+name=3Dmetrixgif>
+<SCRIPT language=3DJavaScript>=0A=
+   function thisLoad(){=0A=
+setcookieval("SITE","GN");=0A=
+gsfxUpLevel();=0A=
+=0A=
+   g_reSupportedHostnames =3D new =
+RegExp(".msn.com$|.passport.com$|.xbox.com$|.microsoft.com$|.microsoft.cz=
+$|.msbpn.com$|.microsoft.co.*", "i");=0A=
+  =
+ForeignLink_Hookup(true);LogHit('http://c.microsoft.com/trans_pixel.asp?T=
+YPE=3DSSPV&SOURCE=3DSUPPORT&URI=3D/GN/TR/kb_en-us_311293&GUID=3D1F4FC18C-=
+F71E-47fb-8FC9-612F8EE59C61&R=3D');=0A=
+   }=0A=
+=0A=
+function thisUnload(){=0A=
+fireTrigger('/common/survey.aspx?scid=3Dsw;tr;1035&XSL=3D','GN','TR','%25=
+2fdefault.aspx%253fscid%253dkb%253bEN-US%253b311293','kb','EN-US','311293=
+','','','','','','','');;   }=0A=
+</SCRIPT>
+ </BODY></HTML>
+
+------=_NextPart_001_0020_01C4424D.A2353ED0
+Content-Type: text/html;
+	charset="windows-1254"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/common/blank.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dwindows-1254"><!--TOOLBAR_EXEMPT-->
+<META content=3Dnoindex,nofollow name=3Drobots>
+<META content=3D"MSHTML 6.00.2800.1400" name=3DGENERATOR></HEAD>
+<BODY></BODY></HTML>
+
+------=_NextPart_001_0020_01C4424D.A2353ED0--
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/common/script/gsfx/common.js
+
+var dg =3D document.getElementById;
+
+function LogPage(cntID,opt)
+{
+	if(dg)
+	{
+		if(dg('logframe')) dg('logframe').src=3D =
+"/common/PageLog.aspx?pgOpt=3D" + opt + "&cntID=3D" + cntID;
+	}	=09
+}
+
+
+function fetchcookieval(key){
+   var cookiename;
+   var cookieval;
+   var keyfound =3D false;
+   var cookiearray =3D document.cookie.split(";")
+   for(i=3D0;i<cookiearray.length;i++){
+      cookiename =3D cookiearray[i].substring(0, =
+cookiearray[i].indexOf("=3D"));
+      if(cookiename.charAt(0) =3D=3D " ") cookiename =3D =
+cookiename.substring(1, cookiename.length);
+      cookieval =3D =
+cookiearray[i].substring(cookiearray[i].indexOf("=3D")+1, =
+cookiearray[i].length);
+      if(key =3D=3D cookiename){keyfound =3D true; break;}
+   }
+   if(keyfound) return cookieval;
+   else return "blank";
+}
+
+function setcookieval(key, val){
+ =20
+		var d =3D new Date();
+		d.setFullYear(d.getFullYear() + 1);=09
+		if(document.domain.indexOf(".com") > -1)
+		{
+			document.cookie =3D key+'=3D'+val+'; expires=3D' + d + '; Domain=3D' =
++ document.domain  + '; path=3D/';
+		}
+		else
+		{=20
+         document.cookie =3D key+'=3D'+val+'; expires=3D' + d + '; =
+path=3D/';
+		}
+  =20
+}
+
+function submitCheck()=20
+{=20
+//	alert( document.frmArt );
+//	alert( document.frmArt.elements.length );
+//	alert( document.frmArt.elements[0] );
+	var sArtNum =3D document.frmArt.elements[0].value;
+	if (sArtNum =3D=3D '')	return false;
+
+	var M =3D sArtNum.match(/([A-Z]{0,2})[0-9]{5,6}/);
+	var Action =3D "";
+=09
+	if( null !=3D M )
+	{
+	/******
+	*** This code commented out to support all kbarticle searches with and =
+without prefix.
+		if( M[1] =3D=3D "" )	Action =3D "Q" + M[0];
+		else		Action =3D M[0];
+		document.frmArt.action =3D "default.aspx?scid=3Dkb;[LN];" + Action;
+	******/
+		document.frmArt.action =3D "default.aspx?scid=3Dkb;[LN];" + sArtNum;
+	}
+	else=20
+	{=20
+		alert("The [" + sArtNum + "] won't bring you any articles. Try =
+something like Q123456");=20
+		return false;=20
+	}
+}=20
+
+
+function CheckLineElement(prd)
+{
+
+	if(prd)
+	{
+		if(prd.options[prd.selectedIndex].value =3D=3D "line")
+		{
+			prd.selectedIndex =3D prd.selectedIndex - 1;
+
+		}
+	}=09
+
+}
+
+
+
+
+function gsfx_switchUIMode(elementName){
+
+	if(d.getElementsByName){
+		adv =3D d.getElementsByName(elementName);
+		if(adv.length > 0){
+			var dm =3D adv[0].style.display;
+			if(dm =3D=3D "none") dm =3D "block";
+			else dm =3D "none";
+			for(i=3D0; i<adv.length; i++){
+				adv[i].style.display =3D dm;
+			}
+		}
+	}else if(d.all){
+		var dm;
+		for(i=3D0; i<d.all.length;i++){
+			if(d.all[i].id =3D=3D elementName){
+				dm =3D d.all[i].style.display;
+				break;
+			}
+		}
+
+		if(dm =3D=3D "none") dm =3D "block";
+		else dm =3D "none";
+
+		for(i=3D0; i<d.all.length;i++){
+			if(d.all[i].id =3D=3D elementName) d.all[i].style.display =3D dm;
+		}
+	}
+
+	setcookieval(elementName+"_switchMode", dm);
+}
+
+function PartWrapperToggle(elementName) {
+	var HeaderElement =3D null;
+	var BodyElement =3D null;=20
+	if(document.getElementsByName) {
+		HeaderElement =3D document.getElementsByName(elementName+"Header");
+		BodyElement =3D document.getElementsByName(elementName+"Body");
+		UpImage =3D document.getElementsByName(elementName+"Up");
+		DownImage =3D document.getElementsByName(elementName+"Down");
+		if(BodyElement) {=09
+			if(BodyElement[0].style.display =3D=3D "none") {
+				BodyElement[0].style.display =3D "block";
+				HeaderElement[0].className =3D "ListNuggetHeader";
+				DownImage[0].style.display =3D "none";
+				UpImage[0].style.display =3D "block";
+			} else {
+				BodyElement[0].style.display =3D "none";
+				HeaderElement[0].className =3D "ListNuggetHeaderClosed";
+				UpImage[0].style.display =3D "none";
+				DownImage[0].style.display =3D "block";
+			}
+		}=09
+	}
+	window.event.cancelBubble =3D true;
+	return false;
+
+}
+
+function NoSearchResultsTrigger(url)=20
+{
+	GSFxNewWindow(url);
+}
+document.NoSearchResultsTrigger =3D NoSearchResultsTrigger;
+
+function GSFxNewWindow(url){
+	if(d.body.clientHeight){
+		winheight =3D Math.round(window.document.body.clientHeight * 0.9);
+		winwidth =3D Math.round(window.document.body.clientWidth * 0.9);
+		leftmargin =3D Math.round(window.document.body.clientWidth * 0.05);
+		topmargin =3D Math.round(window.document.body.clientWidth * 0.02);
+	}else{
+		winheight =3D Math.round(d.body.offsetHeight * 0.9);
+		winwidth =3D Math.round(d.body.offsetWidth * 0.9);
+		leftmargin =3D Math.round(d.body.offsetWidth * 0.05);
+		topmargin =3D Math.round(d.body.offsetWidth * 0.02);
+	}
+	var win =3D window.open(url, "_blank", =
+"resizable=3Dyes,scrollbars=3Dyes,menubar=3Dyes,location=3Dyes,toolbar=3D=
+yes,status=3Dyes,height=3D"+winheight+",width=3D"+winwidth+",left=3D"+lef=
+tmargin+",top=3D"+topmargin);
+	win.focus();
+}
+
+
+function srch_setcookieval(key, val){
+	=09
+		if(document.domain.indexOf(".com") > -1){
+			document.cookie =3D key+'=3D'+val+'; Domain=3D'+document.domain+'; =
+path=3D/';
+		}else document.cookie =3D key+'=3D'+val+'; path=3D/';
+=09
+}
+
+function UnicodeFixup(s){
+	var result =3D new String();
+	var c =3D '';
+	var i =3D -1;=20
+	var l =3D s.length;
+	result =3D "";
+	for(i =3D 0; i<l; i++) {
+		c =3D s.substring(i, i+1);
+		if(c =3D=3D "%") {
+			result +=3D c; i++;
+			c =3D s.substring(i, i+1);
+			if(c !=3D "u") {
+				if(parseInt("0x" + s.substring(i, i+2)) > 128) result +=3D "u00";
+			}
+		}
+		result +=3D c;
+	}
+	return result;
+}
+
+function ShowSurveyWindow(SurveyURL)
+{=09
+	var sSiteID =3D '', sSiteRegionID =3D '', sReferringURL =3D '', P0 =3D =
+'', P1 =3D '', P2 =3D '', P3 =3D '', P4 =3D '', P5 =3D '', P6 =3D '', P7 =
+=3D '', P8 =3D '', P9 =3D '';
+	if(ShowSurveyWindow.arguments.length > 1){sSiteID =3D =
+ShowSurveyWindow.arguments[1];}
+	if(ShowSurveyWindow.arguments.length > 2){sSiteRegionID =3D =
+ShowSurveyWindow.arguments[2];}
+	if(ShowSurveyWindow.arguments.length > 3){sReferringURL =3D =
+ShowSurveyWindow.arguments[3];}
+	if(ShowSurveyWindow.arguments.length > 4){P0 =3D =
+ShowSurveyWindow.arguments[4];}
+	if(ShowSurveyWindow.arguments.length > 5){P1 =3D =
+ShowSurveyWindow.arguments[5];}
+	if(ShowSurveyWindow.arguments.length > 6){P2 =3D =
+ShowSurveyWindow.arguments[6];}
+	if(ShowSurveyWindow.arguments.length > 7){P3 =3D =
+ShowSurveyWindow.arguments[7];}
+	if(ShowSurveyWindow.arguments.length > 8){P4 =3D =
+ShowSurveyWindow.arguments[8];}
+	if(ShowSurveyWindow.arguments.length > 9){P5 =3D =
+ShowSurveyWindow.arguments[9];}
+	//if(ShowSurveyWindow.arguments.length > 10){P6 =3D =
+ShowSurveyWindow.arguments[10];}
+	var cv;
+	var dg =3D "";
+	var p1 =3D "guid=3D";
+	var p2 =3D "&guid=3D";
+	var gl =3D 32;=09
+	cv =3D fetchcookieval("MC1").toLowerCase();
+	if(cv =3D=3D "blank") cv =3D fetchcookieval("MC2").toLowerCase();
+	if(cv !=3D "blank")	{
+		if(cv.substr(0,p1.length) =3D=3D p1) { dg =3D cv.substr(p1.length, =
+gl); }
+		else if(cv.indexOf(p2) > -1){ dg =3D cv.substr(cv.indexOf(p2) + =
+p2.length, gl); }
+	}
+	P6 =3D dg;
+=09
+	if(ShowSurveyWindow.arguments.length > 11){P7 =3D =
+ShowSurveyWindow.arguments[11];}
+	if(ShowSurveyWindow.arguments.length > 12){P8 =3D =
+ShowSurveyWindow.arguments[12];}
+	if(ShowSurveyWindow.arguments.length > 13){P9 =3D =
+ShowSurveyWindow.arguments[13];}
+
+	var fullURL =3D SurveyURL + '&site=3D' + sSiteID + '&siteregion=3D' + =
+sSiteRegionID + '&url=3D' + sReferringURL + '&p0=3D' + P0 + '&p1=3D' + =
+P1 + '&p2=3D' + P2 + '&p3=3D' + P3 + '&p4=3D' + P4 + '&p5=3D' + P5 + =
+'&p6=3D' + P6 + '&p7=3D' + P7 + '&p8=3D' + P8 + '&p9=3D' + P9;=0A=
+	window.open(fullURL, '_blank', =
+'resizable=3Dyes,scrollbars=3Dyes,menubar=3Dno,location=3Dno,toolbar=3Dno=
+,status=3Dno,left=3D0,top=3D0,height=3D500,width=3D725');=0A=
+	if(window.event !=3D null) window.event.cancelBubble =3D true;=0A=
+	//return false;=0A=
+}
+
+function PrintContents()
+{
+	window.print();
+}
+
+function LogHit(sUrl)
+{
+	if(typeof(sUrl) !=3D "undefined")
+	{
+		var cv;
+		var dg =3D "";
+		var p1 =3D "guid=3D";
+		var p2 =3D "&guid=3D";
+		var gl =3D 32;=09
+		cv =3D fetchcookieval("MC1").toLowerCase();
+		if(cv =3D=3D "blank") cv =3D fetchcookieval("MC2").toLowerCase();
+		if(cv !=3D "blank")	{
+			if(cv.substr(0,p1.length) =3D=3D p1) { dg =3D cv.substr(p1.length, =
+gl); }
+			else if(cv.indexOf(p2) > -1){ dg =3D cv.substr(cv.indexOf(p2) + =
+p2.length, gl); }
+		}
+		sUrl =3D sUrl + "&msid=3D" + dg;
+		if(document.images) {
+			document.images["metrixgif"].src =3D sUrl;
+		}
+	}
+}
+
+// Funciton to check for external links to be opened in the new window.
+var g_reSupportedHostnames;
+function ForeignLink_Hookup(branding){
+=09
+	if(branding =3D=3D "undefined")=20
+	{
+		branding =3D 'true';
+	}=09
+=09
+	var eCurrentAnchor =3D null;
+	for( var i=3D0; i < document.links.length; i++ ){
+		eCurrentAnchor =3D document.links[i];
+		//consider only those having a URL protocol prefix
+		if(eCurrentAnchor.protocol=3D=3D"http:" || =
+eCurrentAnchor.protocol=3D=3D"https:"){=20
+			//test to see if foreign
+		=09
+			if(!branding && =
+(eCurrentAnchor.href.indexOf(document.location.hostname) > -1) =
+&&(eCurrentAnchor.href.toLowerCase().indexOf("fr=3D1") < 0))=20
+			{=09
+				if(eCurrentAnchor.href.indexOf("?") > -1) eCurrentAnchor.href =3D =
+eCurrentAnchor.href + "&FR=3D1";
+				else eCurrentAnchor.href =3D eCurrentAnchor.href + "?FR=3D1";
+			}=09
+			=09
+			if(!g_reSupportedHostnames.exec(eCurrentAnchor.hostname)){=20
+				//alert("EXTERNAL: " + sUrlBase);
+				eCurrentAnchor.target =3D "_blank"; // open in new window
+			}
+		}
+	} //for each anchor
+	if(!branding)
+	{
+		if(document.getElementsByName)
+		{
+			var eForms =3D null;
+			for( var i =3D 0 ; i<document.forms.length ; i++)
+			{
+				eCurrentForm =3D document.forms[i];
+				if(eCurrentForm.action.indexOf(document.location.hostname) > -1)
+				{
+					if(!eCurrentForm.FR) {
+			=09
+					var elm =3D document.createElement('input');
+					elm.type =3D "hidden";
+					elm.name =3D "FR";
+					elm.id =3D "FR";
+					elm.value =3D "1";
+					eCurrentForm.appendChild(elm);
+					}
+				}
+			}
+		}
+	}
+}
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/common/script/gsfx/searchui.js
+
+
+var d =3D document;
+PageLoaded =3D false;
+var uplevel =3D false;
+
+if(document.createAttribute) uplevel =3D true;;
+
+function gsfx_drawselectlist(po, co, pn){
+=09
+	if(failure=3D=3D0){
+		var lcid ;
+		var potl;
+		var catalog =3D false;
+
+		if(po){
+			catalog =3D true;
+			if(po.type){
+				potl =3D po.type.toLowerCase();
+				if(potl.indexOf("select") > -1) ctl =3D po.selectedIndex;
+				else ctl =3D 0;
+			}else if(po.length){
+				potl =3D "radio";
+				ctl =3D -1;
+				for(i=3D0; i<po.length; i++){
+					if(po[i].checked){
+						ctl =3D i;
+					=09
+						}=20
+				}
+				if(ctl < 0) ctl =3D 0;
+			=09
+			=09
+			=09
+			}
+		}else ctl =3D 0;
+	=09
+		var si =3D 0;
+		var ms =3D true;
+
+		if(po){
+			if(potl.indexOf("select") > -1){
+				if(po.options[ctl].value.indexOf("PRODLISTSRC=3DOFF") > -1) ms =3D =
+false;
+					catalogEntry =3D po[ctl].value;
+			}else if(potl.indexOf("hidden") > -1){
+				catalogEntry =3D po.value;
+				if(po.value.indexOf("PRODLISTSRC=3DOFF") > -1) ms =3D false;
+			}else if(potl =3D=3D "radio"){
+				catalogEntry =3D po[ctl].value;
+			=09
+				=
+DisplayScopeElement(po[ctl].getAttribute("MT"),po[ctl].getAttribute("CC")=
+,po);=09
+				if(po[ctl].value.indexOf("PRODLISTSRC=3DOFF") > -1) ms =3D false;
+			}
+			j =3D catalogEntry.indexOf('=3D');
+			lcid =3D catalogEntry.substring(j+1,catalogEntry.indexOf('&'));	=09
+		}
+	=09
+	=09
+		var arraylen;
+		if(co && co.options){
+			if(catalog) arraylen =3D eval(pn+"_"+co.name+"_"+lcid+'.length;');
+			else arraylen =3D eval(pn+"_"+co.name+"_"+ctl+'.length;');
+		=09
+			if(co.children && navigator.appVersion.indexOf("Macintosh") < 0){
+				while(co.children.length > 0){
+					for(i=3D0;i<co.children.length;i++){
+						co.remove(co.children[i]);
+					}
+				}
+			}else for(i=3D0;i<co.options.length;i++){co.options[i] =3D null;}
+		}
+=09
+	=09
+		var initial =3D 0;
+		if(co && co.options){
+			if(ms){
+			if(po){
+			tval =3D fetchcookieval(lcid+"_Prod")
+			if(tval !=3D 'blank' && tval !=3D '')
+			{ =09
+				tval =3D tval.substring(0,tval.length-1);
+				var productlist =3D new Array();
+				productlist =3D tval.split("$");
+			=09
+				if(productlist.length > 0)
+				{
+					productlist =3D productlist.reverse();
+=09
+					for(i=3D0 ;i<productlist.length ;i++)
+					{
+						var productentry =3D new Array();
+						productentry =3D productlist[i].toString().split("|");
+						productName =3D unescape(productentry[0]);
+						productID	=3D unescape(productentry[1]);
+						ts1 =3D productName + "\",\"" + productID;
+						eval("co.options[i] =3D new Option(\""+ts1+"\")");=09
+					}=09
+					ts1 =3D =
+"----------------------------------------------------------\",\"line";=09
+					eval("co.options[i] =3D new Option(\""+ts1+"\")");	=09
+					initial =3D i+1;
+			}
+			}
+		=09
+		=09
+			}
+			=09
+			=09
+				for(i=3D0;i<arraylen;i++){
+					if(catalog)	ts =3D eval(pn+"_"+co.name+"_"+lcid+'['+i+']');
+					else ts =3D eval(pn+"_"+co.name+"_"+ctl+'['+i+']');
+				=09
+					eval("co.options[i+initial] =3D new Option(\""+ts+"\")");
+					co.disabled =3D false;
+				}
+		=09
+			if(catalog) si =3D eval(pn + "_" + co.name + "_" + lcid + "default");	=
+=09
+			else si =3D eval(pn + "_" + co.name + "_" + ctl + "default");	=09
+		=09
+			}else{
+				co.options[0] =3D new Option("", "");
+				si =3D 0;
+				co.disabled =3D true;
+			}
+		=09
+			co.selectedIndex =3D si;
+		}
+	}
+}
+
+function DisplayScopeElement(mt,cc,catalogElem)
+{
+
+	var hideMT ,hideCC ;
+=09
+	if(mt !=3D null && mt.length > 0)
+	{
+		mtrow =3D d.getElementById("InMT_row");
+		mtrow1 =3D d.getElementById("InMT_row1");
+		if(mtrow && mtrow1)
+		{	=09
+			if(mt.toLowerCase() =3D=3D "false")
+			{=09
+				mtrow.style.display =3D "none";
+				mtrow1.style.display =3D "none";
+				hideMT =3D true;	=09
+			}
+			else
+			{
+				mtrow.style.display =3D "block";
+				mtrow1.style.display =3D "block";
+			}
+		}
+	}
+	else hideMT =3D true;
+	if(cc !=3D null && cc.length > 0)
+	{
+		ccrow =3D d.getElementById("InCC_row");
+		ccrow1 =3D d.getElementById("InCC_row1");
+		if(ccrow && ccrow1)
+		{
+			if(cc.toLowerCase() =3D=3D "false")
+			{=09
+				ccrow.style.display =3D "none";
+				ccrow1.style.display =3D "none";
+				hideCC =3D true;	=09
+			}
+			else
+			{
+				ccrow.style.display =3D "block";
+				ccrow1.style.display =3D "block";
+
+			}
+		}
+	}
+	else hideCC =3D true;
+=09
+		var scope =3D document.getElementById("Scope_row");
+		if(scope)=20
+		{
+			if(hideMT & hideCC) scope.style.display =3D "none";=20
+			else scope.style.display =3D "block";=20
+		}
+=09
+=09
+}
+
+
+
+function getUrlParam(param){
+	var rv =3D "";
+	var q =3D new Array();
+	if(param.indexOf("_") > 0) {
+		argParam =3D param.split("_")[1];
+	} else {
+		argParam =3D param;
+	}
+	var here =3D document.location.href;=0D=09
+	q =3D here.split("?");=0D
+	if(q.length > 1){=0D
+		var argarray =3D new Array();=0D
+		argarray =3D q[1].toString().split("&");=0D
+		var keyval;=0D
+		for(i=3D0; i<argarray.length; i++){=0D
+			keyval =3D argarray[i].toString().split("=3D");=0D
+			if(keyval[0].toLowerCase() =3D=3D argParam.toLowerCase()){=0D
+				if(uplevel)	rv =3D decodeURI(keyval[1]);=0D				else rv =3D =
+unescape(keyval[1]);=0D
+				break;=0D
+			}=0D
+		}=0D
+	}
+=09
+	if(rv =3D=3D "") {
+		rv =3D unescape(fetchcookieval(param));
+		if(rv =3D=3D "blank") { rv =3D ""; }
+	}
+	return rv;
+}
+
+
+function GetContentIDEntry(ct)
+{
+var cdid =3D "";
+if(ct !=3D 'blank' && ct !=3D '') {=20
+	cdid =3D ct.split("&")[1].split("=3D")[1];
+}	=09
+return cdid ;
+
+}
+
+
+function =
+AppendSelect(catalogElement,selectElement,webpartName,selectName){
+gsfx_drawselectlist(catalogElement,selectElement,webpartName)
+tval =3D fetchcookieval(webpartName + '_' + selectName )
+if(tval !=3D "blank"){
+	for(i=3D0; i<selectElement.options.length; i++){
+		if(selectElement.options[i].value =3D=3D unescape(tval)){
+			selectElement.selectedIndex =3D i;
+			break;
+		}
+	}
+}
+
+}
+
+function AppendRadio(radioElement,webpartName,radioName){
+
+tval =3D fetchcookieval(webpartName + '_' + radioName )
+if(tval !=3D "blank"){
+	for(i=3D0; i<radioElement.length; i++){
+		if(radioElement[i].value =3D=3D unescape(tval)){
+			radioElement[i].checked =3D true;
+			radioElement[i].click();
+			break;
+		}
+	}
+}
+
+}
+
+function AppendText(textElement,webpartName,textName,defaultstring)
+{
+	if(textElement)
+	{
+		tval =3D fetchcookieval(webpartName + '_' + textName)
+			if(tval !=3D 'blank' && tval !=3D '')
+			{=20
+				textElement.value =3DUnicodeFixup(unescape(tval));=20
+			}=20
+			else=20
+			{=20
+				textElement.value =3D defaultstring;
+			}
+	}	=09
+}
+
+function AdvSrchText(textElement,webpartName,textName){
+	var arg =3D getUrlParam(webpartName + '_' + textName);
+	if(arg !=3D ""){
+		textElement.value =3D arg;
+	}
+
+}
+
+function =
+AdvSrchSelect(catalogElement,selectElement,webpartName,selectName){
+
+gsfx_drawselectlist(catalogElement,selectElement,webpartName)
+var arg =3D getUrlParam(webpartName + "_" + selectName);
+if(arg !=3D ""){
+	for(i=3D0; i<selectElement.options.length; i++){
+		if(selectElement.options[i].value.toLowerCase() =3D=3D =
+arg.toLowerCase())
+		{	selectElement.selectedIndex =3D i;
+			break;
+		}
+	}
+}
+
+}
+
+function AdvSrchCheckBox(catalogElement,scopeName)
+{
+	cbElement   =3D document.getElementById(scopeName);
+=09
+	if(cbElement)
+	{
+		if(catalogElement)
+		{
+			var contentID;
+		=09
+			if(catalogElement.length > 0)
+			{
+				for(i=3D0;i<catalogElement.length;i++)
+				{
+					if(catalogElement[i].checked) contentID =3D =
+GetContentIDEntry(catalogElement[i].value);
+				}
+			}
+			else
+			{
+				contentID =3D GetContentIDEntry(catalogElement.value);=09
+			}=09
+			tval =3D fetchcookieval(scopeName + "_" +  contentID);
+					=09
+			if(tval !=3D 'blank' && tval !=3D '')
+			{
+				if(tval =3D=3D "0") cbElement.checked =3D false;
+				else cbElement.checked =3D true;
+			}
+	=09
+		}
+=09
+	}
+
+}
+
+
+function AdvSrchRadio(radioElement,webpartName,radioName){
+var arg =3D getUrlParam(webpartName + "_" + radioName);
+if(arg !=3D ""){
+	for(i=3D0; i<radioElement.length; i++){
+		if(radioElement[i].value.toLowerCase() =3D=3D arg.toLowerCase())
+		{
+			radioElement[i].checked =3D true;
+			radioElement[i].click();
+			break;
+		}
+	}
+}
+}
+
+function SubmitSelect(selectElement,webpartName,selectName)
+{
+	srch_setcookieval(webpartName + "_" + =
+selectName,escape(selectElement.options[selectElement.selectedIndex].valu=
+e));
+}
+
+
+function =
+SubmitCheckBox(cbElement,catalogElement,hdncbElement,scopeName,defvalue)
+{
+	var scopeRow =3D d.getElementById(scopeName +"_row");
+	if(scopeRow)
+	{
+		if(scopeRow.style.display =3D=3D "block" | scopeRow.style.display =
+=3D=3D "")
+		{
+			if(cbElement.checked) hdncbElement.value =3D "true";
+			else hdncbElement.value =3D "false";
+		}=09
+		else hdncbElement.value =3D defvalue ;
+	}=09
+=09
+	if(catalogElement)
+	{
+		var contentID;
+		if(catalogElement.length > 0)
+		{
+			for(i=3D0;i<catalogElement.length;i++)
+			{
+				if(catalogElement[i].checked) contentID =3D =
+GetContentIDEntry(catalogElement[i].value);
+			}
+		}
+		else contentID =3D GetContentIDEntry(catalogElement.value);
+	=09
+		if(cbElement.checked) setcookieval(scopeName + "_" +  contentID,"1");
+		else setcookieval(scopeName + "_" +  contentID,"0");
+
+	}=09
+
+
+}
+
+
+function =
+SubmitText(textElement,leftTextElement,webpartName,textName,defaultstring=
+,productElement,catalogElement)
+{
+if(productElement && productElement.options)
+{
+=09
+	var prodName =3D =
+productElement.options[productElement.selectedIndex].text;
+	var prodID =3D =
+productElement.options[productElement.selectedIndex].value;
+	var lcid =3D "1033";
+	var catSelected =3D -1;
+	var catalogEntry ;
+	if(prodID !=3D '' && (prodID.toLowerCase().indexOf("msall") < 0))
+	{=20
+		if(catalogElement)
+		{
+		=09
+			if(catalogElement.length)
+			{
+				for(i=3D0; i<catalogElement.length; i++){
+					if(catalogElement[i].checked) catSelected =3D i;
+				}
+				=09
+					if(catSelected < 0) catSelected =3D 0;
+					catalogEntry =3D catalogElement[catSelected].value;=09
+					=09
+			}
+			else
+			{
+				catalogEntry =3D catalogElement.value;
+		=09
+			}
+		}
+	=09
+		j =3D catalogEntry.indexOf('=3D');
+		lcid =3D catalogEntry.substring(j+1,catalogEntry.indexOf('&'));
+		tval =3D fetchcookieval(lcid + "_Prod")
+=09
+		if(tval !=3D 'blank' && tval !=3D '')
+	=09
+		{=20
+			if(tval.indexOf(prodID + '$') < 0)
+			{=20
+				//Check if no. of products in cookie > 10
+				if(tval.split("$").length > 10)
+				{
+				=09
+					tval =3D tval.substring(tval.indexOf('$') + 1 ,tval.length);
+				}
+				setcookieval(lcid + "_Prod",tval + escape(prodName) + '|' + =
+escape(prodID) + '$');=09
+								=09
+			}
+		}
+		else
+		{
+			setcookieval(lcid +"_Prod",escape(prodName) + '|' + escape(prodID) + =
+'$');
+		}
+	}
+}
+	if(leftTextElement.value =3D=3D defaultstring) leftTextElement.value =
+=3D '';
+	textElement.value =3D leftTextElement.value;
+	srch_setcookieval(webpartName+ "_" + textName, =
+UnicodeFixup(escape(leftTextElement.value)));
+}
+
+
+
+function SubmitRadio(radioElement,webpartName,radioName)
+{
+for(i=3D0;i<radioElement.length;i++){
+		if(radioElement[i].checked){
+			srch_setcookieval(webpartName + '_' + =
+radioName,escape(radioElement[i].value));
+		=09
+		}
+	}
+}
+
+function ChangeLink(prd)
+{
+	if(document.getElementById)
+	{
+		var advLink =3D document.getElementById("advLinkRt");
+		if(advLink) advLink.href =3D advLink.href + "&Product=3D" + prd;
+	}
+}
+
+
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/common/script/gsfx/uplevel.js
+
+
+// alert("uplevel_js Start");
+
+function gsfxUpLevel()
+{
+	window.onresize =3D gsfxUplevelResize;
+	gsfxUplevelResize();
+}
+=0A=
+function flyout_onwindowresize_hookup(){} //see =
+common/script/gsfx/flyout-rtl.htc=0A=
+
+function gsfxUplevelResize()
+{
+	var FlyoutMenu =3D document.getElementById("idFlyoutMenu");
+	var Toolbar =3D document.getElementById("idToolbar");
+	var TopPanel =3D document.getElementById("TopPanel");=09
+	var MSMenu =3D document.getElementById("idMSMenuPane");
+	var ToolbarSpacer =3D document.getElementById("idSpace1");
+	var BannerPanel =3D document.getElementById("BannerPanel");
+	var Center =3D document.getElementById("CenterPanel");
+	var Bottom =3D document.getElementById("BottomPanel");
+=09
+	if(FlyoutMenu){ flyout_onwindowresize_hookup(); }
+=09
+	if(navigator.userAgent.indexOf("Gecko") < 0) {
+		if(TopPanel) {
+				var available =3D document.body.clientHeight;
+				var used=3D0;
+				if (Toolbar) used =3D used + Toolbar.clientHeight;
+				if (Bottom)  used =3D used + Bottom.clientHeight;
+				if (BannerPanel) used =3D used + BannerPanel.clientHeight;
+				Center.style.height =3D Math.max(available, used) - used;
+				if(MSMenu) resizeToolbar();
+		}
+		// adjust banner and footer width
+		if(BannerPanel && Center) {
+			BannerPanel.style.width =3D Center.clientWidth;
+		}
+		if(Bottom && Center) {
+			Bottom.style.width =3D Center.clientWidth;
+		}
+	} else {
+		if(TopPanel) {
+				var available =3D window.innerHeight;
+				var used=3D0;
+				if (TopPanel) used =3D used + TopPanel.offsetHeight;
+				if (Bottom)  used =3D used + Bottom.offsetHeight;
+				if (BannerPanel) used =3D used + BannerPanel.offsetHeight;
+				Center.style.height =3D Math.max(available, used) - used;
+			//	resizeToolbar();
+		}
+	=09
+		// adjust banner and footer width
+/*		if(BannerPanel) {
+			BannerPanel.style.width =3D Center.offsetWidth;
+		}
+		if(Bottom) {
+			Bottom.style.width =3D Center.offsetWidth;
+		}
+*/=09
+	}
+	// if search is there, call it's resize  event as well.
+	if(document.calcsearchdivsizes) {
+		document.calcsearchdivsizes();
+	}
+
+}
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/common/script/fx/surveytrigger.js
+
+function triggerInit()=0A=
+{=0A=
+	var MiliDay =3D 86400000;=0A=
+	var maturity =3D 1;=0A=
+	var curDate =3D new Date();=0A=
+	var visits =3D fetchcookieval(CookieDef);=0A=
+	var parts =3D visits.split('_');=0A=
+	if(null =3D=3D visits || parts.length !=3D 2 || isNaN(parts[0]))=0A=
+	{=0A=
+		setcookieval(CookieDef, '1_' + (curDate.getTime()/MiliDay - Exp));=0A=
+		return false;=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		var origDate =3D parseInt(parts[1]);=0A=
+		visits =3D parseInt(parts[0]);//alert(visits + ";" + maturity + ";" + =
+(curDate.getTime()/MiliDay - Exp) + ";" + origDate);=0A=
+		if=0A=
+		(=0A=
+			((!isNaN(Freq)) && (Freq > 0)) && ((visits >=3D maturity) && =
+((curDate.getTime()/MiliDay - Exp) >=3D origDate) && =
+(Math.floor(Math.random() * Freq) =3D=3D 0))=0A=
+		)=0A=
+		{=0A=
+			setcookieval(CookieDef, visits+1 + '_' + curDate.getTime()/MiliDay);=0A=
+			return true;=0A=
+		}=0A=
+		else=0A=
+		{=0A=
+			setcookieval(CookieDef, visits+1 + '_' + parts[1]);=0A=
+			return false;=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+function fireTrigger(SurveyURL)=0A=
+{=0A=
+	if(triggerInit())=0A=
+	{
+		//if((navigator.userAgent.indexOf("MSIE") =3D=3D -1 || =
+navigator.userAgent.indexOf("Windows") =3D=3D -1 || =
+navigator.appVersion.substring(0,1) < 4)){return;}=0A=
+		var sSiteID =3D '', sSiteRegionID =3D '', sReferringURL =3D '', P0 =3D =
+'', P1 =3D '', P2 =3D '', P3 =3D '', P4 =3D '', P5 =3D '', P6 =3D '', P7 =
+=3D '', P8 =3D '', P9 =3D '';		=0A=
+		if(fireTrigger.arguments.length > 1){sSiteID =3D =
+fireTrigger.arguments[1];}=0A=
+		if(fireTrigger.arguments.length > 2){sSiteRegionID =3D =
+fireTrigger.arguments[2];}=0A=
+		if(fireTrigger.arguments.length > 3){sReferringURL =3D =
+fireTrigger.arguments[3];}=0A=
+		if(fireTrigger.arguments.length > 4){P0 =3D fireTrigger.arguments[4];}=0A=
+		if(fireTrigger.arguments.length > 5){P1 =3D fireTrigger.arguments[5];}=0A=
+		if(fireTrigger.arguments.length > 6){P2 =3D fireTrigger.arguments[6];}=0A=
+		if(typeof(dialogstate) !=3D "undefined")=0A=
+		{=0A=
+			P3 =3D dialogstate.replace("&lt;DialogState =
+dialogID=3D&quot;","").substring(0,dialogstate.replace("&lt;DialogState =
+dialogID=3D&quot;","").indexOf("&quot;"))=0A=
+			var re =3D /\d+&quot; sessionID=3D&quot;/=0A=
+			P4 =3D dialogstate.replace("&lt;DialogState =
+dialogID=3D&quot;","").replace(re,"").substring(0,dialogstate.replace("&l=
+t;DialogState dialogID=3D&quot;","").replace(re,"").indexOf("&quot;"))=0A=
+		}=0A=
+		if(fireTrigger.arguments.length > 9){P5 =3D fireTrigger.arguments[9];}=0A=
+		if(fireTrigger.arguments.length > 10){P6 =3D =
+fireTrigger.arguments[10];}=0A=
+		=0A=
+		var cv;
+		var dg =3D "";
+		var p1 =3D "guid=3D";
+		var p2 =3D "&guid=3D";
+		var gl =3D 32;=09
+		cv =3D fetchcookieval("MC1").toLowerCase();
+		if(cv =3D=3D "blank") cv =3D fetchcookieval("MC2").toLowerCase();
+		if(cv !=3D "blank")	{
+			if(cv.substr(0,p1.length) =3D=3D p1) { dg =3D cv.substr(p1.length, =
+gl); }
+			else if(cv.indexOf(p2) > -1){ dg =3D cv.substr(cv.indexOf(p2) + =
+p2.length, gl); }
+		}
+		P6 =3D dg;=0A=
+		=0A=
+		if(fireTrigger.arguments.length > 11){P7 =3D =
+fireTrigger.arguments[11];}=0A=
+		if(fireTrigger.arguments.length > 12){P8 =3D =
+fireTrigger.arguments[12];}=0A=
+		if(fireTrigger.arguments.length > 13){P9 =3D =
+fireTrigger.arguments[13];}	=0A=
+		=0A=
+		var fullURL =3D SurveyURL + '&site=3D' + sSiteID + '&SurveyStyle=3D' + =
+SurveyStyle + '&siteregion=3D' + sSiteRegionID + '&url=3D' + =
+sReferringURL + '&p0=3D' + P0 + '&p1=3D' + P1 + '&p2=3D' + P2 + '&p3=3D' =
++ P3 + '&p4=3D' + P4 + '&p5=3D' + P5 + '&p6=3D' + P6 + '&p7=3D' + P7 + =
+'&p8=3D' + P8 + '&p9=3D' + P9;=0A=
+		=0A=
+		if (EmailStyle =3D=3D 1)=0A=
+		{=0A=
+			fullURL =3D fullURL + '&emailsurveyid=3D' + EmailSurveyID + =
+'&sessionid=3D-1';=0A=
+			/*=0A=
+			var emailaddress =3D window.prompt(IntroText, "");=0A=
+			if (emailaddress =3D=3D null || emailaddress =3D=3D "")=0A=
+			{=0A=
+				//TODO: handle null?=0A=
+			}=0A=
+			else=0A=
+			{=0A=
+				// put the responding window invisible place and just close it.		=0A=
+				if (emailaddress.length > 256)=0A=
+					emailaddress =3D emailaddress.substring(0, 256);=0A=
+				var tempwindow =3D window.open(fullURL + "&emailaddress=3D" + =
+emailaddress + "&sessionid=3D-1&INVITEACTION=3DPERSIST", '', =
+'height=3D100,width=3D100,menubar=3Dno,location=3Dno,toolbar=3Dno,status=3D=
+no,left=3D' + (screen.width + 500) + ',top=3D' + (screen.height + 500)); =0A=
+				//tempwindow.close();				=0A=
+			}=0A=
+			return;=0A=
+			*/=0A=
+		}=0A=
+		if (DisplayIntroPage !=3D '1')=0A=
+			fullURL =3D fullURL + '&showpage=3D1';=0A=
+		//TODO: change "full screen" or "embedded" as it appears in =
+surveytrigger.config	=0A=
+		if (SurveyStyle =3D=3D null){		=0A=
+			SurveyStyle =3D "popup";=0A=
+		}=0A=
+		SurveyStyle =3D SurveyStyle.toLowerCase();=0A=
+		if (SurveyStyle =3D=3D 'full screen'){		=0A=
+			window.open(fullURL, '_blank', =
+'resizable=3Dyes,scrollbars=3Dyes,menubar=3Dno,location=3Dno,toolbar=3Dno=
+,status=3Dno,left=3D0,top=3D0,height=3D' + (screen.height-5)+ =
+',width=3D' + (screen.width-5));=0A=
+		}=0A=
+		else if (SurveyStyle =3D=3D "embedded")=0A=
+			window.location.href=3DfullURL;=0A=
+		else if (EmailStyle =3D=3D 1)=0A=
+			window.open(fullURL, '_blank', =
+'resizable=3Dyes,scrollbars=3Dyes,menubar=3Dno,location=3Dno,toolbar=3Dno=
+,status=3Dno,left=3D0,top=3D0,height=3D300,width=3D500');=0A=
+		else=0A=
+			window.open(fullURL, '_blank', =
+'resizable=3Dyes,scrollbars=3Dyes,menubar=3Dno,location=3Dno,toolbar=3Dno=
+,status=3Dno,left=3D0,top=3D0,height=3D500,width=3D725');=0A=
+	}=0A=
+}=0A=
+=0A=
+function ShowSurveyWindow(SurveyURL)=0A=
+{=0A=
+	var sSiteID =3D '', sSiteRegionID =3D '', sReferringURL =3D '', P0 =3D =
+'', P1 =3D '', P2 =3D '', P3 =3D '', P4 =3D '', P5 =3D '', P6 =3D '', P7 =
+=3D '', P8 =3D '', P9 =3D '';	=0A=
+	if(ShowSurveyWindow.arguments.length > 1){sSiteID =3D =
+ShowSurveyWindow.arguments[1];}=0A=
+	if(ShowSurveyWindow.arguments.length > 2){sSiteRegionID =3D =
+ShowSurveyWindow.arguments[2];}=0A=
+	if(ShowSurveyWindow.arguments.length > 3){sReferringURL =3D =
+ShowSurveyWindow.arguments[3];}=0A=
+	if(ShowSurveyWindow.arguments.length > 4){P0 =3D =
+ShowSurveyWindow.arguments[4];}=0A=
+	if(ShowSurveyWindow.arguments.length > 5){P1 =3D =
+ShowSurveyWindow.arguments[5];}=0A=
+	if(ShowSurveyWindow.arguments.length > 6){P2 =3D =
+ShowSurveyWindow.arguments[6];}=0A=
+	if(ShowSurveyWindow.arguments.length > 7){P3 =3D =
+ShowSurveyWindow.arguments[7];}=0A=
+	if(ShowSurveyWindow.arguments.length > 8){P4 =3D =
+ShowSurveyWindow.arguments[8];}=0A=
+	if(ShowSurveyWindow.arguments.length > 9){P5 =3D =
+ShowSurveyWindow.arguments[9];}=0A=
+	//if(ShowSurveyWindow.arguments.length > 10){P6 =3D =
+ShowSurveyWindow.arguments[10];}	=0A=
+	var cv;
+	var dg =3D "";
+	var p1 =3D "guid=3D";
+	var p2 =3D "&guid=3D";
+	var gl =3D 32;=09
+	cv =3D fetchcookieval("MC1").toLowerCase();
+	if(cv =3D=3D "blank") cv =3D fetchcookieval("MC2").toLowerCase();
+	if(cv !=3D "blank")	{
+		if(cv.substr(0,p1.length) =3D=3D p1) { dg =3D cv.substr(p1.length, =
+gl); }
+		else if(cv.indexOf(p2) > -1){ dg =3D cv.substr(cv.indexOf(p2) + =
+p2.length, gl); }
+	}
+	P6 =3D dg;=0A=
+			=0A=
+	if(ShowSurveyWindow.arguments.length > 11){P7 =3D =
+ShowSurveyWindow.arguments[11];}=0A=
+	if(ShowSurveyWindow.arguments.length > 12){P8 =3D =
+ShowSurveyWindow.arguments[12];}=0A=
+	if(ShowSurveyWindow.arguments.length > 13){P9 =3D =
+ShowSurveyWindow.arguments[13];}=0A=
+	// NOTE: if added more or less Pi parameter, remember to change =
+SurveyDataManager::DefaultPParameterLength, now is 10 (P0-P9)=0A=
+	=0A=
+	=0A=
+	var fullURL =3D SurveyURL + '&site=3D' + sSiteID + '&siteregion=3D' + =
+sSiteRegionID + '&url=3D' + sReferringURL + '&p0=3D' + P0 + '&p1=3D' + =
+P1 + '&p2=3D' + P2 + '&p3=3D' + P3 + '&p4=3D' + P4 + '&p5=3D' + P5 + =
+'&p6=3D' + P6 + '&p7=3D' + P7 + '&p8=3D' + P8 + '&p9=3D' + P9;=0A=
+	=0A=
+	if (DisplayIntroPage =3D=3D '0')=0A=
+		fulURL =3D fullURL + '&showpage=3D1';=0A=
+=0A=
+	//TODO: change "full screen" or "embedded" as it appears in =
+surveytrigger.config			=0A=
+	if (SurveyStyle =3D=3D null){		=0A=
+			SurveyStyle =3D "popup";=0A=
+		}=0A=
+	SurveyStyle =3D SurveyStyle.toLowerCase();=0A=
+	if (SurveyStyle =3D=3D 'full screen'){		=0A=
+		window.open(fullURL, '_blank', =
+'resizable=3Dyes,scrollbars=3Dyes,menubar=3Dno,location=3Dno,toolbar=3Dno=
+,status=3Dno,fullscreen=3Dyes');=0A=
+	}=0A=
+	else if (SurveyStyle =3D=3D "embedded")=0A=
+		window.location.href=3DfullURL;=0A=
+	else=0A=
+		window.open(fullURL, '_blank', =
+'resizable=3Dyes,scrollbars=3Dyes,menubar=3Dno,location=3Dno,toolbar=3Dno=
+,status=3Dno,left=3D0,top=3D0,height=3D500,width=3D725');=0A=
+	if (window.event !=3D null) window.event.cancelBubble =3D true;=0A=
+	//return false;=0A=
+}
+------=_NextPart_000_000D_01C4424D.A232CDD0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://support.microsoft.com/common/script/gsfx/toolbar.js
+
+
+// alert("Toolbar_js Start");
+
+var RTL =3D false;
+var scFlag =3D false;
+var scrollcount =3D 0;
+if (document.dir =3D=3D 'rtl')
+	 RTL =3D true;
+var Strict_Compat =3D false;
+var ToolBar_Supported =3D false;
+var Frame_Supported   =3D false;
+var DoInstrumentation =3D false;
+var doImage =3D doImage;
+var TType =3D TType;
+
+if (navigator.userAgent.indexOf("MSIE")    !=3D -1 &&=20
+	navigator.userAgent.indexOf("Windows") !=3D -1 &&=20
+	navigator.appVersion.substring(0,1) > 3)
+{
+	ToolBar_Supported =3D true;
+	if(!RTL){
+		if (document.compatMode =3D=3D "CSS1Compat")
+		{
+			//alert("strict!");
+			Strict_Compat =3D true;
+		}
+	}=09
+}
+
+
+if (ToolBar_Supported)
+{
+	var newLineChar =3D String.fromCharCode(10);
+	var char34 =3D String.fromCharCode(34);
+	var LastMSMenu =3D "";
+	var LastICPMenu =3D "";
+	var CurICPMenu =3D "";
+	var IsMSMenu =3D false;
+	var IsMenuDropDown =3D true;
+	var HTMLStr;
+	var FooterStr;
+	var TBLStr;
+	var x =3D 0;
+	var y =3D 0;
+	var x2 =3D 0;
+	var y2 =3D 0;
+	var x3 =3D 0;
+	var MSMenuWidth;
+	var ToolbarMinWidth;
+	var ToolbarMenu;
+	var ToolbarBGColor;
+	var ToolbarLoaded =3D false;
+	var aDefMSColor  =3D new Array(3);
+	var aDefICPColor =3D new Array(3);
+	var aCurMSColor  =3D new Array(3);
+	var aCurICPColor =3D new Array(3);
+	var MSFont;
+	var ICPFont;
+	var MSFTFont;
+	var ICPFTFont;
+	var MaxMenu =3D 30;
+	var TotalMenu =3D 0;
+	var arrMenuInfo =3D new Array(30);
+	var bFstICPTBMenu =3D true;
+	var bFstICPFTMenu =3D true;
+=09
+	// Output style sheet and toolbar ID
+	document.write("<SPAN ID=3D'StartMenu' =
+STYLE=3D'display:none;'></SPAN>");
+
+	// Build Footer template
+	if ( !RTL ){
+		FooterStr =3D "<TABLE ID=3D'idFooter1' =
+STYLE=3D'background-color:white;' cellSpacing=3D'0' cellPadding=3D'0' =
+border=3D'0'>" +
+			"<TR VALIGN=3D'BOTTOM'><TD ID=3D'idPosition' =
+WIDTH=3D'185'>&nbsp;</TD><TD ID=3D'idFooterDate1' =
+STYLE=3D'background-color:white;height:30' =
+NOWRAP><!--ICP_FOOTERDATE1_TITLES--></TD></TR>" +
+			"<TR VALIGN=3D'BOTTOM'><TD COLSPAN=3D'2' ID=3D'idFooterDate2' =
+STYLE=3D'background-color:white;height:13;width:100%' =
+NOWRAP><!--ICP_FOOTERDATE2_TITLES--></TD></TR>" +
+			"</TABLE><TABLE ID=3D'idFooter' =
+STYLE=3D'background-color:white;width:100%' cellSpacing=3D'0' =
+cellPadding=3D'0' border=3D'0'>" +
+			"<TR VALIGN=3D'MIDDLE'><TD ID=3D'idFooterRow1' =
+STYLE=3D'background-color:white;height:20;width:100%' =
+NOWRAP><!--ICP_FOOTERMENU_TITLES--></TD></TR>" +
+			"<TR VALIGN=3D'MIDDLE'><TD ID=3D'idFooterRow2' =
+STYLE=3D'background-color:white;height:30;width:100%' =
+NOWRAP><!--MS_FOOTERMENU_TITLES--></TD></TR>" +
+			"</TABLE>";
+	}else if(RTL){
+		// Shailr - Not sure if I need this code yet.=20
+		// RTL Correction: Check if <html> or <body> have the dir=3D"rtl" =
+attribute
+		var isRTL =3D false;
+		var isIE5 =3D navigator.appVersion.indexOf("MSIE 4") =3D=3D -1;
+
+		if (isIE5)
+		{
+			if (document.body.dir =3D=3D 'rtl' || document.dir =3D=3D 'rtl')
+				isRTL =3D true;
+		}
+		else // test RTL in IE4
+		{
+			var ht =3D document.body.outerHTML;
+			ht =3D ht.substring(1, ht.indexOf(">")).toLowerCase();
+			//if (ht.indexOf("dir=3Drtl") > -1) isRTL =3D true;
+			if ((ht.indexOf("iedir=3Drtl") > -1) || (ht.indexOf("dir=3Drtl") > =
+-1)) isRTL =3D true;
+		}
+		// End of RTL Correction.
+	=09
+		// MNP1 addition - Build Footer template=20
+		FooterStr =3D "<TABLE ID=3D'idFooter1' =
+STYLE=3D'background-color:white;' cellSpacing=3D'0' cellPadding=3D'0' =
+border=3D'0'>" +
+		"<TR VALIGN=3D'BOTTOM'><TD ID=3D'idPosition' =
+WIDTH=3D'185'>&nbsp;</TD><TD ID=3D'idFooterDate1' =
+STYLE=3D'background-color:white;height:30' =
+NOWRAP><!--ICP_FOOTERDATE1_TITLES--></TD></TR>" +
+		"<TR VALIGN=3D'BOTTOM'><TD COLSPAN=3D'2' ID=3D'idFooterDate2' =
+STYLE=3D'background-color:white;height:13;width:100%' =
+NOWRAP><!--ICP_FOOTERDATE2_TITLES--></TD></TR>" +
+		"</TABLE><TABLE ID=3D'idFooter' =
+STYLE=3D'background-color:white;width:100%' cellSpacing=3D'0' =
+cellPadding=3D'0' border=3D'0'>" +
+		"<TR VALIGN=3D'MIDDLE'><TD ID=3D'idFooterRow1' =
+STYLE=3D'background-color:white;height:20;width:100%' =
+NOWRAP><!--ICP_FOOTERMENU_TITLES--></TD></TR>" +
+		"<TR VALIGN=3D'MIDDLE'><TD ID=3D'idFooterRow2' =
+STYLE=3D'background-color:white;height:30;width:100%' =
+NOWRAP><!--MS_FOOTERMENU_TITLES--></TD></TR>" +
+		"</TABLE>";
+	//end of MNP1 addition
+		//isRTL =3D true;
+	}	=09
+
+	// Build toolbar template
+=09
+	HTMLStr =3D  "<DIV ID=3D'idToolbar' STYLE=3D'width:100%' >";
+	HTMLStr +=3D "<DIV ID=3D'idRow1'    =
+STYLE=3D'position:relative;height:20px;'>";
+	//HTMLStr +=3D "<DIV ID=3D'idICPBanner'   =
+STYLE=3D'position:absolute;top:0px;left:0px;height:60px;width:250px;overf=
+low:hidden;vertical-align:top;'><!--BEG_ICP_BANNER--><!--END_ICP_BANNER--=
+></DIV>";
+
+	if (!RTL){
+		HTMLStr +=3D "<DIV ID=3D'idICPBanner'   =
+STYLE=3D'position:absolute;top:0px;left:0px;height:60px;width:250px;overf=
+low:hidden;vertical-align:top;'><!--BEG_ICP_BANNER--><!--END_ICP_BANNER--=
+></DIV>";
+		//HTMLStr +=3D "<DIV ID=3D'idRowSpace1'	=
+STYLE=3D'position:absolute;top:0px;left:250px;height:20px;width:10px;back=
+ground-color:black;float:right;' NOWRAP><!--Space--></DIV>";
+		//This following line inserted by the GSSDEV
+		HTMLStr +=3D "<DIV ID=3D'idSpace1'		=
+STYLE=3D'position:absolute;top:0px;left:250px;height:20px;vertical-align:=
+top;overflow:hidden;background-color:#0A6CCE;'><img =
+src=3D'/library/images/support/1ptrans.gif'></DIV>"
+		HTMLStr +=3D "<DIV ID=3D'idMSMenuCurve' =
+STYLE=3D'position:absolute;top:0px;left:250px;height:20px;width:18px;over=
+flow:hidden;vertical-align:top;horizontal-align:right;'><IMG =
+SRC=3D'/library/toolbar/images/curve.gif' BORDER=3D0></DIV>";
+		HTMLStr +=3D "<DIV ID=3D'idMSMenuPane'  =
+STYLE=3D'font-size:11px;position:absolute;top:0px;left:250px;height:20px;=
+width:10px;background-color:black;float:right;' ALIGN=3DRIGHT =
+NOWRAP><!--MS_MENU_TITLES--></DIV>";
+		HTMLStr +=3D "</DIV>";
+	}else if(RTL){
+		TBLStr  =3D "<TABLE BORDER=3D0 CELLPADDING=3D0 CELLSPACING=3D0><TR =
+STYLE=3D'height:20;vertical-align:middle'><!--ICP_MENU_TITLES--></TR></TA=
+BLE>";
+		HTMLStr +=3D "<DIV ID=3D'idICPBanner'   =
+STYLE=3D'position:absolute;top:0;left:0;height:60;width:250;overflow:hidd=
+en;vertical-align:top;'><!--BEG_ICP_BANNER--><!--END_ICP_BANNER--></DIV>"=
+;
+		HTMLStr +=3D "<DIV ID=3D'idSpace1'		=
+STYLE=3D'position:relative;top:0px;width:100%;left:0;height:20px;vertical=
+-align:top;overflow:hidden;z-index:-1;background-color:#0A6CCE;'><img =
+src=3D'/library/images/support/1ptrans.gif'></DIV>"
+		HTMLStr +=3D "<DIV ID=3D'idMSMenuCurve' =
+STYLE=3D'position:absolute;top:0;left:250;height:20;width:18;overflow:hid=
+den;vertical-align:top;'><IMG =
+SRC=3D'/library/toolbar/iw/images/curve.gif' BORDER=3D0></DIV>";
+		// RTL Correction: added: dir=3D'ltr' (forcing LTR!), added: &nbsp; =
+(prevents last menu problem)
+		HTMLStr +=3D "<DIV dir=3D'ltr' lang=3D'he' ID=3D'idMSMenuPane'  =
+STYLE=3D'font-size:11px;position:absolute;top:0;left:250;height:20;width:=
+10;color:white;background-color:black;float:left;' =
+NOWRAP><!--MS_MENU_TITLES-->&nbsp;</DIV>";
+		HTMLStr +=3D "</DIV>";
+	}
+	if(!RTL){
+		//HTMLStr +=3D "<DIV ID=3D'idRowSpace2' =
+STYLE=3D'position:relative;left:250px;height:40px;'>";
+		HTMLStr +=3D "<DIV ID=3D'idRow2' =
+STYLE=3D'position:relative;left:250px;height:40px;'>";
+		//This following line inserted by the GSSDEV
+		HTMLStr +=3D "<DIV ID=3D'idSpace2'		=
+STYLE=3D'position:absolute;top:0px;left:0px;height:40px;vertical-align:to=
+p;overflow:hidden;background-color:#0A6CCE;'><img =
+src=3D'/library/images/support/1ptrans.gif'></DIV>"
+		HTMLStr +=3D "<DIV ID=3D'idADSBanner'   =
+STYLE=3D'position:absolute;top:0px;left:0px;height:40px;width:200px;verti=
+cal-align:top;overflow:hidden;'><!--BEG_ADS_BANNER--><!--END_ADS_BANNER--=
+></DIV>";
+		HTMLStr +=3D "<DIV ID=3D'idMSCBanner'   =
+STYLE=3D'position:absolute;top:0px;left:180px;height:40px;width:200px;ver=
+tical-align:top;overflow:hidden;' =
+ALIGN=3DRIGHT><!--BEG_MSC_BANNER--><!--END_MSC_BANNER--></DIV>";
+		HTMLStr +=3D "</DIV>";
+	}else if(RTL){
+		HTMLStr +=3D "<DIV ID=3D'idRow2' =
+STYLE=3D'position:relative;left:0;height:40px;'>" ; // RTL Correction: =
+was left:250
+		HTMLStr +=3D "<DIV ID=3D'idSpace2'		=
+STYLE=3D'position:absolute;top:0px;left:0px;height:40px;vertical-align:to=
+p;overflow:hidden;background-color:#0A6CCE;'><img =
+src=3D'/library/images/support/1ptrans.gif'></DIV>"
+		HTMLStr +=3D "<DIV ID=3D'idADSBanner'   =
+STYLE=3D'position:absolute;top:0;left:0;height:40;width:200;vertical-alig=
+n:top;overflow:hidden;'><!--BEG_ADS_BANNER--><!--END_ADS_BANNER--></DIV>"=
+;
+		HTMLStr +=3D "<DIV ID=3D'idMSCBanner'   =
+STYLE=3D'position:absolute;top:0;left:200;height:40;width:200;vertical-al=
+ign:top;overflow:hidden;' =
+ALIGN=3DLEFT><!--BEG_MSC_BANNER--><!--END_MSC_BANNER--></DIV>";
+		HTMLStr +=3D "</DIV>";
+	}=09
+	if(!RTL){
+		// for GSS purpose we disabled the idRow3. No ICP Menu bar from this =
+file.
+		HTMLStr +=3D "<DIV ID=3D'idRow3' =
+STYLE=3D'position:relative;height:20px;width:100%;display:none'>";
+		// zIndex Correction
+		HTMLStr +=3D "<DIV ID=3D'idICPMenuPane' =
+STYLE=3D'position:absolute;top:0px;left:0px;height:20px;background-color:=
+black;' NOWRAP><!--ICP_MENU_TITLES--></DIV>";
+		HTMLStr +=3D "</DIV>";
+		HTMLStr +=3D "</DIV>";
+	}else if (RTL){
+		HTMLStr +=3D "<DIV ID=3D'idRow3' =
+STYLE=3D'position:relative;height:20px;width:100%;display:none'>";
+		// RTL Correction: added: dir=3D'rtl'
+		HTMLStr +=3D "<DIV dir=3D'rtl' ID=3D'idICPMenuPane' =
+STYLE=3D'position:absolute;top:0;left:0;height:20px;color:white;backgroun=
+d-color:black;' NOWRAP><!--ICP_MENU_TITLES--></DIV>";
+		HTMLStr +=3D "</DIV>";
+		HTMLStr +=3D "</DIV>";
+		HTMLStr +=3D "<SCRIPT FOR=3DidToolbar =
+EVENT=3Donresize>resizeToolbar();</SCRIPT>";
+		HTMLStr +=3D "<SCRIPT FOR=3DidToolbar =
+EVENT=3Donmouseover>hideMenu();</SCRIPT>";
+	}
+	HTMLStr +=3D 	"<SCRIPT TYPE=3D'text/javascript'>" +=20
+		"   var ToolbarMenu =3D StartMenu;" +=20
+		"</SCRIPT>" +=20
+	"<DIV WIDTH=3D100%>";	=09
+=09
+	// Define event handlers
+	if(!RTL){
+		window.onresize  =3D resizeToolbar;
+		window.onscroll  =3D scrollbaroptions;
+	}=09
+
+	// Intialize global variables
+	ToolbarBGColor	=3D "#0A6CCE";						// toolbar background color
+=09
+	if (Strict_Compat)
+	{
+		MSFont  =3D "10px Arial";
+		ICPFont =3D "bold 10px Verdana";
+	}
+	else
+	{
+		if( !RTL ){
+			MSFont  =3D "10px Verdana";
+			ICPFont =3D "bold 10px Verdana";
+		}else if(RTL){
+			MSFont  =3D "12px Arial";	 // RTL Correction: (was Verdana)
+			ICPFont =3D "bold 12px Arial"; // RTL Correction: (was Verdana)
+			//MNP1 RTL revision
+			MSFTFont =3D "12px Arial";
+			ICPFTFont =3D "bold 12px Arial"
+			//end
+		}=09
+	}
+=09
+	aDefMSColor[0]	=3D aCurMSColor[0]  =3D "black";	// bgcolor;
+	aDefMSColor[1]	=3D aCurMSColor[1]  =3D "white";	// text font color
+	aDefMSColor[2]  =3D aCurMSColor[2]  =3D "red";		// mouseover font color
+=09
+	aDefICPColor[0]	=3D aCurICPColor[0] =3D "#0a6cce";	// bgcolor;
+	aDefICPColor[1] =3D aCurICPColor[1] =3D "white";	// text font color
+	aDefICPColor[2] =3D aCurICPColor[2] =3D "red";		// mouseover font color
+
+}
+
+// alert("Toolbar_js Initialization Done");
+
+
+// The hard-coded numbers in functions - drawToolbar() & resizeToolbar()
+// correspond to the dimension of the four gif files:
+//		ICP_BANNER: 60h x 250w
+//		ADS_BANNER: 40h x 200w
+//		MSC_BANNER: 40h x 112w
+//		Curve:	    20h x 18w
+
+function drawFooter(sLastUpdated, position)
+{
+	if(!RTL){
+		var re =3D "<!--TEMPCOLOR-->";
+		var sUpdatedDate =3D "";
+
+		if (ToolbarBGColor.toUpperCase() =3D=3D "WHITE" || =
+ToolbarBGColor.toUpperCase() =3D=3D "#FFFFFF")
+		{
+			while (FooterStr.indexOf(re) !=3D -1)
+				FooterStr =3D FooterStr.replace(re, "000000");
+		}
+		else
+		{
+			while (FooterStr.indexOf(re) !=3D -1)
+				FooterStr =3D FooterStr.replace(re, aDefICPColor[1]);
+		}
+
+		var re2 =3D "<!--TEMPCOLOR2-->";
+
+		while (FooterStr.indexOf(re2) !=3D -1)
+			FooterStr =3D FooterStr.replace(re2, aDefICPColor[2]);
+	}else if (RTL){
+			var re =3D /<!--TEMPCOLOR-->/g;
+			var sUpdatedDate =3D "";
+			if (ToolbarBGColor.toUpperCase() =3D=3D "WHITE" || =
+ToolbarBGColor.toUpperCase() =3D=3D "#FFFFFF")
+				FooterStr =3D FooterStr.replace(re, "000000");
+			else
+				FooterStr =3D FooterStr.replace(re, aDefICPColor[1]);
+			var re2 =3D /<!--TEMPCOLOR2-->/g;
+			FooterStr =3D FooterStr.replace(re2, aDefICPColor[2]);
+	}
+	sUpdatedDate =3D "<SPAN STYLE=3D'font:" + MSFont + "'>"
+
+	if (typeof sLastUpdated !=3D "undefined")
+		sUpdatedDate +=3D sLastUpdated;
+
+	sUpdatedDate +=3D "</SPAN>";=20
+
+	FooterStr =3D FooterStr.replace("<!--ICP_FOOTERDATE1_TITLES-->", =
+sUpdatedDate);
+
+	document.body.innerHTML +=3D FooterStr;
+	idFooterRow1.style.backgroundColor  =3D aDefICPColor[0];
+	idFooterRow2.style.backgroundColor  =3D ToolbarBGColor;=09
+=09
+	if (typeof sLastUpdated =3D=3D "undefined")
+		idFooter1.style.display =3D "none";
+
+	if (typeof position !=3D "undefined")
+		idPosition.width =3D position;=09
+}
+
+function drawToolbar()
+{
+	HTMLStr +=3D "</DIV>";
+	document.write(HTMLStr);
+	ToolbarLoaded =3D true;
+
+	MSMenuWidth     =3D Math.max(idMSMenuPane.offsetWidth, (200+112));
+	ToolbarMinWidth =3D (250+18) + MSMenuWidth;
+
+	idToolbar.style.backgroundColor     =3D ToolbarBGColor;
+=09
+	idMSMenuPane.style.backgroundColor  =3D aDefMSColor[0];
+	idICPMenuPane.style.backgroundColor =3D aDefICPColor[0];
+	if (RTL){
+		idMSMenuPane.style.color			=3D aDefMSColor[1];
+		idICPMenuPane.style.color			=3D aDefICPColor[1];
+	}
+	resizeToolbar();
+
+	for (i =3D 0; i < TotalMenu; i++)=20
+	{
+		thisMenu =3D document.all(arrMenuInfo[i].IDStr);
+		if (thisMenu !=3D null)
+		{
+			if (arrMenuInfo[i].IDStr =3D=3D LastMSMenu && arrMenuInfo[i].type =
+=3D=3D "R")
+			{
+				//Last MSMenu has to be absolute width
+				arrMenuInfo[i].type =3D "A";
+				arrMenuInfo[i].unit =3D 200;
+			}
+			if (arrMenuInfo[i].type =3D=3D "A")
+				if(!RTL){
+					thisMenu.style.width =3D arrMenuInfo[i].unit + 'px';
+				}else{
+					thisMenu.style.width =3D arrMenuInfo[i].unit;
+				}=09
+			else=20
+				thisMenu.style.width =3D Math.round(arrMenuInfo[i].width * =
+arrMenuInfo[i].unit) + 'em';
+		}
+	}
+}
+
+function resizeToolbar()
+{
+	scFlag =3D false;
+	scrollcount =3D 0;
+	if (ToolBar_Supported =3D=3D false) return;
+	var Center =3D document.getElementById("CenterPanel")
+	var realWidth=3D0;
+	if (Center){
+		realWidth =3D Center.clientWidth; // this was document.body.Width;
+	}else {
+		realWidth =3D document.body.clientWidth;
+	}
+
+	w =3D Math.max(ToolbarMinWidth, realWidth) - ToolbarMinWidth;
+	if ( !RTL )
+	{
+		if (document.all("idMSMenuCurve"))
+		{=09
+			idMSMenuCurve.style.left  =3D (250+(w)) + 'px';
+			idMSMenuPane.style.left   =3D (250+w+18) + 'px';
+			var SpaceWidth =3D w;
+			idSpace1.style.width =3D	SpaceWidth + 18 + 'px'; // original: =
+SpaceWidth. fengj add +18 (when window is resized too small, the =
+curve.gif color is white, +18 could fix it)
+			idSpace2.style.width =3D	Math.max(realWidth, MSMenuWidth) - =
+MSMenuWidth + 74 + 'px';
+			idSpace2.style.backgroundColor =3D ToolbarBGColor;
+			idSpace1.style.backgroundColor =3D ToolbarBGColor;
+					=09
+			idMSMenuPane.style.width  =3D MSMenuWidth  + 'px';
+			idADSBanner.style.left    =3D (w+18)  + 'px';
+			idMSCBanner.style.left    =3D (w+18)  + 'px';
+			idMSCBanner.style.width   =3D (MSMenuWidth - 126)  + 'px';
+			idICPMenuPane.style.width =3D ToolbarMinWidth + w  + 'px';
+		}
+	}
+	else if( RTL )
+	{
+		idToolbar.style.left =3D document.body.clientWidth - realWidth;
+		idToolbar.style.width=3D realWidth;
+		idMSMenuCurve.style.left  =3D MSMenuWidth;	// RTL Correction: was =
+(250+w);
+		idMSMenuPane.style.left   =3D 0;			// RTL Correction: was (250+w+18);
+		idMSMenuPane.style.width  =3D MSMenuWidth;
+		idADSBanner.style.left    =3D 112;		// RTL Correction: was (w+18);
+		idMSCBanner.style.left    =3D 0;			// RTL Correction: was (w+18+200);
+		idMSCBanner.style.width   =3D Math.max(MSMenuWidth, 200) - 200;
+		idICPMenuPane.style.width =3D ToolbarMinWidth + w;
+		idICPBanner.style.left    =3D MSMenuWidth + 18 + w; // RTL Correction: =
+line added for ICPBanner positioning
+		idSpace2.style.backgroundColor =3D ToolbarBGColor;
+		idSpace1.style.backgroundColor =3D ToolbarBGColor;
+		// start -  added by gsa
+		// idSpace1.style.width =3D (w + 18) + 'px';
+		// idSpace2.style.width =3D (w + 18 + 200) + 'px';
+		// end-  added by gsa
+	}
+}
+
+function setToolbarBGColor(color)
+{=09
+	ToolbarBGColor =3D color;
+	if (ToolbarLoaded =3D=3D true)
+		idToolbar.style.backgroundColor =3D ToolbarBGColor;
+}
+
+function setBannerColor(bannerColor, bgColor, fontColor, mouseoverColor)
+{
+	if (bannerColor.toUpperCase() !=3D "WHITE" && bannerColor.toUpperCase() =
+!=3D "FFFFFF")
+		bgColor =3D bannerColor;
+
+	setToolbarBGColor(bannerColor);
+	setDefaultICPMenuColor(bgColor, fontColor, mouseoverColor);
+}
+
+function setMSMenuFont(sFont)
+{=09
+	MSFont =3D sFont;
+}
+
+function setICPMenuFont(sFont)
+{=09
+	ICPFont =3D sFont;
+}
+
+function setDefaultMSMenuColor(bgColor, fontColor, mouseoverColor)
+{=09
+	if (bgColor   !=3D "")	  aDefMSColor[0] =3D bgColor;
+	if (fontColor !=3D "")	  aDefMSColor[1] =3D fontColor;
+	if (mouseoverColor !=3D "") aDefMSColor[2] =3D mouseoverColor;
+}
+
+function setDefaultICPMenuColor(bgColor, fontColor, mouseoverColor)
+{=09
+	if (bgColor   !=3D "")	  aDefICPColor[0] =3D bgColor;
+	if (fontColor !=3D "")	  aDefICPColor[1] =3D fontColor;
+	if (mouseoverColor !=3D "") aDefICPColor[2] =3D mouseoverColor;
+}
+
+function setICPMenuColor(MenuIDStr, bgColor, fontColor, mouseoverColor)
+{=09
+	if (ToolbarLoaded =3D=3D false) return;
+
+	// Reset previous ICP Menu color if any
+	if (CurICPMenu !=3D "")
+	{
+		PrevID =3D CurICPMenu.substring(4);
+		CurICPMenu =3D "";
+		setICPMenuColor(PrevID, aDefICPColor[0], aDefICPColor[1], =
+aDefICPColor[2]);
+	}
+
+	var	id =3D "AM_" + "ICP_" + MenuIDStr;
+	var thisMenu =3D document.all(id);
+	if (thisMenu !=3D null)
+	{
+		CurICPMenu =3D "ICP_" + MenuIDStr;
+		aCurICPColor[0] =3D bgColor;
+		aCurICPColor[1] =3D fontColor;
+		aCurICPColor[2] =3D mouseoverColor;
+
+		// Change menu color
+		if (bgColor !=3D "")
+			thisMenu.style.backgroundColor =3D bgColor;
+		if (fontColor !=3D "")
+			thisMenu.style.color =3D fontColor;
+
+		// Change subMenu color
+		id =3D "ICP_" + MenuIDStr;
+		thisMenu =3D document.all(id);
+		if (thisMenu !=3D null)
+		{
+			if (bgColor !=3D "")
+				thisMenu.style.backgroundColor =3D bgColor;
+		=09
+			if (fontColor !=3D "")
+			{
+				i =3D 0;
+				id =3D "AS_" + "ICP_" + MenuIDStr;
+				thisMenu =3D document.all.item(id,i);
+				while (thisMenu !=3D null)
+				{
+					thisMenu.style.color =3D fontColor;
+					i +=3D 1;
+					thisMenu =3D document.all.item(id,i);
+				}
+			}
+		}
+	}
+}
+
+function setAds(Gif,Url,AltStr)
+{	=
+setBanner(Gif,Url,AltStr,"<!--BEG_ADS_BANNER-->","<!--END_ADS_BANNER-->")=
+;
+}
+
+function setICPBanner(Gif,Url,AltStr)
+{=09
+
+	if(RTL){
+		if (Gif.indexOf("training_banner_training.gif") > 0){
+			Gif =3D "training_banner_training.gif";
+		}
+	}=09
+	=
+setBanner(Gif,Url,AltStr,"<!--BEG_ICP_BANNER-->","<!--END_ICP_BANNER-->")=
+;
+}
+
+function setMSBanner(Gif,Url,AltStr)
+{	tempGif =3D "/library/images/support/" + Gif;
+	=
+setBanner(tempGif,Url,AltStr,"<!--BEG_MSC_BANNER-->","<!--END_MSC_BANNER-=
+->");
+}
+
+function setBanner(BanGif, BanUrl, BanAltStr, BanBegTag, BanEndTag)
+{
+	begPos =3D HTMLStr.indexOf(BanBegTag);
+	endPos =3D HTMLStr.indexOf(BanEndTag) + BanEndTag.length;
+	SubStr =3D HTMLStr.substring(begPos, endPos);
+	SrcStr =3D "";
+	if (BanGif !=3D"")
+	{
+		if (BanUrl !=3D "")
+			SrcStr +=3D "<A Target=3D'_top' HREF=3D'" + BanUrl + "'>";
+		SrcStr +=3D "<IMG SRC=3D'" + BanGif + "' ALT=3D'" + BanAltStr + "' =
+BORDER=3D0>";
+		if (BanUrl !=3D "")
+			SrcStr +=3D "</A>";
+		SrcStr =3D BanBegTag + SrcStr + BanEndTag;
+		HTMLStr =3D HTMLStr.replace(SubStr, SrcStr);
+	}=09
+}
+
+function setICPSubMenuWidth(MenuIDStr, WidthType, WidthUnit)
+{	tempID =3D "ICP_" + MenuIDStr;
+	setSubMenuWidth(tempID, WidthType, WidthUnit);
+}
+
+function setMSSubMenuWidth(MenuIDStr, WidthType, WidthUnit)
+{	tempID =3D "MS_" + MenuIDStr;
+	setSubMenuWidth(tempID, WidthType, WidthUnit);
+}
+
+function setSubMenuWidth(MenuIDStr, WidthType, WidthUnit)
+{
+	var fFound =3D false;
+	if (TotalMenu =3D=3D MaxMenu)
+	{
+		alert("Unable to process menu. Maximum of " + MaxMenu + " reached.");
+		return;
+	}
+=09
+	for (i =3D 0; i < TotalMenu; i++)
+		if (arrMenuInfo[i].IDStr =3D=3D MenuIDStr)
+		{
+			fFound =3D true;
+			break;
+		}
+
+	if (!fFound)
+	{
+		arrMenuInfo[i] =3D new menuInfo(MenuIDStr);
+		TotalMenu +=3D 1;
+	}
+
+	if (!fFound && WidthType.toUpperCase().indexOf("DEFAULT") !=3D -1)
+	{
+		arrMenuInfo[i].type =3D "A";
+		arrMenuInfo[i].unit =3D 160;
+	}
+	else
+	{
+		arrMenuInfo[i].type =3D (WidthType.toUpperCase().indexOf("ABSOLUTE") =
+!=3D -1)? "A" : "R";
+		arrMenuInfo[i].unit =3D WidthUnit;
+	}
+}
+
+// This function creates a menuInfo object instance.
+function menuInfo(MenuIDStr)
+{
+	this.IDStr =3D MenuIDStr;
+	this.type  =3D "";
+	this.unit  =3D 0;
+	this.width =3D 0;
+	this.count =3D 0;
+}
+
+function updateSubMenuWidth(MenuIDStr)
+{
+	for (i =3D 0; i < TotalMenu; i++)
+		if (arrMenuInfo[i].IDStr =3D=3D MenuIDStr)
+		{
+			if (arrMenuInfo[i].width < MenuIDStr.length)=20
+				arrMenuInfo[i].width =3D MenuIDStr.length;
+			arrMenuInfo[i].count =3D arrMenuInfo[i].count + 1;
+			break;
+		}
+}
+
+function addICPMenu(MenuIDStr, MenuDisplayStr, MenuHelpStr, MenuURLStr)
+{ =09
+	if(RTL){
+		if (LastICPMenu =3D=3D "") HTMLStr =3D =
+HTMLStr.replace("<!--ICP_MENU_TITLES-->", TBLStr);
+	}=09
+
+	if (addICPMenu.arguments.length > 4)
+		TargetStr =3D addICPMenu.arguments[4];
+	else
+		TargetStr =3D "_top";
+	tempID =3D "ICP_" + MenuIDStr;
+	addMenu(tempID, MenuDisplayStr, MenuHelpStr, MenuURLStr, TargetStr, =
+true);=20
+	if (RTL){
+		LastICPMenu =3D tempID;
+	}else{
+		bFstICPTBMenu=3Dfalse;	=09
+	}
+}
+
+function addMSMenu(MenuIDStr, MenuDisplayStr, MenuHelpStr, MenuURLStr)
+{
+	TargetStr =3D "_top";
+	tempID =3D "MS_" + MenuIDStr;
+	//alert(" TempID: " + tempID +  " MenuDisplayString: " + MenuDisplayStr =
++ " Menu Help String :" + MenuHelpStr + " MenuUrl:" + MenuURLStr + " =
+Target:" + TargetStr);
+	addMenu(tempID, MenuDisplayStr, MenuHelpStr, MenuURLStr, TargetStr, =
+false);=20
+	LastMSMenu =3D tempID;
+}
+
+function addMenu(MenuIDStr, MenuDisplayStr, MenuHelpStr, MenuURLStr, =
+TargetStr, bICPMenu)
+{
+	cFont   =3D bICPMenu? ICPFont : MSFont;
+	cColor0 =3D bICPMenu? aDefICPColor[0] : aDefMSColor[0];
+	cColor1 =3D bICPMenu? aDefICPColor[1] : aDefMSColor[1];
+	cColor2 =3D bICPMenu? aDefICPColor[2] : aDefMSColor[2];
+	if (RTL){
+		cStyle  =3D "font:" + cFont + ";background-color:" + cColor0 + =
+";color:" + cColor1 + ";";
+		if (MenuHelpStr =3D=3D "") MenuHelpStr =3D MenuDisplayStr; // Shailr. =
+This line should have been before the line MenuStr =3D newLineChar; but =
+I am tryig to avoid another if..else
+	}
+	tagStr  =3D bICPMenu? "<!--ICP_MENU_TITLES-->" : =
+"<!--MS_MENU_TITLES-->";
+=09
+	MenuStr =3D newLineChar;
+	if (!RTL){
+		if ((bICPMenu =3D=3D false && LastMSMenu !=3D "") || (bICPMenu =3D=3D =
+true && bFstICPTBMenu=3D=3Dfalse))
+			MenuStr +=3D "<SPAN STYLE=3D'font:" + cFont + ";color:" + cColor1 + =
+"'>|&nbsp;</SPAN>";=20
+		MenuStr +=3D "<A TARGET=3D'" + TargetStr + "' TITLE=3D'" + MenuHelpStr =
++ "'" +
+				"   ID=3D'AM_" + MenuIDStr + "'" +
+				"   STYLE=3D'text-decoration:none;cursor:hand;font:" + cFont + =
+";background-color:" + cColor0 + ";color:" + cColor1 + ";'";
+		if (MenuURLStr !=3D "")
+		{
+			if (bICPMenu)
+				MenuStr +=3D " HREF=3D'" + formatURL(MenuURLStr, ("ICP_" + =
+MenuDisplayStr)) + "'";
+			else
+				MenuStr +=3D " HREF=3D'" + formatURL(MenuURLStr, ("MS_" + =
+MenuDisplayStr)) + "'";
+		}
+		else
+			MenuStr +=3D " HREF=3D'' =
+onclick=3D'window.event.returnValue=3Dfalse;'";
+		MenuStr +=3D 	" onmouseout=3D"  + char34 + "mouseMenu('out' ,'" + =
+MenuIDStr + "'); hideMenu();" + char34 +=20
+					" onmouseover=3D" + char34 + "mouseMenu('over','" + MenuIDStr + =
+"'); doMenu('"+ MenuIDStr + "');" + char34 + ">" +
+					"&nbsp;" + MenuDisplayStr + "&nbsp;</a>";
+		MenuStr +=3D tagStr;
+	}
+	if ( RTL ){
+			if (bICPMenu)=20
+			MenuStr +=3D "<TD STYLE=3D'" + cStyle + "' ID=3D'AM_" + MenuIDStr + =
+"' NOWRAP>";
+			else{
+				// RTL Correction: added: dir=3D'rtl' (for MSMenu)
+				MenuStr +=3D "<SPAN dir=3D'rtl' STYLE=3D'" + cStyle + "'>";
+				if (LastMSMenu !=3D "") MenuStr +=3D "|";=20
+				MenuStr +=3D "&nbsp;";
+			}
+		MenuStr +=3D "<A STYLE=3D'text-decoration:none;cursor:hand;font:" + =
+cFont + ";color:" + cColor1 + ";'" +
+			   "   TARGET=3D'" + TargetStr + "'" +
+			   "   TITLE=3D" + char34 + MenuHelpStr + char34;
+		if (MenuURLStr !=3D "")
+			MenuStr +=3D " HREF=3D'" + formatURL(MenuURLStr, ((bICPMenu? =
+"ICP_":"MS_") + MenuDisplayStr)) + "'";
+		else
+			MenuStr +=3D " HREF=3D'' =
+onclick=3D'window.event.returnValue=3Dfalse;'";
+		MenuStr +=3D " onmouseout=3D"  + char34 + "mouseMenu('out' ,'" + =
+MenuIDStr + "'); hideMenu();" + char34 +=20
+				" onmouseover=3D" + char34 + "mouseMenu('over','" + MenuIDStr + "'); =
+doMenu('"+ MenuIDStr + "');" + char34 + ">" +
+				"&nbsp;" + MenuDisplayStr + "&nbsp;</a>";
+		if (bICPMenu)=20
+			MenuStr +=3D "&nbsp;</TD><TD STYLE=3D'" + cStyle + "'>|</TD>";
+		else
+			MenuStr +=3D "</SPAN>";
+			MenuStr +=3D tagStr;
+	}
+	HTMLStr =3D HTMLStr.replace(tagStr, MenuStr);=09
+	setSubMenuWidth(MenuIDStr,"default",0);
+}
+
+function addICPSubMenu(MenuIDStr, SubMenuStr, SubMenuURLStr)
+{=09
+	if (addICPSubMenu.arguments.length > 3)
+		TargetStr =3D addICPSubMenu.arguments[3];
+	else
+		TargetStr =3D "_top";
+	tempID =3D "ICP_" + MenuIDStr;
+	addSubMenu(tempID,SubMenuStr,SubMenuURLStr,TargetStr,true);=20
+}
+
+function addMSSubMenu(MenuIDStr, SubMenuStr, SubMenuURLStr)
+{=09
+	TargetStr =3D "_top";
+	tempID =3D "MS_" + MenuIDStr;
+	//alert("TempID: " + tempID + "\nSubMenuStr: " + SubMenuStr + "\n =
+SubMenuURLStr: " + SubMenuURLStr + "\n TargetStr: " + TargetStr);
+	addSubMenu(tempID,SubMenuStr,SubMenuURLStr,TargetStr,false);=20
+}
+
+function addSubMenu(MenuIDStr, SubMenuStr, SubMenuURLStr, TargetStr, =
+bICPMenu)
+{
+	cFont   =3D bICPMenu? ICPFont : MSFont;
+	cColor0 =3D bICPMenu? aDefICPColor[0] : aDefMSColor[0];
+	cColor1 =3D bICPMenu? aDefICPColor[1] : aDefMSColor[1];
+	cColor2 =3D bICPMenu? aDefICPColor[2] : aDefMSColor[2];
+=09
+	var MenuPos =3D MenuIDStr.toUpperCase().indexOf("MENU");
+	if (MenuPos =3D=3D -1) { MenuPos =3D MenuIDStr.length; }
+	InstrumentStr =3D MenuIDStr.substring(0 , MenuPos) + "|" + SubMenuStr;
+	URLStr        =3D formatURL(SubMenuURLStr, InstrumentStr);
+
+	var LookUpTag  =3D "<!--" + MenuIDStr + "-->";
+	var sPos =3D HTMLStr.indexOf(LookUpTag);
+	if (sPos <=3D 0)
+	{
+		HTMLStr +=3D newLineChar + newLineChar +
+		"<SPAN ID=3D'" + MenuIDStr + "'";
+		if (!RTL){
+			HTMLStr +=3D 	" =
+STYLE=3D'display:none;position:absolute;width:160px;background-color:" + =
+cColor0 + =
+";padding-top:0px;padding-left:0px;padding-bottom:20px;z-index:9px;'";
+		}else if (RTL){
+			HTMLStr +=3D 	" =
+STYLE=3D'display:none;position:absolute;width:160;background-color:" + =
+cColor0 + ";padding-top:0;padding-left:0;padding-bottom:20;z-index:9;'";
+		}
+		HTMLStr +=3D "onmouseout=3D'hideMenu();'>";	=09
+		if (Frame_Supported =3D=3D false || bICPMenu =3D=3D false)
+		if (!RTL){
+			HTMLStr +=3D "<HR  =
+STYLE=3D'position:absolute;left:0px;top:0px;color:" + cColor1 + "' =
+SIZE=3D1>";
+			HTMLStr +=3D "<DIV STYLE=3D'position:relative;left:0px;top:8px;'>";
+		} else if (RTL){
+			HTMLStr +=3D "<HR  STYLE=3D'position:absolute;left:0;top:0;color:" + =
+cColor1 + "' SIZE=3D1>";
+			HTMLStr +=3D "<DIV STYLE=3D'right:0;top:8;' dir=3D'rtl'>";
+		}=09
+	}
+
+	TempStr =3D newLineChar +
+				"<A ID=3D'AS_" + MenuIDStr + "'" +
+				"   STYLE=3D'text-decoration:none;cursor:hand;font:" + cFont + =
+";color:" + cColor1 + "'" +
+				"   HREF=3D'" + URLStr + "' TARGET=3D'" + TargetStr + "'" +
+				" onmouseout=3D"  + char34 + "mouseMenu('out' ,'" + MenuIDStr + =
+"');" + char34 +=20
+				" onmouseover=3D" + char34 + "mouseMenu('over','" + MenuIDStr + =
+"');" + char34 + ">" +
+				"&nbsp;" + SubMenuStr + "</A><BR>" + LookUpTag;
+	if (sPos <=3D 0)
+		HTMLStr +=3D TempStr + "</DIV></SPAN>";
+	else
+		HTMLStr =3D HTMLStr.replace(LookUpTag, TempStr);=09
+
+	updateSubMenuWidth(MenuIDStr);=09
+}
+
+function addICPSubMenuLine(MenuIDStr)
+{=09
+	tempID =3D "ICP_" + MenuIDStr;
+	addSubMenuLine(tempID,true);
+}
+
+function addMSSubMenuLine(MenuIDStr)
+{=09
+	tempID =3D "MS_" + MenuIDStr;
+	addSubMenuLine(tempID,false);
+}
+
+function addSubMenuLine(MenuIDStr, bICPMenu)
+{
+	var LookUpTag =3D "<!--" + MenuIDStr + "-->";
+	var sPos =3D HTMLStr.indexOf(LookUpTag);
+	if (sPos > 0)
+	{
+		cColor  =3D bICPMenu? aDefICPColor[1] : aDefMSColor[1];
+		TempStr =3D newLineChar + "<HR STYLE=3D'color:" + cColor + "' =
+SIZE=3D1>" + LookUpTag;
+		HTMLStr =3D HTMLStr.replace(LookUpTag, TempStr);
+	}
+}
+
+function addMSFooterMenu(MenuDisplayStr, MenuURLStr)
+{
+	addFooterMenu(MenuDisplayStr, MenuURLStr, false)
+}
+
+function addICPFooterMenu(MenuDisplayStr, MenuURLStr)
+{
+	addFooterMenu(MenuDisplayStr, MenuURLStr, true)
+	bFstICPFTMenu =3D false;
+}
+
+function addFooterMenu(MenuDisplayStr, MenuURLStr, bICPMenu)
+{
+	cFont   =3D bICPMenu? ICPFont : MSFont;
+	cColor1 =3D aDefICPColor[1];
+	cColor2 =3D aDefICPColor[2];
+
+	tagStr  =3D bICPMenu? "<!--ICP_FOOTERMENU_TITLES-->" : =
+"<!--MS_FOOTERMENU_TITLES-->";
+
+	MenuStr =3D "";
+
+	if ((bICPMenu) && bFstICPFTMenu =3D=3D false)
+		MenuStr +=3D "<SPAN STYLE=3D'font:" + cFont + ";color:" + cColor1 + =
+"'>&nbsp;|</SPAN>";
+
+	if ((bICPMenu =3D=3D false) && (MenuURLStr =3D=3D ''))
+		MenuStr +=3D "<SPAN STYLE=3D'font:" + cFont + =
+";color:<!--TEMPCOLOR-->'>&nbsp;" + MenuDisplayStr + "&nbsp;</SPAN>";
+	else
+	{
+		MenuStr +=3D "&nbsp;<A TARGET=3D'_top' STYLE=3D'";
+		if (bICPMenu)
+			MenuStr +=3D "text-decoration:none;";
+		MenuStr +=3D "cursor:hand;font:" + cFont + ";"=20
+	=09
+		if (bICPMenu)
+			MenuStr +=3D "color:" + cColor1 + ";'";
+		else
+			MenuStr +=3D "color:<!--TEMPCOLOR-->" + ";'";
+
+		MenuStr +=3D " HREF=3D'" + MenuURLStr + "'";
+=09
+		MenuStr +=3D 	" onmouseout=3D" + char34 + "this.style.color =3D '";
+
+		if (bICPMenu)=20
+			MenuStr +=3D cColor1;
+		else
+			MenuStr +=3D "<!--TEMPCOLOR-->";
+		MenuStr +=3D "'" + char34 + " onmouseover=3D" + char34 + =
+"this.style.color =3D '"
+	=09
+		if (bICPMenu)
+			MenuStr +=3D cColor2
+		else
+			MenuStr +=3D "<!--TEMPCOLOR2-->";
+
+		MenuStr +=3D "'" + char34 + ">" + MenuDisplayStr + "</A>&nbsp;";=09
+	}
+
+	MenuStr +=3D tagStr;
+=09
+	FooterStr =3D FooterStr.replace(tagStr, MenuStr);=09
+}
+
+function mouseMenu(id, MenuIDStr)=20
+{
+	IsMSMenu   =3D (MenuIDStr.toUpperCase().indexOf("MS_") !=3D -1);
+	IsMouseout =3D (id.toUpperCase().indexOf("OUT") !=3D -1);
+
+	if (IsMouseout)
+	{
+		color =3D IsMSMenu? aDefMSColor[1] : aDefICPColor[1];
+		if (MenuIDStr =3D=3D CurICPMenu && aCurICPColor[1] !=3D "")=20
+			color =3D aCurICPColor[1];
+	}
+	else
+	{
+		color =3D IsMSMenu? aDefMSColor[2] : aDefICPColor[2];
+		if (MenuIDStr =3D=3D CurICPMenu && aCurICPColor[2] !=3D "")=20
+			color =3D aCurICPColor[2];
+	}
+	window.event.srcElement.style.color =3D color;
+}
+
+function doMenu(MenuIDStr)=20
+{
+	var thisMenu =3D document.all(MenuIDStr);
+	if (ToolbarMenu =3D=3D null || thisMenu =3D=3D null || thisMenu =3D=3D =
+ToolbarMenu)=20
+	{
+		window.event.cancelBubble =3D true;
+		return false;
+	}
+	// Reset dropdown menu
+	window.event.cancelBubble =3D true;
+	ToolbarMenu.style.display =3D "none";
+	showElement("SELECT");
+	showElement("OBJECT");
+	ToolbarMenu =3D thisMenu;
+	IsMSMenu =3D (MenuIDStr.toUpperCase().indexOf("MS_") !=3D -1);
+
+	// Set dropdown menu display position
+	x  =3D window.event.srcElement.offsetLeft +
+	 	 window.event.srcElement.offsetParent.offsetLeft;
+	if (RTL){
+		// RTL correction:
+		var ICPstart =3D 0;
+		if (!IsMSMenu)
+		{
+			if (isIE5)
+				ICPstart =3D =
+window.event.srcElement.offsetParent.offsetParent.offsetLeft;
+			else // for IE4 we must use...
+				ICPstart =3D =
+window.event.srcElement.offsetParent.offsetParent.offsetParent.offsetPare=
+nt.offsetWidth -
+					window.event.srcElement.offsetParent.offsetParent.offsetWidth;
+			x +=3D ICPstart;
+		}
+		x -=3D thisMenu.style.posWidth;
+		x +=3D IsMSMenu ? 8 : -2;
+		if (x < 0) x =3D 0;
+		// End of RTL Correction
+=09
+	} 	=20
+	if (MenuIDStr =3D=3D LastMSMenu){=20
+		if (!RTL){
+			x +=3D (window.event.srcElement.offsetWidth - =
+thisMenu.style.posWidth);
+		}else if (RTL){
+			if (x < 0) x =3D 0;
+		}=09
+	}
+	x2 =3D x + window.event.srcElement.offsetWidth;
+	y  =3D (IsMSMenu)?=20
+		 (idRow1.offsetHeight) :
+		 (idRow1.offsetHeight + idRow2.offsetHeight + idRow3.offsetHeight);
+	if (RTL){
+			// Get main menu width
+			// RTL Correction:
+		if (IsMSMenu)
+			x2 =3D window.event.srcElement.offsetLeft - =
+window.event.srcElement.offsetWidth;
+		else
+			x2 =3D window.event.srcElement.offsetParent.offsetLeft + ICPstart;
+		// End of RTL Correction.
+		// Get dropdown menu width
+		x3 =3D x + 160;
+		for (i =3D 0; i < TotalMenu; i++){
+			if (arrMenuInfo[i].IDStr =3D=3D MenuIDStr)
+			{
+				x3 =3D x+ arrMenuInfo[i].unit;
+				break;
+			}
+		}
+=09
+	}	=20
+		=20
+	thisMenu.style.top  =3D y;
+	thisMenu.style.left =3D x;
+	thisMenu.style.clip =3D "rect(0 0 0 0)";
+	thisMenu.style.display =3D "block";
+	thisMenu.style.zIndex =3D 102;
+
+	// delay 2 millsecond to allow the value of ToolbarMenu.offsetHeight be =
+set
+	window.setTimeout("showMenu()", 2);
+	return true;
+}
+
+function showMenu()=20
+{
+	if (ToolbarMenu !=3D null)=20
+	{=20
+		IsMenuDropDown =3D (Frame_Supported && IsMSMenu =3D=3D false)? false : =
+true;
+		if (IsMenuDropDown =3D=3D false)
+		{
+			y =3D (y - ToolbarMenu.offsetHeight - idRow3.offsetHeight);
+			if (y < 0) y =3D 0;
+			ToolbarMenu.style.top =3D y;
+		}
+		y2 =3D y + ToolbarMenu.offsetHeight;
+
+		ToolbarMenu.style.clip =3D "rect(auto auto auto auto)";
+		hideElement("SELECT");
+		hideElement("OBJECT");
+		if (!RTL)
+			x2 =3D x + ToolbarMenu.offsetWidth;
+			hideElement("IFRAME");  //FRANKLO
+	}
+}
+
+
+function hideMenu()
+{
+	if (ToolbarMenu !=3D null && ToolbarMenu !=3D StartMenu)=20
+	{
+		// Don't hide the menu if the mouse move between the menu and submenus
+
+		if (!RTL){
+			cY =3D event.clientY + document.body.scrollTop;
+			cX =3D event.clientX;=20
+			//window.status =3D " flag: " + scFlag + " Count: " + scrollcount + " =
+cx: " + cX + " x: " + x + " x2: " + x2 + " offset: " + =
+document.body.scrollWidth;
+			//window.status =3D "CY: " + cY + " Y: " + y + " Y2: " + y2 + " =
+offTop: " + document.body.scrollTop	;
+			//window.status =3D ToolbarMenu.style.zIndex;
+			if (document.body.offsetWidth > x && scFlag) {
+				cX =3D x + 9;
+			}
+			if ( (cX >=3D (x+5) && cX<=3Dx2) &&
+			 ((IsMenuDropDown =3D=3D true  && cY > (y-10) && cY <=3D y2)      ||
+			  (IsMenuDropDown =3D=3D false && cY >=3D y     && cY <=3D (y2+10)) =
+))
+			{
+				window.event.cancelBubble =3D true;
+				return;=20
+			}
+		}else if(RTL){
+			var cX =3D event.clientX //+ document.body.scrollLeft;
+			// RTL correction: considers left scrollbar width!
+			if (isRTL) cX -=3D 16;
+			var cY =3D event.clientY + document.body.scrollTop;
+			var bHideMenu =3D true;
+			//window.status =3D "CX: " + cX + " X: " + x + "x3: " + x3 + =
+"TBLOFFSET: " + document.body.scrollLeft + "x2: " + x2 + "Cy: " + cY + " =
+Y: " + y + "idrow: " +idRow3.offsetHeight ;
+			if (cX > document.body.scrollLeft && document.body.scrollLeft > 1){
+				cX =3D x3;	//x + 9;
+			}
+			if (IsMenuDropDown =3D=3D true)
+			{// RTL Correction: cY-8 instead of cY
+				if ( cY-8 >=3D (y - idRow2.offsetHeight) && cY < y) // Another RTL =
+Correction: idRow2 instead of idRow3 since hidden
+				{// RTL Correction: [x,x2] --> [x2,x3]
+					if (cX >=3D (x2+5) && cX <=3D x3) bHideMenu =3D false;
+				}
+				else if (cY >=3D y && cY <=3D y2)
+				{
+					if (cX > (x+5) && cX <=3D x3) bHideMenu =3D false;
+				}
+			}
+			else
+			{
+				if (cY >=3D y2 && cY < (y2 + idRow3.offsetHeight))
+				{// RTL Correction: [x,x2] --> [x2,x3]
+					if (cX >=3D (x2+5) && cX <=3D x3) bHideMenu =3D false;
+				}
+				else if (cY >=3D y && cY <=3D y2)
+				{
+					if (cX > (x+5) && cX <=3D x3) bHideMenu =3D false;
+				}
+			}
+
+			if (! bHideMenu)=20
+			{
+				window.event.cancelBubble =3D true;
+				return;=20
+			}
+		}=09
+
+		ToolbarMenu.style.display =3D "none";
+		ToolbarMenu =3D StartMenu;
+		window.event.cancelBubble =3D true;
+
+		showElement("SELECT");
+		showElement("OBJECT");
+		if(!RTL){
+			showElement("IFRAME"); //FRANKLO
+		}=09
+	}
+}
+
+function hideElement(elmID)
+{
+	for (i =3D 0; i < document.all.tags(elmID).length; i++)
+	{
+		obj =3D document.all.tags(elmID)[i];
+		if (! obj || ! obj.offsetParent)
+			continue;
+
+		// Find the element's offsetTop and offsetLeft relative to the BODY =
+tag.
+		objLeft   =3D obj.offsetLeft;
+		objTop    =3D obj.offsetTop;
+		objParent =3D obj.offsetParent;
+		while (objParent.tagName.toUpperCase() !=3D "BODY")
+		{
+			objLeft  +=3D objParent.offsetLeft;
+			objTop   +=3D objParent.offsetTop;
+			objParent =3D objParent.offsetParent;
+		}
+		// Adjust the element's offsetTop relative to the dropdown menu
+		objTop =3D objTop - y;
+
+		if (x > (objLeft + obj.offsetWidth) || objLeft > (x + =
+ToolbarMenu.offsetWidth))
+			;
+		else if (objTop > ToolbarMenu.offsetHeight)
+			;
+		else if (IsMSMenu && (y + ToolbarMenu.offsetHeight) <=3D 80)
+			;
+		else
+			obj.style.visibility =3D "hidden";
+	}
+}
+
+function showElement(elmID)
+{
+	for (i =3D 0; i < document.all.tags(elmID).length; i++)
+	{
+		obj =3D document.all.tags(elmID)[i];
+		if (! obj || ! obj.offsetParent)
+			continue;
+		obj.style.visibility =3D "";
+	}
+}
+
+function formatURL(URLStr, InstrumentStr)
+{
+	var tempStr =3D URLStr;
+
+	if (DoInstrumentation && URLStr !=3D "" )
+	{
+		var ParamPos1 =3D URLStr.indexOf("?");
+		var ParamPos2 =3D URLStr.lastIndexOf("?");
+		var ParamPos3 =3D URLStr.toLowerCase().indexOf("target=3D");
+		var ParamPos4 =3D URLStr.indexOf("#");
+		var Bookmark  =3D "";
+		var URL =3D URLStr;
+		if (ParamPos4 >=3D 0)
+		{
+		 	URL =3D URLStr.substr(0, ParamPos4);
+			Bookmark =3D URLStr.substr(ParamPos4);
+		}
+	=09
+		if (ParamPos1 =3D=3D -1)
+			tempStr =3D "?MSCOMTB=3D";
+		else if (ParamPos1 =3D=3D ParamPos2 && ParamPos3 =3D=3D -1)=09
+			tempStr =3D "&MSCOMTB=3D";
+		else if (ParamPos1 =3D=3D ParamPos2 && ParamPos3 !=3D -1)=09
+			tempStr =3D "?MSCOMTB=3D";
+		else if (ParamPos1 < ParamPos2)
+			tempStr =3D "&MSCOMTB=3D";
+
+		tempStr =3D URL + tempStr + InstrumentStr.replace(" ","%20") + =
+Bookmark;
+	}
+	return tempStr;
+}
+
+function prepTrackingString(ts, type)
+{
+	var rArray;
+	var rString;
+	var pName =3D '';
+	if (0 =3D=3D type)
+	{
+		pName =3D 'p=3D';
+		rString =3D ts.substring(1);
+		rArray =3D rString.split('/');
+	}
+	if (1 =3D=3D type)
+	{
+		pName =3D 'qs=3D';
+		rString =3D ts.substring(1);
+		rArray =3D rString.split('&');	=09
+	}
+	if (2 =3D=3D type)
+	{
+		pName =3D 'f=3D';
+		rString =3D escape(ts);
+		return pName + rString;
+	}
+	if (3 =3D=3D type)
+	{
+		pName =3D 'tPage=3D';
+		rString =3D escape(ts);
+		return pName+rString;
+	}
+	if (4 =3D=3D type)
+	{
+		pName =3D 'sPage=3D';
+		rString =3D escape(ts);
+		return pName + rString;
+	}
+	if (5 =3D=3D type)
+	{
+		pName =3D 'r=3D';
+		rString =3D escape(ts);
+		return pName + rString;
+	}
+	if (6 =3D=3D type)
+	{
+		pName =3D 'MSID=3D';
+		rString =3D escape(ts);
+		return pName + rString;
+	}
+	if (7 =3D=3D type)
+	{
+		pName =3D 'source=3D';
+		rString =3D ts.toLowerCase();
+		if(rString.indexOf("microsoft.com") !=3D -1)
+		{
+			rString =3D rString.substring(0,rString.indexOf("microsoft.com"));
+			if('' =3D=3D rString)
+			{
+				rString =3D "www";
+			}=09
+			else
+			{
+				rString =3D rString.substring(0,rString.length -1);
+			}
+		}
+		return pName + rString;
+	}
+	if (8 =3D=3D type)
+	{
+		pName =3D 'TYPE=3D';
+		rString =3D escape(ts);
+		return pName + rString;
+	}
+	rString =3D '';
+	if(null !=3D rArray)
+	{
+		if(0 =3D=3D type)
+		{
+			for( j=3D0; j < rArray.length - 1; j++)
+			{=09
+				rString +=3D rArray[j] + '_'; =20
+			}=20
+		}
+		else
+		{
+			for( j=3D0; j < rArray.length  ; j++)
+			{
+				rString +=3D rArray[j] + '_'; =20
+			}=20
+		}
+	}
+	rString =3D rString.substring(0, rString.length - 1);  	 =09
+	return pName + rString;
+}
+
+
+function setToolbarLocale(toolbarLocale)
+{
+	//document.writeln("<" + "script language=3D'JavaScript' =
+src=3D'/libary/toolbar/loc/global-" + toolbarLocale + ".js' =
+type=3D'text/javascript'></" + "script>");
+	document.writeln("<" + "script language=3D'JavaScript' =
+src=3D'../loc/global-" + toolbarLocale + ".js' =
+type=3D'text/javascript'></" + "script>");
+	return;
+}
+function scrollbaroptions(){
+scrollcount ++;
+if ( scrollcount < 3  )
+	{
+		scFlag =3D true;
+	}else{
+		scrollcount =3D 0;
+		scFlag =3D false;
+	}=09
+}
+
+
+------=_NextPart_000_000D_01C4424D.A232CDD0--
